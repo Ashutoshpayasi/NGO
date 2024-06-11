@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Contact || Oxpins || Oxpins HTML 5 Template </title>
+    <title> Contact- Veer Nari Shakti Resettlement </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -60,19 +60,20 @@
         <?php include 'includes/header.php' ?>
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
-            </div>
-            <div class="container">
-                <div class="page-header__inner">
-                    <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.php">Home</a></li>
-                        <li><span>/</span></li>
-                        <li class="active">Contact</li>
-                    </ul>
-                    <h2>Contact us</h2>
-                </div>
-            </div>
-        </section>
+    <div class="page-header-bg" style="background-image: url('/assets/images/army logo/SLIDE-FOR-PRESENTATION-1-768x439.jpg')">
+    </div>
+    <div class="container">
+        <div class="page-header__inner">
+            <ul class="thm-breadcrumb list-unstyled">
+                <li><a href="index.php">Home</a></li>
+                <li><span>/</span></li>
+                <li class="active">Contact</li>
+            </ul>
+            <h2>Contact us</h2>
+        </div>
+    </div>
+</section>
+
         <!--Page Header End-->
 
         <!--Contact Three Start-->
@@ -136,7 +137,7 @@
                             </div>
                             <div class="contact-one__content">
                                 <p class="contact-one__sub-title">Helpline</p>
-                                <h3 class="contact-one__number"><a href="tel:980009630">+ 98 (000) - 9630</a></h3>
+                                <h3 class="contact-one__number"><a href="tel:+91 9821 022 008"> +91 9821 022 008</a></h3>
                             </div>
                         </li>
                         <li class="contact-one__single">
@@ -146,7 +147,7 @@
                             <div class="contact-one__content">
                                 <p class="contact-one__sub-title">Send email</p>
                                 <h3 class="contact-one__number"><a
-                                        href="mailto:needhelp@company.com">needhelp@company.com</a></h3>
+                                        href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a></h3>
                             </div>
                         </li>
                         <li class="contact-one__single">
@@ -154,8 +155,8 @@
                                 <span class="icon-location"></span>
                             </div>
                             <div class="contact-one__content">
-                                <p class="contact-one__sub-title">380 St Kilda Road</p>
-                                <h3 class="contact-one__number">Melbourne, Australia</h3>
+                                <p class="contact-one__sub-title">1-63,CGHS Society Vikaspuri</p>
+                                <h3 class="contact-one__number">Janakpuri,Delhi</h3>
                             </div>
                         </li>
                     </ul>
@@ -167,7 +168,7 @@
         <!--Google Map Start-->
         <section class="google-map google-map-two">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
+                src="https://maps.google.com/maps?q=11-63%2C%20CGHS%20Society%2C%20opp.%20Janakpuri%20District%20Centre%2C%20Vikaspuri%2C%20New%20Delhi&amp;t=m&amp;z=14&amp;output=embed&amp;iwloc=near" title="11-63, CGHS Society, opp. Janakpuri District Centre, Vikaspuri, New Delhi" aria-label="11-63, CGHS Society, opp. Janakpuri District Centre, Vikaspuri, New Delhi"
                 class="google-map__one" allowfullscreen></iframe>
 
         </section>
@@ -181,61 +182,61 @@
     </div><!-- /.page-wrapper -->
 
 
-    <div class="mobile-nav__wrapper">
-        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-        <!-- /.mobile-nav__overlay -->
-        <div class="mobile-nav__content">
-            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+  
+<div class="mobile-nav__wrapper">
+    <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+    <!-- /.mobile-nav__overlay -->
+    <div class="mobile-nav__content">
+        <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
-            <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143"
-                        alt="" /></a>
-            </div>
-            <!-- /.logo-box -->
-            <div class="mobile-nav__container"></div>
-            <!-- /.mobile-nav__container -->
-
-            <ul class="mobile-nav__contact list-unstyled">
-                <li>
-                    <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@oxpins.com</a>
-                </li>
-                <li>
-                    <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
-                </li>
-            </ul><!-- /.mobile-nav__contact -->
-            <div class="mobile-nav__top">
-                <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-twitter"></a>
-                    <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-pinterest-p"></a>
-                    <a href="#" class="fab fa-instagram"></a>
-                </div><!-- /.mobile-nav__social -->
-            </div><!-- /.mobile-nav__top -->
-
-
+        <div class="logo-box">
+            <a href="index.php" aria-label="logo image"><img src="assets/images/logo/vnslogo.png" height="143" alt="" /></a>
 
         </div>
-        <!-- /.mobile-nav__content -->
-    </div>
-    <!-- /.mobile-nav__wrapper -->
+        <!-- /.logo-box -->
+        <div class="mobile-nav__container"></div>
+        <!-- /.mobile-nav__container -->
 
-    <div class="search-popup">
-        <div class="search-popup__overlay search-toggler"></div>
-        <!-- /.search-popup__overlay -->
-        <div class="search-popup__content">
-            <form action="#">
-                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
-                <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="thm-btn">
-                    <i class="icon-magnifying-glass"></i>
-                </button>
-            </form>
-        </div>
-        <!-- /.search-popup__content -->
+        <ul class="mobile-nav__contact list-unstyled">
+            <li>
+                <i class="fa fa-envelope"></i>
+                <a href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a>
+            </li>
+            <li>
+                <i class="fa fa-phone-alt"></i>
+                <a href="tel:+91 9821 022 008">+91 9821 022 008</a>
+            </li>
+        </ul><!-- /.mobile-nav__contact -->
+        <div class="mobile-nav__top">
+            <div class="mobile-nav__social">
+                <a href="#" class="fab fa-twitter"></a>
+                <a href="#" class="fab fa-facebook-square"></a>
+                <a href="#" class="fab fa-pinterest-p"></a>
+                <a href="#" class="fab fa-instagram"></a>
+            </div><!-- /.mobile-nav__social -->
+        </div><!-- /.mobile-nav__top -->
+
+
+
     </div>
-    <!-- /.search-popup -->
+    <!-- /.mobile-nav__content -->
+</div>
+<!-- /.mobile-nav__wrapper -->
+
+<div class="search-popup">
+    <div class="search-popup__overlay search-toggler"></div>
+    <!-- /.search-popup__overlay -->
+    <div class="search-popup__content">
+        <form action="#">
+            <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
+            <input type="text" id="search" placeholder="Search Here..." />
+            <button type="submit" aria-label="search submit" class="thm-btn">
+                <i class="icon-magnifying-glass"></i>
+            </button>
+        </form>
+    </div>
+    <!-- /.search-popup__content -->
+</div>    <!-- /.search-popup -->
 
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-up-arrow"></i></a>
 

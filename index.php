@@ -9,7 +9,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Home One || Oxpins || Oxpins HTML 5 Template </title>
+    <title> Veer Nari Shakti-Resettlement </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -429,6 +429,128 @@
 
         <!--Feature One End-->
 
+
+        <!--Testimonial Two Start-->
+        <section class="testimonial-two">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">Our testimonials</span>
+                    <h2 class="section-title__title">What People's talking <br> about Veer Nari Shakti  </h2>
+                </div>
+                <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
+                    "loop": true,
+                    "autoplay": true,
+                    "margin": 30,
+                    "nav": false,
+                    "dots": false,
+                    "smartSpeed": 500,
+                    "autoplayTimeout": 10000,
+                    "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
+                    "responsive": {
+                        "0": {
+                            "items": 1
+                        },
+                        "768": {
+                            "items": 1
+                        },
+                        "992": {
+                            "items": 2
+                        },
+                        "1200": {
+                            "items": 3
+                        }
+                    }
+                }'>
+                    <div class="item">
+                        <!--Testimonial Two Single Start-->
+                        <div class="testimonial-two__single">
+                            <div class="testimonial-two__img">
+                                <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="">
+                            </div>
+                            <div class="testimonial-two__content">
+                                <div class="testimonial-two__shape-1"
+                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                </div>
+                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                    reprehenderit.</p>
+                                <div class="testimonial-two__client-info">
+                                    <h4 class="testimonial-two__client-name">Sarah albert</h4>
+                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                </div>
+                                <div class="testimonial-two__rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Testimonial Two Single End-->
+                    </div>
+                    <div class="item">
+                        <!--Testimonial Two Single Start-->
+                        <div class="testimonial-two__single">
+                            <div class="testimonial-two__img">
+                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                            </div>
+                            <div class="testimonial-two__content">
+                                <div class="testimonial-two__shape-1"
+                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                </div>
+                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                    reprehenderit.</p>
+                                <div class="testimonial-two__client-info">
+                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
+                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                </div>
+                                <div class="testimonial-two__rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Testimonial Two Single End-->
+                    </div>
+                    <div class="item">
+                        <!--Testimonial Two Single Start-->
+                        <div class="testimonial-two__single">
+                            <div class="testimonial-two__img">
+                                <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="">
+                            </div>
+                            <div class="testimonial-two__content">
+                                <div class="testimonial-two__shape-1"
+                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                                </div>
+                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                    reprehenderit.</p>
+                                <div class="testimonial-two__client-info">
+                                    <h4 class="testimonial-two__client-name">Jessica brown</h4>
+                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                </div>
+                                <div class="testimonial-two__rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Testimonial Two Single End-->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Testimonial Two End-->
+          
+        
         <!--Brand One Start-->
         <section class="brand-one">
             <div class="container">
@@ -489,195 +611,6 @@
             </div>
         </section>
         <!--Brand One End-->
-
-        <!--Testimonial One Start-->
-        <section class="testimonial-one">
-            <div class="testimonial-one-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/backgrounds/testimonial-one-bg.jpg);"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="testimonial-one__left">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Our Testimonials</span>
-                                <h2 class="section-title__title">What they are talking about Veer Nari Shakti</h2>
-                            </div>
-                            <!-- <p class="testimonial-one__text-1">Nulla ultricies justo sit amet ante efficitur, eget
-                                pharetra augue efficitur. Vestibulum viverra, dolor sit amet ultricies ornare, elit
-                                justo pretium tellus.</p> -->
-                            <a href="#" class="thm-btn testimonial-one__btn">all testimonials</a>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="testimonial-one__right">
-                            <div class="testimonial-one__img-1 zoom-fade">
-                                <img src="assets/images/testimonial/testimonial-img-1.jpg" alt="">
-                            </div>
-                            <div class="testimonial-one__img-1 testimonial-one__img-2 zoom-fade">
-                                <img src="assets/images/testimonial/testimonial-img-2.jpg" alt="">
-                            </div>
-                            <div class="testimonial-one__img-1 testimonial-one__img-3 zoom-fade">
-                                <img src="assets/images/testimonial/testimonial-img-3.jpg" alt="">
-                            </div>
-                            <div class="testimonial-one__img-1 testimonial-one__img-4 zoom-fade">
-                                <img src="assets/images/testimonial/testimonial-img-4.jpg" alt="">
-                            </div>
-                            <div class="testimonial-one__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
-                                "loop": true,
-                                "autoplay": true,
-                                "margin": 50,
-                                "nav": true,
-                                "dots": false,
-                                "smartSpeed": 500,
-                                "autoplayTimeout": 10000,
-                                "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
-                                "responsive": {
-                                    "0": {
-                                        "items": 1
-                                    },
-                                    "768": {
-                                        "items": 1
-                                    },
-                                    "992": {
-                                        "items": 1
-                                    },
-                                    "1200": {
-                                        "items": 1
-                                    }
-                                }
-                            }'>
-                                <div class="item">
-                                    <!--Testimonial One Single Start-->
-                                    <div class="testimonial-one__single">
-                                        <div class="testimonial-one__shape-1" style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
-                                        </div>
-                                        <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-info">
-                                            <h3 class="testimonial-one__client-name">Kevin martin</h3>
-                                            <p class="testimonial-one__client-sub-title">Volunteer</p>
-                                        </div>
-                                        <div class="testimonial-one__quote">
-                                            <span class="icon-double-quotes"></span>
-                                        </div>
-                                        <p class="testimonial-one__text-2">Nulla ultricies justo sit amet ante
-                                            efficitur, eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet
-                                            ultricies simply free text ornare, elit justo pretium tellus.</p>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                </div>
-                                <div class="item">
-                                    <!--Testimonial One Single Start-->
-                                    <div class="testimonial-one__single">
-                                        <div class="testimonial-one__shape-1" style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
-                                        </div>
-                                        <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-info">
-                                            <h3 class="testimonial-one__client-name">Jessica brown</h3>
-                                            <p class="testimonial-one__client-sub-title">Volunteer</p>
-                                        </div>
-                                        <div class="testimonial-one__quote">
-                                            <span class="icon-double-quotes"></span>
-                                        </div>
-                                        <p class="testimonial-one__text-2">Nulla ultricies justo sit amet ante
-                                            efficitur, eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet
-                                            ultricies simply free text ornare, elit justo pretium tellus.</p>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                </div>
-                                <div class="item">
-                                    <!--Testimonial One Single Start-->
-                                    <div class="testimonial-one__single">
-                                        <div class="testimonial-one__shape-1" style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
-                                        </div>
-                                        <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-info">
-                                            <h3 class="testimonial-one__client-name">Mike hardson</h3>
-                                            <p class="testimonial-one__client-sub-title">Volunteer</p>
-                                        </div>
-                                        <div class="testimonial-one__quote">
-                                            <span class="icon-double-quotes"></span>
-                                        </div>
-                                        <p class="testimonial-one__text-2">Nulla ultricies justo sit amet ante
-                                            efficitur, eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet
-                                            ultricies simply free text ornare, elit justo pretium tellus.</p>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                </div>
-                                <div class="item">
-                                    <!--Testimonial One Single Start-->
-                                    <div class="testimonial-one__single">
-                                        <div class="testimonial-one__shape-1" style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
-                                        </div>
-                                        <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-info">
-                                            <h3 class="testimonial-one__client-name">Kevin martin</h3>
-                                            <p class="testimonial-one__client-sub-title">Volunteer</p>
-                                        </div>
-                                        <div class="testimonial-one__quote">
-                                            <span class="icon-double-quotes"></span>
-                                        </div>
-                                        <p class="testimonial-one__text-2">Nulla ultricies justo sit amet ante
-                                            efficitur, eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet
-                                            ultricies simply free text ornare, elit justo pretium tellus.</p>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                </div>
-                                <div class="item">
-                                    <!--Testimonial One Single Start-->
-                                    <div class="testimonial-one__single">
-                                        <div class="testimonial-one__shape-1" style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
-                                        </div>
-                                        <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-info">
-                                            <h3 class="testimonial-one__client-name">Jessica brown</h3>
-                                            <p class="testimonial-one__client-sub-title">Volunteer</p>
-                                        </div>
-                                        <div class="testimonial-one__quote">
-                                            <span class="icon-double-quotes"></span>
-                                        </div>
-                                        <p class="testimonial-one__text-2">Nulla ultricies justo sit amet ante
-                                            efficitur, eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet
-                                            ultricies simply free text ornare, elit justo pretium tellus.</p>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                </div>
-                                <div class="item">
-                                    <!--Testimonial One Single Start-->
-                                    <div class="testimonial-one__single">
-                                        <div class="testimonial-one__shape-1" style="background-image: url(assets/images/shapes/testimonial-one-shape-1.png);">
-                                        </div>
-                                        <div class="testimonial-one__client-img">
-                                            <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-info">
-                                            <h3 class="testimonial-one__client-name">Mike hardson</h3>
-                                            <p class="testimonial-one__client-sub-title">Volunteer</p>
-                                        </div>
-                                        <div class="testimonial-one__quote">
-                                            <span class="icon-double-quotes"></span>
-                                        </div>
-                                        <p class="testimonial-one__text-2">Nulla ultricies justo sit amet ante
-                                            efficitur, eget pharetra augue efficitur. Vestibulum viverra, dolor sit amet
-                                            ultricies simply free text ornare, elit justo pretium tellus.</p>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Testimonial One End-->
 
         <!--Gallery One Start-->
        
@@ -827,61 +760,62 @@
 
     </div><!-- /.page-wrapper -->
 
+    
+<div class="mobile-nav__wrapper">
+    <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+    <!-- /.mobile-nav__overlay -->
+    <div class="mobile-nav__content">
+        <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
-    <div class="mobile-nav__wrapper">
-        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-        <!-- /.mobile-nav__overlay -->
-        <div class="mobile-nav__content">
-            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
-
-            <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="assets/images/logo/vnslogo.png" height="143" alt="" /></a>
-
-            </div>
-            <!-- /.logo-box -->
-            <div class="mobile-nav__container"></div>
-            <!-- /.mobile-nav__container -->
-
-            <ul class="mobile-nav__contact list-unstyled">
-                <li>
-                    <i class="fa fa-envelope"></i>
-                    <a href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a>
-                </li>
-                <li>
-                    <i class="fa fa-phone-alt"></i>
-                    <a href="tel:+91 9821 022 008">+91 9821 022 008</a>
-                </li>
-            </ul><!-- /.mobile-nav__contact -->
-            <div class="mobile-nav__top">
-                <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-twitter"></a>
-                    <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-pinterest-p"></a>
-                    <a href="#" class="fab fa-instagram"></a>
-                </div><!-- /.mobile-nav__social -->
-            </div><!-- /.mobile-nav__top -->
-
-
+        <div class="logo-box">
+            <a href="index.php" aria-label="logo image"><img src="assets/images/logo/vnslogo.png" height="143" alt="" /></a>
 
         </div>
-        <!-- /.mobile-nav__content -->
-    </div>
-    <!-- /.mobile-nav__wrapper -->
+        <!-- /.logo-box -->
+        <div class="mobile-nav__container"></div>
+        <!-- /.mobile-nav__container -->
 
-    <div class="search-popup">
-        <div class="search-popup__overlay search-toggler"></div>
-        <!-- /.search-popup__overlay -->
-        <div class="search-popup__content">
-            <form action="#">
-                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
-                <input type="text" id="search" placeholder="Search Here..." />
-                <button type="submit" aria-label="search submit" class="thm-btn">
-                    <i class="icon-magnifying-glass"></i>
-                </button>
-            </form>
-        </div>
-        <!-- /.search-popup__content -->
+        <ul class="mobile-nav__contact list-unstyled">
+            <li>
+                <i class="fa fa-envelope"></i>
+                <a href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a>
+            </li>
+            <li>
+                <i class="fa fa-phone-alt"></i>
+                <a href="tel:+91 9821 022 008">+91 9821 022 008</a>
+            </li>
+        </ul><!-- /.mobile-nav__contact -->
+        <div class="mobile-nav__top">
+            <div class="mobile-nav__social">
+                <a href="#" class="fab fa-twitter"></a>
+                <a href="#" class="fab fa-facebook-square"></a>
+                <a href="#" class="fab fa-pinterest-p"></a>
+                <a href="#" class="fab fa-instagram"></a>
+            </div><!-- /.mobile-nav__social -->
+        </div><!-- /.mobile-nav__top -->
+
+
+
     </div>
+    <!-- /.mobile-nav__content -->
+</div>
+<!-- /.mobile-nav__wrapper -->
+
+<div class="search-popup">
+    <div class="search-popup__overlay search-toggler"></div>
+    <!-- /.search-popup__overlay -->
+    <div class="search-popup__content">
+        <form action="#">
+            <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
+            <input type="text" id="search" placeholder="Search Here..." />
+            <button type="submit" aria-label="search submit" class="thm-btn">
+                <i class="icon-magnifying-glass"></i>
+            </button>
+        </form>
+    </div>
+    <!-- /.search-popup__content -->
+</div>
+  
     <!-- /.search-popup -->
 
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-up-arrow"></i></a>

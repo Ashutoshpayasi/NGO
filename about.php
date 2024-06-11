@@ -96,43 +96,19 @@
                     <div class="col-xl-6">
                         <div class="about-four__right">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">About oxpins</span>
+                                <span class="section-title__tagline">WE ARE
+                                    VEER NARI SHAKTI FOUNDATION</span>
                                 <h2 class="section-title__title">Get to know about our
-                                    oxpins organization</h2>
+                                    organization</h2>
                             </div>
-                            <p class="about-four__text">Nam ultrices odio a felis lobortis convallis. In ex nunc, ornare
-                                non condimentum et, egestas vel massa. Nullam hendrerit felis quis pellentesque
-                                porttitor. Aenean lobortis bibendum turpis et auctor. Nam iaculis, lectus vulputate
-                                cursus interdum.</p>
-                            <ul class="list-unstyled about-four__points">
-                                <li>
-                                    <div class="icon">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <div class="text">
-                                        <p>Proin sed magna vel mi suscipit commodo.</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <div class="text">
-                                        <p>Cras aliquet nulla ut varius blandit.</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <div class="text">
-                                        <p>Nulla auctor ipsum sed nisi lis porttitor.</p>
-                                    </div>
-                                </li>
-                            </ul>
-                            <div class="about-four__btn-box">
-                                <a href="about.php" class="thm-btn about-four__btn">Discover More</a>
-                            </div>
+                            <p class="about-four__text" style="text-align: justify;">VeerNari Shakti Resettlement Foundation (VSRF) was
+                                conceptualized & initiated post-Kargil War (Operation Vijay) in 1999.</p>
+                            <br>
+                            <p class="about-four__text" style="text-align: justify;">The Foundation is engaged in facilitating Psychological & Rehabilitation
+                                services to Martyr Widows ( War Widows, Battle Casualty & Physical Casualty Widows ), Disabled Soldiers & Disabled Dependents of Soldiers from all Indian Armed Forces and CAPF, since 2016. ‘Instant Grief cum Psychological First-Aid Counselling’
+                                to the fresh cases of all types of fatal casualties has been the leading intervention.</p>
+
+
                         </div>
                     </div>
                 </div>
@@ -140,12 +116,117 @@
         </section>
         <!--About Four End-->
 
+        <section class="about-one">
+            <div class="about-one__shape-box-1">
+                <div class="about-one__shape-1" style="background-image: url(assets/images/shapes/about-one-shape-1.png);"></div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="about-one__left">
+                            <div class="about-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                                <div class="about-one__img">
+                                    <img src="assets\images\resources\Women-self-defence.jpg" alt="">
+                                </div>
+                                <div class="about-one__img-border"></div>
+                                <div class="about-one__curved-circle-box">
+                                    <div class="curved-circle">
+                                        <span class="curved-circle--item">
+                                            YEARS EXPERIENCE VEER NARI SHAKTI CHARITY CENTER
+                                        </span>
+                                    </div><!-- /.curved-circle -->
+                                    <div class="about-one__curved-circle-icon">
+                                        <img src="assets\images\logo\vnslogofinal.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="about-one__shape-2 zoom-fade">
+                                    <img src="assets/images/shapes/about-one-shape-2.png" alt="">
+                                </div>
+                                <div class="about-one__shape-3 float-bob-y">
+                                    <img src="assets/images/shapes/about-one-shape-3.png" alt="">
+                                </div>
+                                <div class="about-one__shape-4 zoominout">
+                                    <img src="assets/images/shapes/about-one-shape-4.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6">
+                        <div class="about-one__right">
+                            <div class="section-title text-left">
+                                <span class="section-title__tagline">WELCOME TO VEER NARI SHAKTI FOUNDATION CHARITY</span>
+                                <h2 class="section-title__title">Helping each other can make world better</h2>
+                            </div>
+                            <p class="about-one__text">Veer Nari Shakti Resettlement Foundation works to counsel, support and empower veer naris to get their due rights, resume their lives and build upon sustainable
+                                livelihoods to lead a respectful life of a proud soldier. </p>
+                            <div class="about-one__fund">
+                                <p class="about-one__fund-text">Helped fund <span>24,537</span> Projects in
+                                    <span>24</span> Countries, Benefiting over <br> <span>8.2</span> Million people.
+                                </p>
+                            </div>
+
+                            <!-- <a href="about.php" class="thm-btn about-one__btn">Discover More</a> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="about-three" id="about">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="about-three__left">
+                            <div class="section-title text-left">
+                                <span class="section-title__tagline">OUR PHILOSHOPHY</span>
+                                <h2 class="section-title__title">We’re non-profit charity & NGO organization</h2>
+                            </div>
+                            <p class="about-three__text-1">The price of freedom is eternal vigilance
+                                and backing of the ones who do it for us. Our responsibility starts where the soldiers’ responsibility is fulfilled. Every single martyr family is our family, its the nation’s family.
+
+                                Stand up for our soldiers and their families
+                                Make civilians understand the true price of freedom
+                                Support in building resources for our martyrs
+                                Rise to the occasion</p>
+                            friends, both local and overseas to stay social, and maintain friendships and
+                            relationships when you can’t be together.</p>
+                            <a href="about.php" class="thm-btn about-three__btn">Discover More</a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6">
+                        <div class="about-three__right">
+                            <div class="about-three__img-box  wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
+                                <div class="about-three__img">
+                                    <img src="assets/images/resources/about-three-img.jpg" alt="">
+                                </div>
+                                <div class="about-three__img-two">
+                                    <img src="assets/images/resources/about-three-img-2.jpg" alt="">
+                                </div>
+                                <div class="about-three__help">
+                                    <div class="about-three__help-shape" style="background-image: url(assets/images/shapes/about-three-help-shape.png);">
+                                    </div>
+                                    <div class="about-three__help-conten-box">
+                                        <div class="about-three__help-count">
+                                            <h3 class="odometer" data-count="280">00</h3>
+                                            <span class="about-three__help-letter">k</span>
+                                        </div>
+                                        <p class="about-three__help-text">We’ve helped our <br> poor children</p>
+                                    </div>
+                                </div>
+                                <div class="about-three__border"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!--Testimonial Two Start-->
         <section class="testimonial-two">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Our testimonials</span>
-                    <h2 class="section-title__title">What they’re talking <br> about oxpins</h2>
+                    <h2 class="section-title__title">What they’re talking <br> about Veer Nari shakti </h2>
                 </div>
                 <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                     "loop": true,
@@ -261,195 +342,21 @@
         <!--Testimonial Two End-->
 
         <!--Become Volunteer One Start-->
-        <section class="become-volunteer-one">
-            <div class="become-volunteer-one__bg-box">
-                <div class="become-volunteer-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-                    style="background-image: url(assets/images/backgrounds/become-volunteer-one-bg.jpg);"></div>
-            </div>
-            <div class="become-volunteer-one__shape-1"
-                style="background-image: url(assets/images/shapes/become-volunteer-shape-1.png);"></div>
-            <div class="container">
-                <div class="become-volunteer-one__inner">
-                    <p class="become-volunteer-one__sub-title">Become a Volunteers</p>
-                    <h3 class="become-volunteer-one__title">Join your hand with us for a <br> better life and future
-                    </h3>
-                    <div class="become-volunteer-one__btn-box">
-                        <a href="become-volunteer.php" class="thm-btn become-volunteer-one__btn">Discover More</a>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
         <!--Become Volunteer One End-->
 
         <!--FAQ One Start-->
-        <section class="faq-one faq-two">
-            <div class="faq-one-shape-1" style="background-image: url(assets/images/shapes/faq-one-shape-1.png);"></div>
-            <div class="faq-one-bg" style="background-image: url(assets/images/backgrounds/faq-one-bg.png);"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="faq-one__left">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Recently asked questions</span>
-                                <h2 class="section-title__title">People are frequently asking some questions from us
-                                </h2>
-                            </div>
-                            <p class="faq-one__text-1">Proactively procrastinate cross-platform results via extensive
-                                ideas distinctively underwhelm enterprise. Compellingly plagiarize value-added sources
-                                with inexpensive schemas.</p>
-                            <a href="faq.php" class="thm-btn faq-one__btn">Learn how to get help</a>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="faq-one__right">
-                            <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                                <div class="accrodion active">
-                                    <div class="accrodion-title">
-                                        <h4>Nulla eu purus scelerisque, dignissim diam.</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <h4>Quisque non diam porta, ullamcorper dolor sit amet.</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <h4>How can I make a change to my application?</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion last-chiled">
-                                    <div class="accrodion-title">
-                                        <h4>Sed mattis neque sed commodo efficitur.</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+       
         <!--FAQ One End-->
 
         <!--Team One Start-->
-        <section class="team-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">Our expert team</span>
-                    <h2 class="section-title__title">Meet the team behind <br> their success story</h2>
-                </div>
-                <div class="row">
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-1.jpg" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.php">Sarah albert</a></h3>
-                                <p class="team-one__sub-title">Volunteer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-2.jpg" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.php">Kevin martin</a></h3>
-                                <p class="team-one__sub-title">Volunteer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-3.jpg" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.php">Aleesha eve</a></h3>
-                                <p class="team-one__sub-title">Volunteer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-4.jpg" alt="">
-                                <div class="team-one__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-one__content">
-                                <h3 class="team-one__name"><a href="team-details.php">David cooper</a></h3>
-                                <p class="team-one__sub-title">Volunteer</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                </div>
-            </div>
-        </section>
+       
         <!--Team One End-->
 
         <!--Brand One Start-->
-        <section class="brand-one brand-three">
-            <div class="brand-two-shape-1" style="background-image: url(assets/images/shapes/brand-three-shape-1.png);">
-            </div>
+        <section class="brand-one">
             <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
+                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 1000 },"loop":"true","breakpoints": {
                             "0": {
                                 "spaceBetween": 30,
                                 "slidesPerView": 2
@@ -477,41 +384,30 @@
                         }}'>
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
+                            <img src="assets\images\army logo\Assam-rifles-logo-150x150.jpg" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
+                            <img src="assets\images\army logo\BSF-Logo-150x150.jpg" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
+                            <img src="assets\images\army logo\Indian_Navy_logo-150x150.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
+                            <img src="assets\images\army logo\Indian-army-logo-150x150.jpg" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
+                            <img src="assets\images\army logo\Indian-coast-guard-logo-150x150.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-6.png" alt="">
+                            <img src="assets\images\army logo\ITBP-logo-150x150.jpg" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1.png" alt="">
+                            <img src="assets\images\army logo\NSG-India-logo-150x150.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2.png" alt="">
+                            <img src="assets\images\army logo\Sashastra_Seema_Bal-logo-150x150.png" alt="">
                         </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-6.png" alt="">
-                        </div><!-- /.swiper-slide -->
+
                     </div>
                 </div>
             </div>
