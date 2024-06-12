@@ -57,387 +57,331 @@
 <body class="custom-cursor">
     <?php include('includes/header.php'); ?>
 
-        <!--Main Slider Start-->
-        <section class="main-slider clearfix">
-            <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 1, "loop": true,
-                "effect": "fade",
-                "pagination": {
-                "el": "#main-slider-pagination",
-                "type": "bullets",
-                "clickable": true
-                },
-                "navigation": {
-                "nextEl": "#main-slider__swiper-button-next",
-                "prevEl": "#main-slider__swiper-button-prev"
-                },
-                "autoplay": {
-                "delay": 5000
-                }}'>
-                <div class="swiper-wrapper">
-
-                    <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-1.png);"></div>
-                        <!-- /.image-layer -->
-
-                        <div class="main-slider-shape-1" style="background-image: url(assets/images/shapes/main-slider-shape-1.jpg);"></div>
-                        <div class="main-slider-shape-2 float-bob-x">
-                            <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                        </div>
-
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-6 col-lg-8">
-                                    <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Always donate for childrens</p>
-                                        <h2 class="main-slider__title">Lend a Helping Hand to Those in Need</h2>
-                                        <div class="main-slider__btn-box">
-                                            <a href="about.php" class="thm-btn main-slider__btn"> Discover more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-2.png);"></div>
-                        <!-- /.image-layer -->
-
-                        <div class="main-slider-shape-1" style="background-image: url(assets/images/shapes/main-slider-shape-1.jpg);"></div>
-                        <div class="main-slider-shape-2 float-bob-x">
-                            <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                        </div>
-
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-6 col-lg-8">
-                                    <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Always donate for childrens</p>
-                                        <h2 class="main-slider__title">Lend a Helping Hand to Those in Need</h2>
-                                        <div class="main-slider__btn-box">
-                                            <a href="about.php" class="thm-btn main-slider__btn"> Discover more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-3.png);"></div>
-                        <!-- /.image-layer -->
-
-                        <div class="main-slider-shape-1" style="background-image: url(assets/images/shapes/main-slider-shape-1.jpg);"></div>
-                        <div class="main-slider-shape-2 float-bob-x">
-                            <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                        </div>
-
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-6 col-lg-8">
-                                    <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Always donate for childrens</p>
-                                        <h2 class="main-slider__title">Lend a Helping Hand to Those in Need</h2>
-                                        <div class="main-slider__btn-box">
-                                            <a href="about.php" class="thm-btn main-slider__btn"> Discover more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <!-- If we need navigation buttons -->
-                <div class="main-slider__nav">
-                    <div class="swiper-button-prev" id="main-slider__swiper-button-next">
-                        <i class="icon-left-arrow"></i>
-                    </div>
-                    <div class="swiper-button-next" id="main-slider__swiper-button-prev">
-                        <i class="icon-right-arrow"></i>
-                    </div>
-                </div>
-
+    <!--Main Slider Start-->
+    <section class="page-header">
+        <div class="page-header-bg">
+            <div class="video-container">
+                <iframe width="100%" src="https://www.youtube.com/embed/Q90u5LO63f0?autoplay=1&mute=1&loop=1&playlist=Q90u5LO63f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
-        </section>
-        <!--Main Slider End-->
+        </div>
+    </section>
+
+    <style>
+        .page-header {
+            position: relative;
+            overflow: hidden;
+            padding-top: 25%;
+            /* 16:9 Aspect Ratio */
+        }
+
+        .page-header-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+
+            z-index: -1;
+            /* Send the video behind the content */
+        }
+
+        .video-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 177.78%;
+            /* 100 / 56.25 * 100 */
+            height: 100%;
+            transform: translate(-50%, -50%);
+            pointer-events: none;
+            /* Ensure the video doesn't interfere with user interactions */
+        }
+    </style>
+    <!--Main Slider End-->
 
 
-        <!--About Four Start-->
-        <section class="about-four">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="about-four__left">
-                            <div class="about-four__img-box">
-                                <div class="about-four__img">
-                                    <img src="assets/images/resources/about-four-img-1.jpg" alt="">
-                                </div>
-                                <div class="about-four__img-two">
-                                    <img src="assets/images/resources/about-four-img-2.jpg" alt="">
-                                </div>
-                                <div class="about-four__border"></div>
+    <!--About Four Start-->
+    <section class="about-four">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6">
+                    <div class="about-four__left">
+                        <div class="about-four__img-box">
+                            <div class="about-four__img">
+                                <img src="assets\images\army logo\gallery\img14.png" alt="">
                             </div>
+                            <div class="about-four__img-two">
+                                <img src="assets\images\army logo\gallery\img15.png" alt="">
+                            </div>
+                            <div class="about-four__border"></div>
                         </div>
                     </div>
-                    <div class="col-xl-6">
-                        <div class="about-four__right">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">WE ARE
-                                    VEER NARI SHAKTI FOUNDATION</span>
-                                <h2 class="section-title__title">Get to know about our
-                                    organization</h2>
-                            </div>
-                            <p class="about-four__text" style="text-align: justify;">VeerNari Shakti Resettlement Foundation (VSRF) was
-                                conceptualized & initiated post-Kargil War (Operation Vijay) in 1999.</p>
-                            <br>
-                            <p class="about-four__text" style="text-align: justify;">The Foundation is engaged in facilitating Psychological & Rehabilitation
-                                services to Martyr Widows ( War Widows, Battle Casualty & Physical Casualty Widows ), Disabled Soldiers & Disabled Dependents of Soldiers from all Indian Armed Forces and CAPF, since 2016. ‘Instant Grief cum Psychological First-Aid Counselling’
-                                to the fresh cases of all types of fatal casualties has been the leading intervention.</p>
-
-
+                </div>
+                <div class="col-xl-6">
+                    <div class="about-four__right">
+                        <div class="section-title text-left">
+                            <span class="section-title__tagline">WE ARE
+                                VEER NARI SHAKTI FOUNDATION</span>
+                            <h2 class="section-title__title">Get to know about our
+                                organization</h2>
                         </div>
+                        <p class="about-four__text" style="text-align: justify;">VeerNari Shakti Resettlement Foundation (VSRF) was
+                            conceptualized & initiated post-Kargil War (Operation Vijay) in 1999.</p>
+                        <br>
+                        <p class="about-four__text" style="text-align: justify;">The Foundation is engaged in facilitating Psychological & Rehabilitation
+                            services to Martyr Widows ( War Widows, Battle Casualty & Physical Casualty Widows ), Disabled Soldiers & Disabled Dependents of Soldiers from all Indian Armed Forces and CAPF, since 2016. ‘Instant Grief cum Psychological First-Aid Counselling’
+                            to the fresh cases of all types of fatal casualties has been the leading intervention.</p>
+
+
                     </div>
                 </div>
             </div>
-        </section>
-        <!--About Four End-->
+        </div>
+    </section>
+    <!--About Four End-->
 
-        <!--About One Start-->
-        <section class="about-one">
-            <div class="about-one__shape-box-1">
-                <div class="about-one__shape-1" style="background-image: url(assets/images/shapes/about-one-shape-1.png);"></div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="about-one__left">
-                            <div class="about-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <div class="about-one__img">
-                                    <img src="assets\images\resources\Women-self-defence.jpg" alt="">
-                                </div>
-                                <div class="about-one__img-border"></div>
-                                <div class="about-one__curved-circle-box">
-                                    <div class="curved-circle">
-                                        <span class="curved-circle--item">
-                                            YEARS EXPERIENCE VEER NARI SHAKTI CHARITY CENTER
-                                        </span>
-                                    </div><!-- /.curved-circle -->
-                                    <div class="about-one__curved-circle-icon">
-                                        <img src="assets\images\logo\vnslogofinal.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="about-one__shape-2 zoom-fade">
-                                    <img src="assets/images/shapes/about-one-shape-2.png" alt="">
-                                </div>
-                                <div class="about-one__shape-3 float-bob-y">
-                                    <img src="assets/images/shapes/about-one-shape-3.png" alt="">
-                                </div>
-                                <div class="about-one__shape-4 zoominout">
-                                    <img src="assets/images/shapes/about-one-shape-4.png" alt="">
-                                </div>
-                            </div>
+    <!--About One Start-->
+    <section class="about-one">
+        <div class="about-one__shape-box-1">
+            <div class="about-one__shape-1" style="background-image: url(assets/images/shapes/about-one-shape-1.png);"></div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6">
+                    <div class="about-one__left">
+                        <div class="section-title text-left">
+                            <span class="section-title__tagline">WELCOME TO VEER NARI SHAKTI FOUNDATION CHARITY</span>
+                            <h2 class="section-title__title">Helping each other can make world better</h2>
                         </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="about-one__right">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">WELCOME TO VEER NARI SHAKTI FOUNDATION CHARITY</span>
-                                <h2 class="section-title__title">Helping each other can make world better</h2>
-                            </div>
-                            <p class="about-one__text">Veer Nari Shakti Resettlement Foundation works to counsel, support and empower veer naris to get their due rights, resume their lives and build upon sustainable
-                                livelihoods to lead a respectful life of a proud soldier. </p>
-                            <div class="about-one__fund">
-                                <p class="about-one__fund-text">Helped fund <span>24,537</span> Projects in
-                                    <span>24</span> Countries, Benefiting over <br> <span>8.2</span> Million people.
-                                </p>
-                            </div>
-
-                            <!-- <a href="about.php" class="thm-btn about-one__btn">Discover More</a> -->
+                        <p class="about-one__text">Veer Nari Shakti Resettlement Foundation works to counsel, support and empower veer naris to get their due rights, resume their lives and build upon sustainable
+                            livelihoods to lead a respectful life of a proud soldier. </p>
+                        <div class="about-one__fund">
+                            <p class="about-one__fund-text">Helped fund <span>24,537</span> Projects in
+                                <span>24</span> Countries, Benefiting over <br> <span>8.2</span> Million people.
+                            </p>
                         </div>
                     </div>
                 </div>
-            </div>
-        </section>
-        <!--About One End-->
+                <div class="col-xl-6">
+                    <div class="about-one__right">
+                        <div class="about-one__img-box wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
+                            <div class="about-one__img">
+                                <img src="assets\images\resources\Women-self-defence.jpg" alt="">
+                            </div>
+                            <div class="about-one__img-border"></div>
+                            <div class="about-one__curved-circle-box">
+                                <div class="curved-circle">
+                                    <span class="curved-circle--item">
+                                        21 YEARS EXPERIENCE VEER NARI SHAKTI CHARITY CENTER
+                                    </span>
+                                </div><!-- /.curved-circle -->
+                                <div class="about-one__curved-circle-icon">
+                                    <img src="assets\images\logo\vnslogofinal.png" alt="">
+                                </div>
+                            </div>
+                         
+                            <div class="about-one__shape-3 float-bob-y">
+                                <img src="assets/images/shapes/about-one-shape-3.png" alt="">
+                            </div>
+                            <div class="about-one__shape-4 zoominout">
+                                <img src="assets/images/shapes/about-one-shape-4.png" alt="">
+                            </div>
+                        </div>
 
-        <!--Causes One Start-->
-        <section class="causes-one">
-            <div class="container">
-                <div class="section-title text-center">
-                    <h2 class="section-title__title">How Can You Support? <br> and donate them</h2>
-                  
-                </div>
-                <div class="row">
-                    <!--Causes One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="causes-one__single">
-                            <div class="causes-one__img">
-                                <img src="assets/images/resources/causes-1-1.jpg" alt="">
-                                <div class="causes-one__cat">
-                                    <p>Education</p>
-                                </div>
-                            </div>
-                            <div class="causes-one__content">
-                                <h3 class="causes-one__title"><a href="donation-details.php">Let’s education for
-                                        children get good life</a>
-                                </h3>
-                                <p class="causes-one__text">There are many of lorem, but majori have
-                                    suffered alteration in some form.</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
+                        <!-- <a href="about.php" class="thm-btn about-one__btn">Discover More</a> -->
                     </div>
-                    <!--Causes One Single End-->
-                    <!--Causes One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="causes-one__single">
-                            <div class="causes-one__img">
-                                <img src="assets/images/resources/causes-1-2.jpg" alt="">
-                                <div class="causes-one__cat">
-                                    <p>Medical</p>
-                                </div>
-                            </div>
-                            <div class="causes-one__content">
-                                <h3 class="causes-one__title"><a href="donation-details.php">It is a long established
-                                        fact that a reader</a>
-                                </h3>
-                                <p class="causes-one__text">There are many of lorem, but majori have
-                                    suffered alteration in some form.</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Causes One Single End-->
-                    <!--Causes One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="causes-one__single">
-                            <div class="causes-one__img">
-                                <img src="assets/images/resources/causes-1-3.jpg" alt="">
-                                <div class="causes-one__cat">
-                                    <p>Food</p>
-                                </div>
-                            </div>
-                            <div class="causes-one__content">
-                                <h3 class="causes-one__title"><a href="donation-details.php">There are many variations
-                                        of passages</a>
-                                </h3>
-                                <p class="causes-one__text">There are many of lorem, but majori have
-                                    suffered alteration in some form.</p>
-                                <div class="causes-one__progress">
-                                    <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
-                                    </div>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="36%">
-                                            <div class="count-text">36%</div>
-                                        </div>
-                                    </div>
-                                    <div class="causes-one__goals">
-                                        <p><span>$25,270</span> Raised</p>
-                                        <p><span>$30,000</span> Goal</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Causes One Single End-->
                 </div>
             </div>
-        </section>
-        <!--Causes One End-->
+        </div>
+    </section>
 
+    <!--About One End-->
 
-        <section class="about-three" id="about">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="about-three__left">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">OUR PHILOSHOPHY</span>
-                                <h2 class="section-title__title">We’re non-profit charity & NGO organization</h2>
+    <!--Causes One Start-->
+    <section class="causes-one">
+        <div class="container">
+            <div class="section-title text-center">
+                <h2 class="section-title__title">How Can You Support? <br> and donate them</h2>
+
+            </div>
+            <div class="row">
+                <!--Causes One Single Start-->
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                    <div class="causes-one__single">
+                        <div class="causes-one__img">
+                            <img src="assets/images/resources/causes-1-1.jpg" alt="">
+                            <div class="causes-one__cat">
+                                <p>Education</p>
                             </div>
-                            <p class="about-three__text-1">The price of freedom is eternal vigilance
-                                and backing of the ones who do it for us. Our responsibility starts where the soldiers’ responsibility is fulfilled. Every single martyr family is our family, its the nation’s family.
-
-                                Stand up for our soldiers and their families
-                                Make civilians understand the true price of freedom
-                                Support in building resources for our martyrs
-                                Rise to the occasion</p>
-                            friends, both local and overseas to stay social, and maintain friendships and
-                            relationships when you can’t be together.</p>
-                            <a href="about.php" class="thm-btn about-three__btn">Discover More</a>
+                        </div>
+                        <div class="causes-one__content">
+                            <h3 class="causes-one__title"><a href="donation-details.php">Let’s education for
+                                    children get good life</a>
+                            </h3>
+                            <p class="causes-one__text">There are many of lorem, but majori have
+                                suffered alteration in some form.</p>
+                            <div class="causes-one__progress">
+                                <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
+                                </div>
+                                <div class="bar">
+                                    <div class="bar-inner count-bar" data-percent="36%">
+                                        <div class="count-text">36%</div>
+                                    </div>
+                                </div>
+                                <div class="causes-one__goals">
+                                    <p><span>$25,270</span> Raised</p>
+                                    <p><span>$30,000</span> Goal</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-xl-6">
-                        <div class="about-three__right">
-                            <div class="about-three__img-box  wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <div class="about-three__img">
-                                    <img src="assets/images/resources/about-three-img.jpg" alt="">
-                                </div>
-                                <div class="about-three__img-two">
-                                    <img src="assets/images/resources/about-three-img-2.jpg" alt="">
-                                </div>
-                                <div class="about-three__help">
-                                    <div class="about-three__help-shape" style="background-image: url(assets/images/shapes/about-three-help-shape.png);">
-                                    </div>
-                                    <div class="about-three__help-conten-box">
-                                        <div class="about-three__help-count">
-                                            <h3 class="odometer" data-count="280">00</h3>
-                                            <span class="about-three__help-letter">k</span>
-                                        </div>
-                                        <p class="about-three__help-text">We’ve helped our <br> poor children</p>
-                                    </div>
-                                </div>
-                                <div class="about-three__border"></div>
+                </div>
+                <!--Causes One Single End-->
+                <!--Causes One Single Start-->
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="causes-one__single">
+                        <div class="causes-one__img">
+                            <img src="assets/images/resources/causes-1-2.jpg" alt="">
+                            <div class="causes-one__cat">
+                                <p>Medical</p>
                             </div>
+                        </div>
+                        <div class="causes-one__content">
+                            <h3 class="causes-one__title"><a href="donation-details.php">It is a long established
+                                    fact that a reader</a>
+                            </h3>
+                            <p class="causes-one__text">There are many of lorem, but majori have
+                                suffered alteration in some form.</p>
+                            <div class="causes-one__progress">
+                                <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
+                                </div>
+                                <div class="bar">
+                                    <div class="bar-inner count-bar" data-percent="36%">
+                                        <div class="count-text">36%</div>
+                                    </div>
+                                </div>
+                                <div class="causes-one__goals">
+                                    <p><span>$25,270</span> Raised</p>
+                                    <p><span>$30,000</span> Goal</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Causes One Single End-->
+                <!--Causes One Single Start-->
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="causes-one__single">
+                        <div class="causes-one__img">
+                            <img src="assets/images/resources/causes-1-3.jpg" alt="">
+                            <div class="causes-one__cat">
+                                <p>Food</p>
+                            </div>
+                        </div>
+                        <div class="causes-one__content">
+                            <h3 class="causes-one__title"><a href="donation-details.php">There are many variations
+                                    of passages</a>
+                            </h3>
+                            <p class="causes-one__text">There are many of lorem, but majori have
+                                suffered alteration in some form.</p>
+                            <div class="causes-one__progress">
+                                <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
+                                </div>
+                                <div class="bar">
+                                    <div class="bar-inner count-bar" data-percent="36%">
+                                        <div class="count-text">36%</div>
+                                    </div>
+                                </div>
+                                <div class="causes-one__goals">
+                                    <p><span>$25,270</span> Raised</p>
+                                    <p><span>$30,000</span> Goal</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Causes One Single End-->
+            </div>
+        </div>
+    </section>
+    <!--Causes One End-->
+
+
+    <section class="about-three" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6">
+                    <div class="about-three__left">
+                        <div class="section-title text-left">
+                            <span class="section-title__tagline">OUR PHILOSHOPHY</span>
+                            <h2 class="section-title__title">We’re non-profit charity & NGO organization</h2>
+                        </div>
+                        <p class="about-three__text-1">The price of freedom is eternal vigilance
+                            and backing of the ones who do it for us. Our responsibility starts where the soldiers’ responsibility is fulfilled. Every single martyr family is our family, its the nation’s family.
+
+                            Stand up for our soldiers and their families
+                            Make civilians understand the true price of freedom
+                            Support in building resources for our martyrs
+                            Rise to the occasion</p>
+                        friends, both local and overseas to stay social, and maintain friendships and
+                        relationships when you can’t be together.</p>
+                        <a href="about.php" class="thm-btn about-three__btn">Discover More</a>
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <div class="about-three__right">
+                        <div class="about-three__img-box  wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
+                            <div class="about-three__img">
+                                <img src="assets/images/resources/about-three-img.jpg" alt="">
+                            </div>
+                            <div class="about-three__img-two">
+                                <img src="assets/images/resources/about-three-img-2.jpg" alt="">
+                            </div>
+                            <div class="about-three__help">
+                                <div class="about-three__help-shape" style="background-image: url(assets/images/shapes/about-three-help-shape.png);">
+                                </div>
+                                <div class="about-three__help-conten-box">
+                                    <div class="about-three__help-count">
+                                        <h3 class="odometer" data-count="280">00</h3>
+                                        <span class="about-three__help-letter">k</span>
+                                    </div>
+                                    <p class="about-three__help-text">We’ve helped our <br> poor children</p>
+                                </div>
+                            </div>
+                            <div class="about-three__border"></div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!--Events One Start-->
+    <!--Events One Start-->
 
-        <!--Events One End-->
+    <!--Events One End-->
 
-        <!--Feature One Start-->
+    <!--Feature One Start-->
 
-        <!--Feature One End-->
+    <!--Feature One End-->
 
 
-        <!--Testimonial Two Start-->
-        <section class="testimonial-two">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">Our testimonials</span>
-                    <h2 class="section-title__title">What People's talking <br> about Veer Nari Shakti  </h2>
-                </div>
-                <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
+    <!--Testimonial Two Start-->
+    <section class="testimonial-two">
+        <div class="container">
+            <div class="section-title text-center">
+                <span class="section-title__tagline">Our testimonials</span>
+                <h2 class="section-title__title">What People's talking <br> about Veer Nari Shakti </h2>
+            </div>
+            <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                     "loop": true,
                     "autoplay": true,
                     "margin": 30,
@@ -461,240 +405,252 @@
                         }
                     }
                 }'>
-                    <div class="item">
-                        <!--Testimonial Two Single Start-->
-                        <div class="testimonial-two__single">
-                            <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="">
+                <div class="item">
+                    <!--Testimonial Two Single Start-->
+                    <div class="testimonial-two__single">
+                        <div class="testimonial-two__img">
+                            <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="">
+                        </div>
+                        <div class="testimonial-two__content">
+                            <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <div class="testimonial-two__content">
-                                <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
-                                </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
-                                <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Sarah albert</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
-                                </div>
-                                <div class="testimonial-two__rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
+                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                reprehenderit.</p>
+                            <div class="testimonial-two__client-info">
+                                <h4 class="testimonial-two__client-name">Sarah albert</h4>
+                                <p class="testimonial-two__client-sub-title">Volunteer</p>
+                            </div>
+                            <div class="testimonial-two__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
                             </div>
                         </div>
-                        <!--Testimonial Two Single End-->
                     </div>
-                    <div class="item">
-                        <!--Testimonial Two Single Start-->
-                        <div class="testimonial-two__single">
-                            <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                    <!--Testimonial Two Single End-->
+                </div>
+                <div class="item">
+                    <!--Testimonial Two Single Start-->
+                    <div class="testimonial-two__single">
+                        <div class="testimonial-two__img">
+                            <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
+                        </div>
+                        <div class="testimonial-two__content">
+                            <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <div class="testimonial-two__content">
-                                <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
-                                </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
-                                <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Kevin martin</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
-                                </div>
-                                <div class="testimonial-two__rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
+                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                reprehenderit.</p>
+                            <div class="testimonial-two__client-info">
+                                <h4 class="testimonial-two__client-name">Kevin martin</h4>
+                                <p class="testimonial-two__client-sub-title">Volunteer</p>
+                            </div>
+                            <div class="testimonial-two__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
                             </div>
                         </div>
-                        <!--Testimonial Two Single End-->
                     </div>
-                    <div class="item">
-                        <!--Testimonial Two Single Start-->
-                        <div class="testimonial-two__single">
-                            <div class="testimonial-two__img">
-                                <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="">
+                    <!--Testimonial Two Single End-->
+                </div>
+                <div class="item">
+                    <!--Testimonial Two Single Start-->
+                    <div class="testimonial-two__single">
+                        <div class="testimonial-two__img">
+                            <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="">
+                        </div>
+                        <div class="testimonial-two__content">
+                            <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <div class="testimonial-two__content">
-                                <div class="testimonial-two__shape-1"
-                                    style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
+                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
+                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
+                                reprehenderit.</p>
+                            <div class="testimonial-two__client-info">
+                                <h4 class="testimonial-two__client-name">Jessica brown</h4>
+                                <p class="testimonial-two__client-sub-title">Volunteer</p>
+                            </div>
+                            <div class="testimonial-two__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Testimonial Two Single End-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Testimonial Two End-->
+
+
+    <!--Brand One Start-->
+    <section class="brand-one">
+        <div class="container">
+            <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 1000 },"loop":"true","breakpoints": {
+                    "0": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 2
+                    },
+                    "375": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 2
+                    },
+                    "575": {
+                        "spaceBetween": 30,
+                        "slidesPerView": 3
+                    },
+                    "767": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 4
+                    },
+                    "991": {
+                        "spaceBetween": 50,
+                        "slidesPerView": 5
+                    },
+                    "1199": {
+                        "spaceBetween": 100,
+                        "slidesPerView": 6
+                    }
+                }}'>
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <a href="https://www.assamrifles.gov.in" target="_blank">
+                            <img src="assets/images/army logo/Assam-rifles-logo-150x150.jpg" alt="Assam Rifles">
+                        </a>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <a href="https://bsf.gov.in" target="_blank">
+                            <img src="assets/images/army logo/BSF-Logo-150x150.jpg" alt="BSF">
+                        </a>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <a href="https://www.joinindiannavy.gov.in" target="_blank">
+                            <img src="assets/images/army logo/Indian_Navy_logo-150x150.png" alt="Indian Navy">
+                        </a>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <a href="https://joinindianarmy.nic.in" target="_blank">
+                            <img src="assets/images/army logo/indian-army.png" style="height: 120px;" alt="Indian Army">
+                        </a>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <a href="https://joinindiancoastguard.gov.in" target="_blank">
+                            <img src="assets/images/army logo/Indian-coast-guard-logo-150x150.png" alt="Indian Coast Guard">
+                        </a>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <a href="https://itbpolice.nic.in" target="_blank">
+                            <img src="assets/images/army logo/ITBP-logo-150x150.jpg" alt="ITBP">
+                        </a>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <a href="https://nsg.gov.in" target="_blank">
+                            <img src="assets/images/army logo/NSG-India-logo-150x150.png" alt="NSG">
+                        </a>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <a href="https://www.cisf.gov.in" target="_blank">
+                            <img src="assets/images/army logo/Sashastra_Seema_Bal-logo-150x150.png" alt="CISF">
+                        </a>
+                    </div><!-- /.swiper-slide -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Brand One End-->
+
+    <!--Gallery One Start-->
+
+    <!--Gallery One End-->
+
+    <!--FAQ One Start-->
+    <section class="faq-one">
+        <div class="faq-one-shape-1" style="background-image: url(assets/images/shapes/faq-one-shape-1.png);"></div>
+        <div class="faq-one-bg" style="background-image: url(assets/images/backgrounds/faq-one-bg.png);"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="faq-one__left">
+                        <div class="section-title text-left">
+                            <span class="section-title__tagline">Recently asked questions</span>
+                            <h2 class="section-title__title">People are frequently asking some questions from us
+                            </h2>
+                        </div>
+                        <p class="faq-one__text-1">Donations can be made through our website via secure online payment methods. We accept contributions in the form of money, goods, and services.
+                            You can also participate in our fundraising events or set up a regular donation plan.</p>
+                        <a href="contact.php" class="thm-btn faq-one__btn">Learn how to get help</a>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="faq-one__right">
+                        <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
+                            <div class="accrodion active">
+                                <div class="accrodion-title">
+                                    <h4>What is the Veer Nari Shakti Resettlement Foundation?</h4>
                                 </div>
-                                <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                    support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                    reprehenderit.</p>
-                                <div class="testimonial-two__client-info">
-                                    <h4 class="testimonial-two__client-name">Jessica brown</h4>
-                                    <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                <div class="accrodion-content">
+                                    <div class="inner">
+                                        <p>The Veer Nari Shakti Resettlement Foundation is a non-governmental organization (NGO) dedicated to supporting and empowering the widows of martyred soldiers.
+                                            Our mission is to provide them with the necessary resources and opportunities to rebuild their lives and achieve financial independence.</p>
+                                    </div><!-- /.inner -->
                                 </div>
-                                <div class="testimonial-two__rating">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
+                            </div>
+                            <div class="accrodion">
+                                <div class="accrodion-title">
+                                    <h4>What services does the foundation provide?</h4>
+                                </div>
+                                <div class="accrodion-content">
+                                    <div class="inner">
+                                        <p>We offer a range of services including financial assistance, vocational training, education scholarships for children, healthcare support, legal aid, and emotional counseling.
+                                            We also help in facilitating employment opportunities and entrepreneurship programs.</p>
+                                    </div><!-- /.inner -->
+                                </div>
+                            </div>
+                            <div class="accrodion">
+                                <div class="accrodion-title">
+                                    <h4>How can I apply for assistance from the foundation?</h4>
+                                </div>
+                                <div class="accrodion-content">
+                                    <div class="inner">
+                                        <p>To apply for assistance, please visit our official website and fill out the application form available under the "Apply for Assistance" section.
+                                            You can also contact our helpline or visit our local offices for further guidance and support.</p>
+                                    </div><!-- /.inner -->
+                                </div>
+                            </div>
+                            <div class="accrodion last-chiled">
+                                <div class="accrodion-title">
+                                    <h4>How is my donation used?</h4>
+                                </div>
+                                <div class="accrodion-content">
+                                    <div class="inner">
+                                        <p>Your donation is utilized to fund various programs aimed at empowering veer naris and their families. This includes vocational training, education scholarships, healthcare services, and emergency financial aid.
+                                            We ensure that all contributions are used transparently and effectively to maximize impact.</p>
+                                    </div><!-- /.inner -->
                                 </div>
                             </div>
                         </div>
-                        <!--Testimonial Two Single End-->
                     </div>
                 </div>
             </div>
-        </section>
-        <!--Testimonial Two End-->
-          
-        
-        <!--Brand One Start-->
-        <section class="brand-one">
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 1000 },"loop":"true","breakpoints": {
-                            "0": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "375": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 2
-                            },
-                            "575": {
-                                "spaceBetween": 30,
-                                "slidesPerView": 3
-                            },
-                            "767": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 4
-                            },
-                            "991": {
-                                "spaceBetween": 50,
-                                "slidesPerView": 5
-                            },
-                            "1199": {
-                                "spaceBetween": 100,
-                                "slidesPerView": 6
-                            }
-                        }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img src="assets\images\army logo\Assam-rifles-logo-150x150.jpg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\army logo\BSF-Logo-150x150.jpg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\army logo\Indian_Navy_logo-150x150.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\army logo\Indian-army-logo-150x150.jpg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\army logo\Indian-coast-guard-logo-150x150.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\army logo\ITBP-logo-150x150.jpg" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\army logo\NSG-India-logo-150x150.png" alt="">
-                        </div><!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets\images\army logo\Sashastra_Seema_Bal-logo-150x150.png" alt="">
-                        </div><!-- /.swiper-slide -->
-
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Brand One End-->
-
-        <!--Gallery One Start-->
-       
-        <!--Gallery One End-->
-
-        <!--FAQ One Start-->
-        <section class="faq-one">
-            <div class="faq-one-shape-1" style="background-image: url(assets/images/shapes/faq-one-shape-1.png);"></div>
-            <div class="faq-one-bg" style="background-image: url(assets/images/backgrounds/faq-one-bg.png);"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="faq-one__left">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Recently asked questions</span>
-                                <h2 class="section-title__title">People are frequently asking some questions from us
-                                </h2>
-                            </div>
-                            <p class="faq-one__text-1">Proactively procrastinate cross-platform results via extensive
-                                ideas distinctively underwhelm enterprise. Compellingly plagiarize value-added sources
-                                with inexpensive schemas.</p>
-                            <a href="faq.php" class="thm-btn faq-one__btn">Learn how to get help</a>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="faq-one__right">
-                            <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                                <div class="accrodion active">
-                                    <div class="accrodion-title">
-                                        <h4>Nulla eu purus scelerisque, dignissim diam.</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <h4>Quisque non diam porta, ullamcorper dolor sit amet.</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <h4>How can I make a change to my application?</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion last-chiled">
-                                    <div class="accrodion-title">
-                                        <h4>Sed mattis neque sed commodo efficitur.</h4>
-                                    </div>
-                                    <div class="accrodion-content">
-                                        <div class="inner">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--FAQ One End-->
-        <section class="gallery-four">
+        </div>
+    </section>
+    <!--FAQ One End-->
+    <section class="gallery-four">
         <div class="section-title text-center" style="margin: 20px;">
-                    <h2 class="section-title__title">OUR GALLERY</h2>
-                  
-                </div>
-            <div class="gallery-four__carousel thm-owl__carousel owl-carousel owl-theme" data-owl-options='{
+            <h2 class="section-title__title">OUR GALLERY</h2>
+
+        </div>
+        <div class="gallery-four__carousel thm-owl__carousel owl-carousel owl-theme" data-owl-options='{
                 "items": 1,
                 "margin": 5,
                 "loop": true,
@@ -722,100 +678,100 @@
                     }
                 }
                 }'>
-                <div class="gallery-four__item">
-                    <img src="assets/images/gallery/gallery-4-1.jpg" alt="oxpins">
-                    <a href="assets/images/gallery/gallery-4-1.jpg" class="img-popup"></a>
-                </div>
-                <div class="gallery-four__item">
-                    <img src="assets/images/gallery/gallery-4-2.jpg" alt="oxpins">
-                    <a href="assets/images/gallery/gallery-4-2.jpg" class="img-popup"></a>
-                </div>
-                <div class="gallery-four__item">
-                    <img src="assets/images/gallery/gallery-4-3.jpg" alt="oxpins">
-                    <a href="assets/images/gallery/gallery-4-3.jpg" class="img-popup"></a>
-                </div>
-                <div class="gallery-four__item">
-                    <img src="assets/images/gallery/gallery-4-4.jpg" alt="oxpins">
-                    <a href="assets/images/gallery/gallery-4-4.jpg" class="img-popup"></a>
-                </div>
-                <div class="gallery-four__item">
-                    <img src="assets/images/gallery/gallery-4-5.jpg" alt="oxpins">
-                    <a href="assets/images/gallery/gallery-4-5.jpg" class="img-popup"></a>
-                </div>
+            <div class="gallery-four__item">
+                <img src="assets/images/gallery/gallery-4-1.jpg" alt="oxpins">
+                <a href="assets/images/gallery/gallery-4-1.jpg" class="img-popup"></a>
             </div>
-        </section>
+            <div class="gallery-four__item">
+                <img src="assets/images/gallery/gallery-4-2.jpg" alt="oxpins">
+                <a href="assets/images/gallery/gallery-4-2.jpg" class="img-popup"></a>
+            </div>
+            <div class="gallery-four__item">
+                <img src="assets/images/gallery/gallery-4-3.jpg" alt="oxpins">
+                <a href="assets/images/gallery/gallery-4-3.jpg" class="img-popup"></a>
+            </div>
+            <div class="gallery-four__item">
+                <img src="assets/images/gallery/gallery-4-4.jpg" alt="oxpins">
+                <a href="assets/images/gallery/gallery-4-4.jpg" class="img-popup"></a>
+            </div>
+            <div class="gallery-four__item">
+                <img src="assets/images/gallery/gallery-4-5.jpg" alt="oxpins">
+                <a href="assets/images/gallery/gallery-4-5.jpg" class="img-popup"></a>
+            </div>
+        </div>
+    </section>
 
-        <!--Counter One Start-->
-        
-        <!--Counter One End-->
+    <!--Counter One Start-->
 
-        <!--News One Start-->
-      
-        <!--News One End-->
+    <!--Counter One End-->
 
-        <!--Site Footer Start-->
-        <?php include('includes/footer.php'); ?>
-        <!--Site Footer End-->
+    <!--News One Start-->
+
+    <!--News One End-->
+
+    <!--Site Footer Start-->
+    <?php include('includes/footer.php'); ?>
+    <!--Site Footer End-->
 
 
     </div><!-- /.page-wrapper -->
 
-    
-<div class="mobile-nav__wrapper">
-    <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-    <!-- /.mobile-nav__overlay -->
-    <div class="mobile-nav__content">
-        <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
-        <div class="logo-box">
-            <a href="index.php" aria-label="logo image"><img src="assets/images/logo/vnslogo.png" height="143" alt="" /></a>
+    <div class="mobile-nav__wrapper">
+        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+        <!-- /.mobile-nav__overlay -->
+        <div class="mobile-nav__content">
+            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+
+            <div class="logo-box">
+                <a href="index.php" aria-label="logo image"><img src="assets/images/logo/vnslogo.png" height="143" alt="" /></a>
+
+            </div>
+            <!-- /.logo-box -->
+            <div class="mobile-nav__container"></div>
+            <!-- /.mobile-nav__container -->
+
+            <ul class="mobile-nav__contact list-unstyled">
+                <li>
+                    <i class="fa fa-envelope"></i>
+                    <a href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a>
+                </li>
+                <li>
+                    <i class="fa fa-phone-alt"></i>
+                    <a href="tel:+91 9821 022 008">+91 9821 022 008</a>
+                </li>
+            </ul><!-- /.mobile-nav__contact -->
+            <div class="mobile-nav__top">
+                <div class="mobile-nav__social">
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-facebook-square"></a>
+                    <a href="#" class="fab fa-pinterest-p"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
+
+
 
         </div>
-        <!-- /.logo-box -->
-        <div class="mobile-nav__container"></div>
-        <!-- /.mobile-nav__container -->
-
-        <ul class="mobile-nav__contact list-unstyled">
-            <li>
-                <i class="fa fa-envelope"></i>
-                <a href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a>
-            </li>
-            <li>
-                <i class="fa fa-phone-alt"></i>
-                <a href="tel:+91 9821 022 008">+91 9821 022 008</a>
-            </li>
-        </ul><!-- /.mobile-nav__contact -->
-        <div class="mobile-nav__top">
-            <div class="mobile-nav__social">
-                <a href="#" class="fab fa-twitter"></a>
-                <a href="#" class="fab fa-facebook-square"></a>
-                <a href="#" class="fab fa-pinterest-p"></a>
-                <a href="#" class="fab fa-instagram"></a>
-            </div><!-- /.mobile-nav__social -->
-        </div><!-- /.mobile-nav__top -->
-
-
-
+        <!-- /.mobile-nav__content -->
     </div>
-    <!-- /.mobile-nav__content -->
-</div>
-<!-- /.mobile-nav__wrapper -->
+    <!-- /.mobile-nav__wrapper -->
 
-<div class="search-popup">
-    <div class="search-popup__overlay search-toggler"></div>
-    <!-- /.search-popup__overlay -->
-    <div class="search-popup__content">
-        <form action="#">
-            <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
-            <input type="text" id="search" placeholder="Search Here..." />
-            <button type="submit" aria-label="search submit" class="thm-btn">
-                <i class="icon-magnifying-glass"></i>
-            </button>
-        </form>
+    <div class="search-popup">
+        <div class="search-popup__overlay search-toggler"></div>
+        <!-- /.search-popup__overlay -->
+        <div class="search-popup__content">
+            <form action="#">
+                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
+                <input type="text" id="search" placeholder="Search Here..." />
+                <button type="submit" aria-label="search submit" class="thm-btn">
+                    <i class="icon-magnifying-glass"></i>
+                </button>
+            </form>
+        </div>
+        <!-- /.search-popup__content -->
     </div>
-    <!-- /.search-popup__content -->
-</div>
-  
+
     <!-- /.search-popup -->
 
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="icon-up-arrow"></i></a>

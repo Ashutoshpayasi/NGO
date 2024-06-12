@@ -836,7 +836,7 @@ ul {
   /* background-color: var(--oxpins-primary); */
   background-color: #FFA800;
   padding-left: 50px;
-  padding-top: 17px;
+  padding-top: 23px;
   padding-bottom: 17px;
   position: relative;
   display: flex;
@@ -7115,7 +7115,7 @@ body.locked .page-wrapper {
 .about-three {
   position: relative;
   display: block;
-  padding: 120px 0 179px;
+  padding: 0px 0 79px;
 }
 
 .about-three__left {

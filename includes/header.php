@@ -109,17 +109,25 @@
 
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Events</a>
-                                        <ul>
+                                        <a href="events.php">Events</a>
+                                        <!-- <ul>
                                             <li><a href="events.php">Events</a></li>
                                             <li><a href="events-carousel.php">Events carousel</a></li>
                                             <li><a href="event-details.php">Event details</a></li>
-                                        </ul>
+                                        </ul> -->
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#">Promotions</a>
+                                        <!-- <ul>
+                                            <li><a href="events.php"></a></li>
+                                            <li><a href="events-carousel.php">Events carousel</a></li>
+                                            <li><a href="event-details.php">Event details</a></li>
+                                        </ul> -->
                                     </li>
 
-                                    <li class="dropdown">
+                                    <!-- <li class="dropdown">
                                         <button class="download-btn" data-url="assets\brochure\veer_nari_shakti_0.pdf">Download Brochure</button>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <a href="gallery.php">Gallery</a>
                                     </li>
@@ -127,12 +135,12 @@
                             </div>
                             <div class="main-menu__main-menu-content-box">
                                 <div class="main-menu__search-cat-btn-box">
-                                    <div class="main-menu__search-box">
+                                    <!-- <div class="main-menu__search-box">
                                         <a href="#" class="main-menu__search search-toggler icon-magnifying-glass"></a>
                                     </div>
                                     <div class="main-menu__cat-box">
                                         <a href="cart.php" class="main-menu__cart icon-shopping-cart"></a>
-                                    </div>
+                                    </div> -->
                                     <div class="main-menu__btn-box">
                                         <a href="https://eazypay.icicibank.com/eazypayLink?P1=wvMjvn/rUQaWiz5GvbP5Jw==" target="_blank" class="main-menu__btn"> <span class="fa fa-heart"></span> Donate
                                             now</a>
@@ -155,22 +163,26 @@
     <div id="social-sidebar" class="sidebar-fixed">
         <aside class="sidebar-content">
             <div class="side-social-icons">
+            <div href="#" class="whatsapp">
+                    <a href=""><i class="fab fa-whatsapp"></i>WhatsApp</a>
+                </div>
+                <div href="http://www.linkedin.com/in/veernari" class="linkedin">
+                    <a href="http://www.linkedin.com/in/veernari"><i class="fab fa-linkedin"></i>LinkedIn</a>
+                </div>
+                <div href="https://www.youtube.com/@veernari" class="youtube">
+                    <a href="https://www.youtube.com/@veernari"><i class="fab fa-youtube"></i>YouTube</a>
+                </div>
+
                 <div href="#" class="facebook">
                     <a href=""><i class="fab fa-facebook-square"></i>Facebook</a>
                 </div>
                 
-                <!-- <div href="#" class="linkedin">
-                    <a href=""><i class="fab fa-linkedin"></i>LinkedIn</a>
-                </div> -->
-                <div href="#" class="whatsapp">
-                    <a href=""><i class="fab fa-whatsapp"></i>WhatsApp</a>
-                </div>
+                
+                
                 <div href="#" class="instagram">
                     <a href=""><i class="fab fa-instagram"></i>Instagram</a>
                 </div>
-                <div href="#" class="youtube">
-                    <a href=""><i class="fab fa-youtube"></i>YouTube</a>
-                </div>
+               
             </div>
         </aside>
             
