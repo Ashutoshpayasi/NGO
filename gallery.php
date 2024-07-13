@@ -61,7 +61,7 @@
     <section class="page-header">
         <div class="page-header-bg">
             <div class="video-container">
-                <iframe width="100%"  src="https://www.youtube.com/embed/Q90u5LO63f0?autoplay=1&mute=1&loop=1&playlist=Q90u5LO63f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="100%" src="https://www.youtube.com/embed/Q90u5LO63f0?autoplay=1&mute=1&loop=1&playlist=Q90u5LO63f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
     </section>
@@ -79,7 +79,7 @@
             top: 0;
             left: 0;
             width: 100%;
-            
+
             z-index: -1;
             /* Send the video behind the content */
         }
@@ -117,13 +117,10 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
-                            <img src="assets/images/gallery/gallery-page-1-1.jpg" alt="">
-                            <a href="assets/images/gallery/gallery-page-1-1.jpg" class="img-popup"></a>
+                            <img src="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" alt="">
+                            <a href="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
-                                <p class="gallery-page__sub-title">Charity</p>
-                                <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                          
                         </div>
                     </div>
                 </div>
@@ -132,13 +129,13 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
-                            <img src="assets\images\army logo\gallery\children-with-balloons-street_875337-184.avif" alt="">
-                            <a href="assets\images\army logo\gallery\children-with-balloons-street_875337-184.avif" class="img-popup"></a>
+                            <img src="assets\images\soldiers\Army truck banner 2023-01-24 at 19.41.04.jpeg" alt="">
+                            <a href="assets\images\soldiers\Army truck banner 2023-01-24 at 19.41.04.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
+                            <!-- <div class="gallery-page__content">
                                 <p class="gallery-page__sub-title">Charity</p>
                                 <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -147,13 +144,13 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
-                            <img src="assets\images\army logo\gallery\school-children-dressed-uniform-have-fun-play-schoolyard_8353-6640.jpg" alt="">
-                            <a href="assets\images\army logo\gallery\school-children-dressed-uniform-have-fun-play-schoolyard_8353-6640.jpg" class="img-popup"></a>
+                            <img src="assets\images\soldiers\banner Image 2022-07-11 at 11.42.26 AM.jpeg" alt="">
+                            <a href="assets\images\soldiers\banner Image 2022-07-11 at 11.42.26 AM.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
+                            <!-- <div class="gallery-page__content">
                                 <p class="gallery-page__sub-title">Charity</p>
                                 <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -165,10 +162,7 @@
                             <img src="assets\images\army logo\gallery\full-shot-soldiers-war-zone_23-2150804361.jpg" alt="">
                             <a href="assets\images\army logo\gallery\full-shot-soldiers-war-zone_23-2150804361.jpg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
-                                <p class="gallery-page__sub-title">Charity</p>
-                                <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -177,13 +171,10 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
-                            <img src="assets\images\army logo\gallery\helping-hands-volunteer-support-community-service-graphic_53876-64955.jpg" alt="">
-                            <a href="assets\images\army logo\gallery\helping-hands-volunteer-support-community-service-graphic_53876-64955.jpg" class="img-popup"></a>
+                            <img src="assets\images\soldiers\banner SO Col. Vijay Mishra Sept 23.jpeg" alt="">
+                            <a href="assets\images\soldiers\banner SO Col. Vijay Mishra Sept 23.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
-                                <p class="gallery-page__sub-title">Charity</p>
-                                <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -192,13 +183,10 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
-                            <img src="assets\images\army logo\gallery\team-volunteers-holding-donation-boxes-looking-camera_637285-10775.jpg" alt="">
-                            <a href="assets\images\army logo\gallery\team-volunteers-holding-donation-boxes-looking-camera_637285-10775.jpg" class="img-popup"></a>
+                            <img src="assets\images\soldiers\Banner_Major Mustafa_23 Oct_2022  (1).jpeg" alt="">
+                            <a href="assets\images\soldiers\Banner_Major Mustafa_23 Oct_2022  (1).jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
-                                <p class="gallery-page__sub-title">Charity</p>
-                                <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -207,13 +195,10 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
-                            <img src="assets\images\army logo\gallery\support-donations-welfare-charity-icon_53876-125193.jpg" alt="">
-                            <a href="assets\images\army logo\gallery\support-donations-welfare-charity-icon_53876-125193.jpg" class="img-popup"></a>
+                            <img src="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" alt="">
+                            <a href="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
-                                <p class="gallery-page__sub-title">Charity</p>
-                                <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -222,13 +207,10 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
-                            <img src="assets\images\army logo\gallery\elderly-person-children-holding-plant_1150-18573.avif" alt="">
-                            <a href="assets\images\army logo\gallery\elderly-person-children-holding-plant_1150-18573.avif" class="img-popup"></a>
+                            <img src="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" alt="">
+                            <a href="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
-                                <p class="gallery-page__sub-title">Charity</p>
-                                <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -237,13 +219,10 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
-                            <img src="assets\images\army logo\gallery\ngo.avif" alt="">
-                            <a href="assets\images\army logo\gallery\ngo.avif" class="img-popup"></a>
+                            <img src="assets\images\soldiers\banner_Major Mustafa_23 Oct_2022  (2).jpeg" alt="">
+                            <a href="assets\images\soldiers\banner_Major Mustafa_23 Oct_2022  (2).jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            <div class="gallery-page__content">
-                                <p class="gallery-page__sub-title">Charity</p>
-                                <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -253,8 +232,90 @@
     </section>
     <!--Gallery Page End-->
 
+    
 
     <!--Site Footer Start-->
+    <section class="video-gallery">
+        <div class="container">
+            <div class="row">
+                <!-- Video Gallery Item 1 -->
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="video-gallery__item">
+                        <video controls  width="100%" poster="assets\images\army logo\slider1.jpg">
+                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+
+                        </video>
+                    </div>
+                </div>
+                <!-- Video Gallery Item 2 -->
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="video-gallery__item">
+                        <video controls width="100%" poster="">
+                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                </div>
+                <!-- Video Gallery Item 3 -->
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="video-gallery__item">
+                        <video controls width="100%" poster="">
+                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+
+                        </video>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="video-gallery__item">
+                        <video controls width="100%" poster="">
+                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+
+                        </video>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="video-gallery__item">
+                        <video controls width="100%" poster="">
+                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+
+                        </video>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="video-gallery__item">
+                        <video controls width="100%" poster="">
+                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+
+                        </video>
+                    </div>
+                </div>
+                <!-- Add more video items as needed -->
+            </div>
+        </div>
+    </section>
+
+    <style>
+        .video-gallery {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .video-gallery__item {
+            margin-bottom: 30px;
+            /* Adjust as needed for spacing between rows */
+        }
+
+        .video-gallery__item video {
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            display: block;
+        }
+        
+    </style>
+ <script>
+    
+ </script>
     <?php include 'includes/footer.php' ?>
     <!--Site Footer End-->
 

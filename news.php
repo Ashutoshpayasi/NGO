@@ -3,7 +3,9 @@
 
 
 <!-- Mirrored from pixydrops.com/oxpinshtml/main-html/news.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jun 2024 06:58:54 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -20,12 +22,9 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 
@@ -156,8 +155,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-1.png"
-                                                                                        alt="Home Page 01">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-1.png" alt="Home Page 01">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index-one-page.php" class="thm-btn">One Page</a>
@@ -174,8 +172,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-2.png"
-                                                                                        alt="Home Page 02">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-2.png" alt="Home Page 02">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index2.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index2-one-page.php" class="thm-btn">One
@@ -193,8 +190,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-3.png"
-                                                                                        alt="Home page 03">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-3.png" alt="Home page 03">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index3.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index3-one-page.php" class="thm-btn">One
@@ -212,8 +208,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-4.png"
-                                                                                        alt="Home page 04">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-4.png" alt="Home page 04">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index4.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index4-one-page.php" class="thm-btn">One
@@ -231,8 +226,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-5.png"
-                                                                                        alt="Home page 05">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-5.png" alt="Home page 05">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index5.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index5-one-page.php" class="thm-btn">One
@@ -250,8 +244,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-6.png"
-                                                                                        alt="Home Boxed">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-6.png" alt="Home Boxed">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index-boxed.php" class="thm-btn">View
                                                                                             Page</a>
@@ -267,8 +260,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-7.png"
-                                                                                        alt="Home RTL">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-7.png" alt="Home RTL">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index-rtl.php#googtrans(en%7car)" class="thm-btn">View Page</a>
                                                                                     </div><!-- /.demo-one__btns -->
@@ -346,15 +338,13 @@
                                 <div class="main-menu__main-menu-content-box">
                                     <div class="main-menu__search-cat-btn-box">
                                         <div class="main-menu__search-box">
-                                            <a href="#"
-                                                class="main-menu__search search-toggler icon-magnifying-glass"></a>
+                                            <a href="#" class="main-menu__search search-toggler icon-magnifying-glass"></a>
                                         </div>
                                         <div class="main-menu__cat-box">
                                             <a href="cart.php" class="main-menu__cart icon-shopping-cart"></a>
                                         </div>
                                         <div class="main-menu__btn-box">
-                                            <a href="donate-now.php" class="main-menu__btn"> <span
-                                                    class="fa fa-heart"></span> Donate
+                                            <a href="donate-now.php" class="main-menu__btn"> <span class="fa fa-heart"></span> Donate
                                                 now</a>
                                         </div>
                                     </div>
@@ -654,7 +644,155 @@
             </div>
         </section>
         <!--News Page End-->
-
+        <section class="causes-three">
+        <div class="causes-three-bg-box">
+            <div class="causes-three-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%" style="background-image: none;" data-jarallax-original-styles="background-image: url(assets/images/backgrounds/causes-three-bg.jpg);">
+                <div id="jarallax-container-0" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; z-index: -100;">
+                    <div style="background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url(&quot;https://eksahyog.com/assets/images/backgrounds/causes-three-bg.jpg&quot;); position: fixed; top: 0px; left: 0px; width: 1349px; height: 387.4px; overflow: hidden; pointer-events: none; transform-style: preserve-3d; backface-visibility: hidden; will-change: transform, opacity; margin-top: -32.2px; transform: translate3d(0px, -30.6px, 0px);"></div>
+                </div>
+            </div>
+            <div class="causes-three-shape-1" style="background-image: url(assets/images/shapes/causes-three-shape-1.png);"></div>
+        </div>
+        <div class="container">
+            <div class="section-title text-center">
+                <span class="section-title__tagline">Help &amp; donate</span>
+                <h3 class="section-title__title">Find the popular cause <br> and donate them</h3>
+            </div>
+            <div class="row">
+                <!--Causes One Single Start-->
+                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">
+                    <div class="causes-one__single">
+                        <div class="causes-one__img">
+                            <img src="assets/images/resources/causes-1-1.jpg" alt="">
+                            <div class="causes-one__cat">
+                                <p>Health</p>
+                            </div>
+                        </div>
+                        <div class="causes-one__content">
+                            <p class="causes-one__title"><a href="donation-details.php">Health</a>
+                            </p>
+                            <p class="causes-one__text">Health and medical research is a popular cause that people
+                                donate to. You can contribute to this cause by donating to organizations that fund
+                                medical research or by participating in fundraising events such as charity walks or
+                                runs.</p>
+                            <div class="causes-one__progress">
+                                <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
+                                </div>
+                                <div class="bar">
+                                    <div class="bar-inner count-bar counted" data-percent="36%" style="width: 36%;">
+                                        <div class="count-text">36%</div>
+                                    </div>
+                                </div>
+                                <div class="causes-one__goals">
+                                    <p><span>₹25,270</span> Raised</p>
+                                    <p><span>₹30,000</span> Goal</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Causes One Single End-->
+                <!--Causes One Single Start-->
+                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeInUp;">
+                    <div class="causes-one__single">
+                        <div class="causes-one__img">
+                            <img src="assets/images/resources/causes-1-1.jpg" alt="">
+                            <div class="causes-one__cat">
+                                <p>Education</p>
+                            </div>
+                        </div>
+                        <div class="causes-one__content">
+                            <p class="causes-one__title"><a href="donation-details.php">Education</a>
+                            </p>
+                            <p class="causes-one__text">Environmental conservation is another popular cause that
+                                people donate to. You can contribute to this cause by donating to organizations that
+                                protect the environment or by participating in activities such as tree planting or
+                                beach cleanups.</p>
+                            <div class="causes-one__progress">
+                                <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
+                                </div>
+                                <div class="bar">
+                                    <div class="bar-inner count-bar counted" data-percent="36%" style="width: 36%;">
+                                        <div class="count-text">36%</div>
+                                    </div>
+                                </div>
+                                <div class="causes-one__goals">
+                                    <p><span>₹25,270</span> Raised</p>
+                                    <p><span>₹30,000</span> Goal</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Causes One Single End-->
+                <!--Causes One Single Start-->
+                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">
+                    <div class="causes-one__single">
+                        <div class="causes-one__img">
+                            <img src="assets/images/resources/causes-1-1.jpg" alt="">
+                            <div class="causes-one__cat">
+                                <p>Poverty Alleviation</p>
+                            </div>
+                        </div>
+                        <div class="causes-one__content">
+                            <p class="causes-one__title"><a href="donation-details.php">Poverty Alleviation</a>
+                            </p>
+                            <p class="causes-one__text">Education is a cause that many people are passionate about.
+                                You can contribute to this cause by donating to organizations that provide education
+                                to underprivileged children or by sponsoring a child's education.</p>
+                            <div class="causes-one__progress">
+                                <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
+                                </div>
+                                <div class="bar">
+                                    <div class="bar-inner count-bar counted" data-percent="36%" style="width: 36%;">
+                                        <div class="count-text">36%</div>
+                                    </div>
+                                </div>
+                                <div class="causes-one__goals">
+                                    <p><span>₹25,270</span> Raised</p>
+                                    <p><span>₹30,000</span> Goal</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Causes One Single End-->
+                <!--Causes One Single Start-->
+                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
+                    <div class="causes-one__single">
+                        <div class="causes-one__img">
+                            <img src="assets/images/resources/causes-1-1.jpg" alt="">
+                            <div class="causes-one__cat">
+                                <p>Women Empowerment</p>
+                            </div>
+                        </div>
+                        <div class="causes-one__content">
+                            <p class="causes-one__title"><a href="donation-details.php">Women Empowerment</a>
+                            </p>
+                            <p class="causes-one__text">Women empowerment is crucial for creating a more equitable
+                                and just society. Your donation to organizations that support women's rights,
+                                provide education and training for women.
+                            </p>
+                            <div class="causes-one__progress">
+                                <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
+                                </div>
+                                <div class="bar">
+                                    <div class="bar-inner count-bar counted" data-percent="36%" style="width: 36%;">
+                                        <div class="count-text">36%</div>
+                                    </div>
+                                </div>
+                                <div class="causes-one__goals">
+                                    <p><span>₹25,270</span> Raised</p>
+                                    <p><span>₹30,000</span> Goal</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Causes One Single End-->
+            </div>
+        </div>
+    </section>
         <!--Site Footer Start-->
         <footer class="site-footer">
             <div class="site-footer-bg" style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg);">
@@ -761,8 +899,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143"
-                        alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -847,4 +984,5 @@
 
 
 <!-- Mirrored from pixydrops.com/oxpinshtml/main-html/news.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jun 2024 06:58:58 GMT -->
+
 </html>

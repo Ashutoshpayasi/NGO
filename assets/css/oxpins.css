@@ -929,6 +929,7 @@ ul {
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
   font-weight: 600;
+  margin: -7px;
 }
 
 .main-menu .main-menu__list > li.current > a,
@@ -7338,8 +7339,8 @@ body.locked .page-wrapper {
 .causes-three {
   position: relative;
   display: block;
-  padding: 270px 0 90px;
-  margin-top: -176px;
+  padding: 70px 0 40px;
+  margin-top: -76px;
 }
 
 .causes-three .container {

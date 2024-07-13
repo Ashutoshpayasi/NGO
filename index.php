@@ -58,15 +58,26 @@
     <?php include('includes/header.php'); ?>
 
     <!--Main Slider Start-->
-    <section class="page-header">
+    <!-- <section class="page-header">
         <div class="page-header-bg">
             <div class="video-container">
                 <iframe width="100%" src="https://www.youtube.com/embed/Q90u5LO63f0?autoplay=1&mute=1&loop=1&playlist=Q90u5LO63f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
-    </section>
+    </section> -->
+    <section class="page-header">
+    <div class="page-header-bg">
+        <div class="video-container">
+            <video width="100%" height="400" loop muted autoplay poster="path/to/poster.jpg">
+                <source src="assets/images/logo/Veer Nari Shakti Video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+    </div>
+</section>
 
-    <style>
+
+    <!-- <style>
         .page-header {
             position: relative;
             overflow: hidden;
@@ -104,6 +115,44 @@
             pointer-events: none;
             /* Ensure the video doesn't interfere with user interactions */
         }
+    </style> -->
+    <style>
+        .page-header {
+    position: relative;
+    overflow: hidden;
+    padding-top: 20%;
+    /* 16:9 Aspect Ratio */
+}
+
+.page-header-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+    /* Send the video behind the content */
+}
+
+.video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 550px; /* Specific height as requested */
+    background-color: black;
+    overflow: hidden;
+}
+
+.video-container video {
+    min-width: 100%;
+  
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none; /* Prevents clicks on the video from triggering events on underlying elements */
+}
+
     </style>
     <!--Main Slider End-->
 
@@ -116,12 +165,12 @@
                     <div class="about-four__left">
                         <div class="about-four__img-box">
                             <div class="about-four__img">
-                                <img src="assets\images\army logo\gallery\img14.png" alt="">
+                                <img src="assets\images\soldiers\armyimg.jpg" style="height:500px;width:600px" alt="">
                             </div>
-                            <div class="about-four__img-two">
+                            <!-- <div class="about-four__img-two">
                                 <img src="assets\images\army logo\gallery\img15.png" alt="">
-                            </div>
-                            <div class="about-four__border"></div>
+                            </div> -->
+                            <!-- <div class="about-four__border"></div> -->
                         </div>
                     </div>
                 </div>
@@ -129,7 +178,7 @@
                     <div class="about-four__right">
                         <div class="section-title text-left">
                             <span class="section-title__tagline">WE ARE
-                                VEER NARI SHAKTI FOUNDATION</span>
+                                VEERNARI SHAKTI RESETTLEMENT FOUNDATION</span>
                             <h2 class="section-title__title">Get to know about our
                                 organization</h2>
                         </div>
@@ -158,10 +207,10 @@
                 <div class="col-xl-6">
                     <div class="about-one__left">
                         <div class="section-title text-left">
-                            <span class="section-title__tagline">WELCOME TO VEER NARI SHAKTI FOUNDATION CHARITY</span>
+                            <span class="section-title__tagline">WELCOME TO VEERNARI SHAKTI FOUNDATION CHARITY</span>
                             <h2 class="section-title__title">Helping each other can make world better</h2>
                         </div>
-                        <p class="about-one__text">Veer Nari Shakti Resettlement Foundation works to counsel, support and empower veer naris to get their due rights, resume their lives and build upon sustainable
+                        <p class="about-one__text">VeerNari Shakti Resettlement Foundation works to counsel, support and empower veernaris to get their due rights, resume their lives and build upon sustainable
                             livelihoods to lead a respectful life of a proud soldier. </p>
                         <div class="about-one__fund">
                             <p class="about-one__fund-text">Helped fund <span>24,537</span> Projects in
@@ -180,7 +229,7 @@
                             <div class="about-one__curved-circle-box">
                                 <div class="curved-circle">
                                     <span class="curved-circle--item">
-                                        21 YEARS EXPERIENCE VEER NARI SHAKTI CHARITY CENTER
+                                        21 YEARS EXPERIENCE VEERNARI SHAKTI CHARITY CENTER
                                     </span>
                                 </div><!-- /.curved-circle -->
                                 <div class="about-one__curved-circle-icon">
@@ -379,7 +428,7 @@
         <div class="container">
             <div class="section-title text-center">
                 <span class="section-title__tagline">Our testimonials</span>
-                <h2 class="section-title__title">What People's talking <br> about Veer Nari Shakti </h2>
+                <h2 class="section-title__title">What People's talking <br> about VeerNari Shakti </h2>
             </div>
             <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                     "loop": true,
@@ -596,11 +645,11 @@
                         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                             <div class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h4>What is the Veer Nari Shakti Resettlement Foundation?</h4>
+                                    <h4>What is the VeerNari Shakti Resettlement Foundation?</h4>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
-                                        <p>The Veer Nari Shakti Resettlement Foundation is a non-governmental organization (NGO) dedicated to supporting and empowering the widows of martyred soldiers.
+                                        <p>The VeerNari Shakti Resettlement Foundation is a non-governmental organization (NGO) dedicated to supporting and empowering the widows of martyred soldiers.
                                             Our mission is to provide them with the necessary resources and opportunities to rebuild their lives and achieve financial independence.</p>
                                     </div><!-- /.inner -->
                                 </div>
@@ -678,26 +727,26 @@
                     }
                 }
                 }'>
+            
             <div class="gallery-four__item">
-                <img src="assets/images/gallery/gallery-4-1.jpg" alt="oxpins">
-                <a href="assets/images/gallery/gallery-4-1.jpg" class="img-popup"></a>
+                <img src="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" alt="oxpins">
+                <a href="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" class="img-popup"></a>
+            </div>
+           
+            
+            <div class="gallery-four__item">
+                <img src="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" alt="oxpins" style="height: 360px;">
+                <a href="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" class="img-popup"></a>
             </div>
             <div class="gallery-four__item">
-                <img src="assets/images/gallery/gallery-4-2.jpg" alt="oxpins">
-                <a href="assets/images/gallery/gallery-4-2.jpg" class="img-popup"></a>
+                <img src="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" alt="oxpins" style="height: 360px;">
+                <a href="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" class="img-popup"></a>
             </div>
-            <div class="gallery-four__item">
-                <img src="assets/images/gallery/gallery-4-3.jpg" alt="oxpins">
-                <a href="assets/images/gallery/gallery-4-3.jpg" class="img-popup"></a>
-            </div>
-            <div class="gallery-four__item">
-                <img src="assets/images/gallery/gallery-4-4.jpg" alt="oxpins">
-                <a href="assets/images/gallery/gallery-4-4.jpg" class="img-popup"></a>
-            </div>
-            <div class="gallery-four__item">
-                <img src="assets/images/gallery/gallery-4-5.jpg" alt="oxpins">
-                <a href="assets/images/gallery/gallery-4-5.jpg" class="img-popup"></a>
-            </div>
+            
+            <!-- <div class="gallery-four__item">
+                <img src="assets\images\soldiers\SO Ghat Banner Oct 2022.jpeg" alt="oxpins" style="height: 300px;">
+                <a href="assets\images\soldiers\SO Ghat Banner Oct 2022.jpeg" class="img-popup"></a>
+            </div> -->
         </div>
     </section>
 

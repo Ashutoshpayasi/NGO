@@ -23,8 +23,8 @@
                             </a>
                         </div>
                         <div class="header-widget__about-text">
-                            VeerNari Shakti <br>
-                            Resettlement Foundation
+                            <b style="color: black;">VeerNari Shakti <br>
+                            Resettlement Foundation</b>
                         </div>
                     </div>
 
@@ -51,7 +51,7 @@
                                             </div>
                                             <div class="content">
                                                 <p>Helpline</p>
-                                                <h5><a href="tel: 9821022008">+91 9821022008</a></h5>
+                                                <h5><a href="https://api.whatsapp.com/send/?phone=+91 9821 022 008&text=hijijij&type=phone_number&app_absent=0">+91 9821022008</a></h5>
                                             </div>
                                         </li>
                                         <li>
@@ -60,16 +60,16 @@
                                             </div>
                                             <div class="content">
                                                 <p>Send email</p>
-                                                <h5><a href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a>
-                                                </h5>
+                                                <h5><a href="mailto:vnsrfoundation@gmail.com?subject=Inquiry&body=Hello,%20I%20have%20an%20inquiry.%20Best,%20[Your Name]">vnsrfoundation@gmail.com</a></h5>
                                             </div>
+
                                         </li>
                                         <li>
                                             <div class="icon">
                                                 <span class="icon-location"></span>
                                             </div>
                                             <div class="content">
-                                                <p>1-63,CGHS Society Vikaspuri</p>
+                                                <p>11-63,CGHS Society Vikaspuri</p>
                                                 <h5>Jankapuri,Delhi</h5>
                                             </div>
                                         </li>
@@ -77,9 +77,9 @@
                                 </div>
                                 <div class="main-menu__right-top-social">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://www.facebook.com/veernari.shakti"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.instagram.com/veernari_shakti/"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -104,17 +104,15 @@
                                                 <li><a href="404.php">404 Error</a></li>
                                             </ul> -->
                                     </li>
-                                    <li class="dropdown">
-                                        <a href="contact.php">Contacts</a>
 
-                                    </li>
                                     <li class="dropdown">
-                                        <a href="events.php">Events</a>
-                                        <!-- <ul>
-                                            <li><a href="events.php">Events</a></li>
-                                            <li><a href="events-carousel.php">Events carousel</a></li>
-                                            <li><a href="event-details.php">Event details</a></li>
-                                        </ul> -->
+                                        <a href="events.php">Services</a>
+                                        <ul>
+                                            <li><a href="events.php">Education</a></li>
+                                            <li><a href="events-carousel.php">Counseling</a></li>
+                                            <li><a href="event-details.php">Training</a></li>
+                                            <li><a href="event-details.php">Support</a></li>
+                                        </ul>
                                     </li>
                                     <li class="dropdown">
                                         <a href="#">Promotions</a>
@@ -124,12 +122,19 @@
                                             <li><a href="event-details.php">Event details</a></li>
                                         </ul> -->
                                     </li>
+                                    <li>
+                                        <a href="#">Testimonials</a>
+                                    </li>
 
                                     <!-- <li class="dropdown">
                                         <button class="download-btn" data-url="assets\brochure\veer_nari_shakti_0.pdf">Download Brochure</button>
                                     </li> -->
                                     <li>
                                         <a href="gallery.php">Gallery</a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="contact.php">Contact Us</a>
+
                                     </li>
                                 </ul>
                             </div>
@@ -163,8 +168,8 @@
     <div id="social-sidebar" class="sidebar-fixed">
         <aside class="sidebar-content">
             <div class="side-social-icons">
-            <div href="#" class="whatsapp">
-                    <a href=""><i class="fab fa-whatsapp"></i>WhatsApp</a>
+                <div href="#" class="whatsapp">
+                    <a href="https://api.whatsapp.com/send/?phone=+91 9821 022 008&text=hijijij&type=phone_number&app_absent=0"><i class="fab fa-whatsapp"></i>WhatsApp</a>
                 </div>
                 <div href="http://www.linkedin.com/in/veernari" class="linkedin">
                     <a href="http://www.linkedin.com/in/veernari"><i class="fab fa-linkedin"></i>LinkedIn</a>
@@ -173,19 +178,19 @@
                     <a href="https://www.youtube.com/@veernari"><i class="fab fa-youtube"></i>YouTube</a>
                 </div>
 
-                <div href="#" class="facebook">
-                    <a href=""><i class="fab fa-facebook-square"></i>Facebook</a>
+                <div href="https://www.facebook.com/veernari.shakti" class="facebook">
+                    <a href="https://www.facebook.com/veernari.shakti"><i class="fab fa-facebook-square"></i>Facebook</a>
                 </div>
-                
-                
-                
-                <div href="#" class="instagram">
-                    <a href=""><i class="fab fa-instagram"></i>Instagram</a>
+
+
+
+                <div href="https://www.instagram.com/veernari_shakti/" class="instagram">
+                    <a href="https://www.instagram.com/veernari_shakti/"><i class="fab fa-instagram"></i>Instagram</a>
                 </div>
-               
+
             </div>
         </aside>
-            
+
     </div>
 
     <style>

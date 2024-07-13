@@ -51,7 +51,7 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                     <div class="footer-widget__column footer-widget__contact">
                         <h3 class="footer-widget__title">Contact</h3>
-                        <p class="footer-widget__contact-text" style="color: white;">1-63,CGHS Society Vikaspuri <br>
+                        <p class="footer-widget__contact-text" style="color: white;">11-63,CGHS Society Vikaspuri <br>
                             Janakpuri,Delhi
                         </p>
 
@@ -76,9 +76,9 @@
                         </ul>
                         <div class="site-footer__social">
                             <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/veernari.shakti"><i class="fab fa-facebook"></i></a>
                             <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/veernari_shakti/"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
