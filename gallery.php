@@ -59,52 +59,21 @@
     <?php include('includes/header.php'); ?>
     <!--Page Header Start-->
     <section class="page-header">
-        <div class="page-header-bg">
-            <div class="video-container">
-                <iframe width="100%" src="https://www.youtube.com/embed/Q90u5LO63f0?autoplay=1&mute=1&loop=1&playlist=Q90u5LO63f0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="page-header-bg" style="background-image: url()">
+        </div>
+        <div class="container">
+            <div class="page-header__inner">
+                <ul class="thm-breadcrumb list-unstyled">
+                    <li><a href="index.php">Home</a></li>
+                    <li><span>/</span></li>
+                    <li class="active">Pages</li>
+                </ul>
+                <h2>Gallery</h2>
             </div>
         </div>
     </section>
 
-    <style>
-        .page-header {
-            position: relative;
-            overflow: hidden;
-            padding-top: 25%;
-            /* 16:9 Aspect Ratio */
-        }
-
-        .page-header-bg {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-
-            z-index: -1;
-            /* Send the video behind the content */
-        }
-
-        .video-container {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-        }
-
-        .video-container iframe {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 177.78%;
-            /* 100 / 56.25 * 100 */
-            height: 100%;
-            transform: translate(-50%, -50%);
-            pointer-events: none;
-            /* Ensure the video doesn't interfere with user interactions */
-        }
-    </style>
+    
 
 
     <!--Page Header End-->
@@ -251,7 +220,7 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="video-gallery__item">
                         <video controls width="100%" poster="">
-                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+                            <source src="assets\images\soldiers\cremation Video 2020-12-19 at 3.13.14 PM.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -260,7 +229,15 @@
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="video-gallery__item">
                         <video controls width="100%" poster="">
-                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+                            <source src="assets\images\soldiers\Soldier Veer nari shakthi 2.mp4" type="video/mp4">
+
+                        </video>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6">
+                    <div class="video-gallery__item">
+                        <video controls width="100%" poster="">
+                            <source src="assets\images\soldiers\आइये सुनते हैं मीडिया द्वारा हमारे सैनिकों पर बनाया एक नवीनतम संगीत एल्बम.mp4" type="video/mp4">
 
                         </video>
                     </div>
@@ -275,16 +252,8 @@
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6">
                     <div class="video-gallery__item">
-                        <video controls width="100%" poster="">
-                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
-
-                        </video>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6">
-                    <div class="video-gallery__item">
-                        <video controls width="100%" poster="">
-                            <source src="assets/images/events/0_Banner Video.mp4" type="video/mp4">
+                        <video controls width="100%" poster="" style="height: 250px;">
+                            <source src="assets\images\soldiers\0_Video 2022-04-10 at 11.30.09 PM.mp4" type="video/mp4">
 
                         </video>
                     </div>

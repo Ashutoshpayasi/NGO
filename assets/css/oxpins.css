@@ -478,6 +478,7 @@ ul {
   white-space: nowrap;
 }
 
+
 .main-menu__logo img {
   image-rendering: -moz-crisp-edges;
   image-rendering: -o-crisp-edges;
@@ -4982,6 +4983,11 @@ body.locked .page-wrapper {
   display: block;
   padding: 100px 0 98px;
 }
+@media screen and (max-width: 600px) {
+  .site-footer__top{
+    padding: 0px 0px 5px 0px;
+  }
+}
 
 .footer-widget__about {
   position: relative;
@@ -5097,6 +5103,11 @@ body.locked .page-wrapper {
 .footer-widget__non-profit-list {
   position: relative;
   display: block;
+}
+@media screen and (max-width: 600px) {
+  .footer-widget__non-profit {
+    display: none;
+  }
 }
 
 .footer-widget__non-profit-list li {
@@ -7162,7 +7173,7 @@ body.locked .page-wrapper {
 
 .about-three__img img {
   width: 100%;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 .about-three__img-two {
@@ -10452,7 +10463,7 @@ body.locked .page-wrapper {
 }
 
 .gallery-page__img img {
-  width: 90%;
+  width: 100%;
   height: 350px;
   border-radius: var(--oxpins-bdr-radius);
 

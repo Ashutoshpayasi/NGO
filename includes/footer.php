@@ -20,7 +20,7 @@
                                 in order to maintain peace in the present and a prosperous tomorrow. </p>
                         </div>
                         <div class="footer-widget__btn">
-                            <a href="#"> <span class="fa fa-heart"></span>Donate now</a>
+                            <a href="https://eazypay.icicibank.com/eazypayLink?P1=wvMjvn/rUQaWiz5GvbP5Jw==" target="_blank"> <span class="fa fa-heart"></span>Donate now</a>
                         </div>
                     </div>
                 </div>
@@ -30,9 +30,9 @@
                         <ul class="footer-widget__links-list list-unstyled clearfix">
                             <li><a href="about.php">About us</a></li>
                             <li><a href="contact.php">Contact</a></li>
-                            <li><a href="news.php">Latest News</a></li>
-                            <li><a href="event-details.php">Recent Events</a></li>
-                            <li><a href="donation.php">Donations</a></li>
+                            <li><a href="#">Latest News</a></li>
+                            <li><a href="#">Recent Events</a></li>
+                            <li><a href="#">Donations</a></li>
                         </ul>
                     </div>
                 </div>
@@ -40,11 +40,11 @@
                     <div class="footer-widget__column footer-widget__non-profit clearfix">
                         <h3 class="footer-widget__title">Non profit</h3>
                         <ul class="footer-widget__non-profit-list list-unstyled clearfix">
-                            <li><a href="donation-details.php">Differently Abled Kids</a></li>
-                            <li><a href="donation-details.php">Help Child Cancer</a></li>
-                            <li><a href="donation-details.php">Clean Pure Water</a></li>
-                            <li><a href="donation-details.php">Give them Education</a></li>
-                            <li><a href="donation-details.php">Start a Fundraising</a></li>
+                            <li><a href="#">Differently Abled Kids</a></li>
+                            <li><a href="#">Help Child Cancer </a></li>
+                            <li><a href="#">Clean Pure Water</a></li>
+                            <li><a href="#">Give them Education</a></li>
+                            <li><a href="#">Start a Fundraising</a></li>
                         </ul>
                     </div>
                 </div>

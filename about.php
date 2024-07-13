@@ -9,7 +9,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> About || Oxpins || Oxpins HTML 5 Template </title>
+    <title> About VeerNari shakti </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -83,12 +83,12 @@
                     <div class="about-four__left">
                         <div class="about-four__img-box">
                             <div class="about-four__img">
-                                <img src="assets\images\army logo\gallery\img14.png" alt="">
+                                <img src="assets\images\soldiers\armyimg.jpg" style="height:500px;width:600px" alt="">
                             </div>
-                            <div class="about-four__img-two">
+                            <!-- <div class="about-four__img-two">
                                 <img src="assets\images\army logo\gallery\img15.png" alt="">
-                            </div>
-                            <div class="about-four__border"></div>
+                            </div> -->
+                            <!-- <div class="about-four__border"></div> -->
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                     <div class="about-four__right">
                         <div class="section-title text-left">
                             <span class="section-title__tagline">WE ARE
-                                VEER NARI SHAKTI FOUNDATION</span>
+                                VEERNARI SHAKTI RESETTLEMENT FOUNDATION</span>
                             <h2 class="section-title__title">Get to know about our
                                 organization</h2>
                         </div>
@@ -197,23 +197,10 @@
                     <div class="about-three__right">
                         <div class="about-three__img-box  wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="about-three__img">
-                                <img src="assets/images/resources/about-three-img.jpg" alt="">
+                                <img src="assets\images\soldiers\Self-defence.png" style="height: 500px;" alt="">
                             </div>
-                            <div class="about-three__img-two">
-                                <img src="assets/images/resources/about-three-img-2.jpg" alt="">
-                            </div>
-                            <div class="about-three__help">
-                                <div class="about-three__help-shape" style="background-image: url(assets/images/shapes/about-three-help-shape.png);">
-                                </div>
-                                <div class="about-three__help-conten-box">
-                                    <div class="about-three__help-count">
-                                        <h3 class="odometer" data-count="280">00</h3>
-                                        <span class="about-three__help-letter">k</span>
-                                    </div>
-                                    <p class="about-three__help-text">We’ve helped our <br> poor children</p>
-                                </div>
-                            </div>
-                            <div class="about-three__border"></div>
+
+
                         </div>
                     </div>
                 </div>
@@ -226,7 +213,7 @@
         <div class="container">
             <div class="section-title text-center">
                 <span class="section-title__tagline">Our testimonials</span>
-                <h2 class="section-title__title">What they’re talking <br> about Veer Nari shakti </h2>
+                <h2 class="section-title__title">What People's talking <br> about VeerNari Shakti </h2>
             </div>
             <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                     "loop": true,
@@ -255,17 +242,17 @@
                 <div class="item">
                     <!--Testimonial Two Single Start-->
                     <div class="testimonial-two__single">
-                        <div class="testimonial-two__img">
+                        <!-- <div class="testimonial-two__img">
                             <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="">
-                        </div>
+                        </div> -->
                         <div class="testimonial-two__content">
                             <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                reprehenderit.</p>
+                            <p class="testimonial-two__text">Veer Nari Shakti has been a lifeline for me and my family. They provided me with nutritious food after
+                                I lost my husband in the line of duty. Their support helped me get back on
+                                my feet and rebuild my life.</p>
                             <div class="testimonial-two__client-info">
-                                <h4 class="testimonial-two__client-name">Sarah albert</h4>
+                                <h4 class="testimonial-two__client-name">Rakesh Singh</h4>
                                 <p class="testimonial-two__client-sub-title">Volunteer</p>
                             </div>
                             <div class="testimonial-two__rating">
@@ -282,17 +269,16 @@
                 <div class="item">
                     <!--Testimonial Two Single Start-->
                     <div class="testimonial-two__single">
-                        <div class="testimonial-two__img">
+                        <!-- <div class="testimonial-two__img">
                             <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
-                        </div>
+                        </div> -->
                         <div class="testimonial-two__content">
                             <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                reprehenderit.</p>
+                            <p class="testimonial-two__text">Veer Nari Shakti's medical camps have been a blessing for our village. They provide free checkups and medications, which we wouldn't be able to afford otherwise.
+                                I am grateful for their dedication to our well-being.</p>
                             <div class="testimonial-two__client-info">
-                                <h4 class="testimonial-two__client-name">Kevin martin</h4>
+                                <h4 class="testimonial-two__client-name">Ramesh Singh</h4>
                                 <p class="testimonial-two__client-sub-title">Volunteer</p>
                             </div>
                             <div class="testimonial-two__rating">
@@ -309,18 +295,17 @@
                 <div class="item">
                     <!--Testimonial Two Single Start-->
                     <div class="testimonial-two__single">
-                        <div class="testimonial-two__img">
+                        <!-- <div class="testimonial-two__img">
                             <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="">
-                        </div>
+                        </div> -->
                         <div class="testimonial-two__content">
                             <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                reprehenderit.</p>
+                            <p class="testimonial-two__text">Veer Nari Shakti's vocational training program gave me the skills I needed to start my own business.
+                                Now I am able to support myself and my children. Thank you for empowering women like me." - Sunita Kaur, Beneficiary of Vocational Training Program</p>
                             <div class="testimonial-two__client-info">
-                                <h4 class="testimonial-two__client-name">Jessica brown</h4>
-                                <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                <h4 class="testimonial-two__client-name"> - Asha Devi</h4>
+                                <p class="testimonial-two__client-sub-title">Wife of a Martyr</p>
                             </div>
                             <div class="testimonial-two__rating">
                                 <i class="fa fa-star"></i>

@@ -66,15 +66,15 @@
         </div>
     </section> -->
     <section class="page-header">
-    <div class="page-header-bg">
-        <div class="video-container">
-            <video width="100%" height="400" loop muted autoplay poster="path/to/poster.jpg">
-                <source src="assets/images/logo/Veer Nari Shakti Video.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
+        <div class="page-header-bg">
+            <div class="video-container">
+                <video width="100%" height="400" loop muted autoplay poster="path/to/poster.jpg">
+                    <source src="assets/images/logo/Veer Nari Shakti Video.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 
 
     <!-- <style>
@@ -118,41 +118,42 @@
     </style> -->
     <style>
         .page-header {
-    position: relative;
-    overflow: hidden;
-    padding-top: 20%;
-    /* 16:9 Aspect Ratio */
-}
+            position: relative;
+            overflow: hidden;
+            padding-top: 20%;
+            /* 16:9 Aspect Ratio */
+        }
 
-.page-header-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: -1;
-    /* Send the video behind the content */
-}
+        .page-header-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: -1;
+            /* Send the video behind the content */
+        }
 
-.video-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 550px; /* Specific height as requested */
-    background-color: black;
-    overflow: hidden;
-}
+        .video-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 550px;
+            /* Specific height as requested */
+            background-color: black;
+            overflow: hidden;
+        }
 
-.video-container video {
-    min-width: 100%;
-  
-    position: absolute;
-    top: 37%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    pointer-events: none; /* Prevents clicks on the video from triggering events on underlying elements */
-}
+        .video-container video {
+            min-width: 100%;
 
+            position: absolute;
+            top: 37%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            pointer-events: none;
+            /* Prevents clicks on the video from triggering events on underlying elements */
+        }
     </style>
     <!--Main Slider End-->
 
@@ -236,7 +237,7 @@
                                     <img src="assets\images\logo\vnslogofinal.png" alt="">
                                 </div>
                             </div>
-                         
+
                             <div class="about-one__shape-3 float-bob-y">
                                 <img src="assets/images/shapes/about-one-shape-3.png" alt="">
                             </div>
@@ -267,18 +268,18 @@
                 <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                     <div class="causes-one__single">
                         <div class="causes-one__img">
-                            <img src="assets/images/resources/causes-1-1.jpg" alt="">
+                            <img src="assets\images\soldiers\img7.png" alt="">
                             <div class="causes-one__cat">
                                 <p>Education</p>
                             </div>
                         </div>
                         <div class="causes-one__content">
-                            <h3 class="causes-one__title"><a href="donation-details.php">Let’s education for
-                                    children get good life</a>
+                            <h3 class="causes-one__title"><a href="#">We conduct workshops and seminars to raise
+                                    awareness about important health issues like mental health, hygiene, and nutrition.</a>
                             </h3>
-                            <p class="causes-one__text">There are many of lorem, but majori have
-                                suffered alteration in some form.</p>
-                            <div class="causes-one__progress">
+                            <!-- <p class="causes-one__text">There are many of lorem, but majori have
+                                suffered alteration in some form.</p> -->
+                            <!-- <div class="causes-one__progress">
                                 <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
                                 </div>
                                 <div class="bar">
@@ -290,7 +291,7 @@
                                     <p><span>$25,270</span> Raised</p>
                                     <p><span>$30,000</span> Goal</p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -299,18 +300,18 @@
                 <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                     <div class="causes-one__single">
                         <div class="causes-one__img">
-                            <img src="assets/images/resources/causes-1-2.jpg" alt="">
+                            <img src="assets\images\soldiers\health.webp" alt="">
                             <div class="causes-one__cat">
                                 <p>Medical</p>
                             </div>
                         </div>
                         <div class="causes-one__content">
-                            <h3 class="causes-one__title"><a href="donation-details.php">It is a long established
-                                    fact that a reader</a>
+                            <h3 class="causes-one__title"><a href="#">We organize free medical camps in
+                                    remote areas to provide essential medical checkups and consultations to families of martyrs.</a>
                             </h3>
-                            <p class="causes-one__text">There are many of lorem, but majori have
-                                suffered alteration in some form.</p>
-                            <div class="causes-one__progress">
+                            <!-- <p class="causes-one__text">There are many of lorem, but majori have
+                                suffered alteration in some form.</p> -->
+                            <!-- <div class="causes-one__progress">
                                 <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
                                 </div>
                                 <div class="bar">
@@ -322,7 +323,7 @@
                                     <p><span>$25,270</span> Raised</p>
                                     <p><span>$30,000</span> Goal</p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -331,18 +332,18 @@
                 <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                     <div class="causes-one__single">
                         <div class="causes-one__img">
-                            <img src="assets/images/resources/causes-1-3.jpg" alt="">
+                            <img src="assets\images\resources\donations-list-img-5.jpg" style="height: 250px;" alt="">
                             <div class="causes-one__cat">
                                 <p>Food</p>
                             </div>
                         </div>
                         <div class="causes-one__content">
-                            <h3 class="causes-one__title"><a href="donation-details.php">There are many variations
-                                    of passages</a>
+                            <h3 class="causes-one__title"><a href="#"> We regularly organize food donation drives to collect essential supplies.
+                                    You can contribute by donating food items or volunteering your time during drives.</a>
                             </h3>
-                            <p class="causes-one__text">There are many of lorem, but majori have
-                                suffered alteration in some form.</p>
-                            <div class="causes-one__progress">
+                            <!-- <p class="causes-one__text">There are many of lorem, but majori have
+                                suffered alteration in some form.</p> -->
+                            <!-- <div class="causes-one__progress">
                                 <div class="causes-one__progress-shape" style="background-image: url(assets/images/shapes/causes-one-progress-shape-1.png);">
                                 </div>
                                 <div class="bar">
@@ -354,7 +355,7 @@
                                     <p><span>$25,270</span> Raised</p>
                                     <p><span>$30,000</span> Goal</p>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -390,29 +391,17 @@
                     <div class="about-three__right">
                         <div class="about-three__img-box  wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="about-three__img">
-                                <img src="assets/images/resources/about-three-img.jpg" alt="">
+                                <img src="assets\images\soldiers\Self-defence.png" style="height: 500px;" alt="">
                             </div>
-                            <div class="about-three__img-two">
-                                <img src="assets/images/resources/about-three-img-2.jpg" alt="">
-                            </div>
-                            <div class="about-three__help">
-                                <div class="about-three__help-shape" style="background-image: url(assets/images/shapes/about-three-help-shape.png);">
-                                </div>
-                                <div class="about-three__help-conten-box">
-                                    <div class="about-three__help-count">
-                                        <h3 class="odometer" data-count="280">00</h3>
-                                        <span class="about-three__help-letter">k</span>
-                                    </div>
-                                    <p class="about-three__help-text">We’ve helped our <br> poor children</p>
-                                </div>
-                            </div>
-                            <div class="about-three__border"></div>
+
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
 
     <!--Events One Start-->
 
@@ -457,17 +446,17 @@
                 <div class="item">
                     <!--Testimonial Two Single Start-->
                     <div class="testimonial-two__single">
-                        <div class="testimonial-two__img">
+                        <!-- <div class="testimonial-two__img">
                             <img src="assets/images/testimonial/testimonial-2-1.jpg" alt="">
-                        </div>
+                        </div> -->
                         <div class="testimonial-two__content">
                             <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                reprehenderit.</p>
+                            <p class="testimonial-two__text">Veer Nari Shakti has been a lifeline for me and my family. They provided me with nutritious food after
+                                I lost my husband in the line of duty. Their support helped me get back on
+                                my feet and rebuild my life.</p>
                             <div class="testimonial-two__client-info">
-                                <h4 class="testimonial-two__client-name">Sarah albert</h4>
+                                <h4 class="testimonial-two__client-name">Rakesh Singh</h4>
                                 <p class="testimonial-two__client-sub-title">Volunteer</p>
                             </div>
                             <div class="testimonial-two__rating">
@@ -484,17 +473,16 @@
                 <div class="item">
                     <!--Testimonial Two Single Start-->
                     <div class="testimonial-two__single">
-                        <div class="testimonial-two__img">
+                        <!-- <div class="testimonial-two__img">
                             <img src="assets/images/testimonial/testimonial-2-2.jpg" alt="">
-                        </div>
+                        </div> -->
                         <div class="testimonial-two__content">
                             <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                reprehenderit.</p>
+                            <p class="testimonial-two__text">Veer Nari Shakti's medical camps have been a blessing for our village. They provide free checkups and medications, which we wouldn't be able to afford otherwise.
+                                I am grateful for their dedication to our well-being.</p>
                             <div class="testimonial-two__client-info">
-                                <h4 class="testimonial-two__client-name">Kevin martin</h4>
+                                <h4 class="testimonial-two__client-name">Ramesh Singh</h4>
                                 <p class="testimonial-two__client-sub-title">Volunteer</p>
                             </div>
                             <div class="testimonial-two__rating">
@@ -511,18 +499,17 @@
                 <div class="item">
                     <!--Testimonial Two Single Start-->
                     <div class="testimonial-two__single">
-                        <div class="testimonial-two__img">
+                        <!-- <div class="testimonial-two__img">
                             <img src="assets/images/testimonial/testimonial-2-3.jpg" alt="">
-                        </div>
+                        </div> -->
                         <div class="testimonial-two__content">
                             <div class="testimonial-two__shape-1" style="background-image: url(assets/images/shapes/testimonial-two-shape-1.png);">
                             </div>
-                            <p class="testimonial-two__text">This is due to their best service, pricing and customer
-                                support. It’s throughly refresing to such a personal touch. Duis aute irure lupsum
-                                reprehenderit.</p>
+                            <p class="testimonial-two__text">Veer Nari Shakti's vocational training program gave me the skills I needed to start my own business.
+                                Now I am able to support myself and my children. Thank you for empowering women like me." - Sunita Kaur, Beneficiary of Vocational Training Program</p>
                             <div class="testimonial-two__client-info">
-                                <h4 class="testimonial-two__client-name">Jessica brown</h4>
-                                <p class="testimonial-two__client-sub-title">Volunteer</p>
+                                <h4 class="testimonial-two__client-name"> - Asha Devi</h4>
+                                <p class="testimonial-two__client-sub-title">Wife of a Martyr</p>
                             </div>
                             <div class="testimonial-two__rating">
                                 <i class="fa fa-star"></i>
@@ -699,6 +686,13 @@
             <h2 class="section-title__title">OUR GALLERY</h2>
 
         </div>
+        <style>
+            .gallery-four__carousel{
+                width: 90% !important;
+                left: 70px;
+                margin-bottom: 10px;
+            }
+        </style>
         <div class="gallery-four__carousel thm-owl__carousel owl-carousel owl-theme" data-owl-options='{
                 "items": 1,
                 "margin": 5,
@@ -720,20 +714,20 @@
                         "items": 3
                     },
                     "1200": {
-                        "items": 4
+                        "items": 3
                     },
                     "1600": {
-                        "items": 5
+                        "items": 3
                     }
                 }
                 }'>
-            
-            <div class="gallery-four__item">
-                <img src="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" alt="oxpins">
+
+            <div class="gallery-four__ietm">
+                <img src="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" alt="oxpins"  style="height: 360px;">
                 <a href="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" class="img-popup"></a>
             </div>
-           
-            
+
+
             <div class="gallery-four__item">
                 <img src="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" alt="oxpins" style="height: 360px;">
                 <a href="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" class="img-popup"></a>
@@ -742,7 +736,7 @@
                 <img src="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" alt="oxpins" style="height: 360px;">
                 <a href="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" class="img-popup"></a>
             </div>
-            
+
             <!-- <div class="gallery-four__item">
                 <img src="assets\images\soldiers\SO Ghat Banner Oct 2022.jpeg" alt="oxpins" style="height: 300px;">
                 <a href="assets\images\soldiers\SO Ghat Banner Oct 2022.jpeg" class="img-popup"></a>

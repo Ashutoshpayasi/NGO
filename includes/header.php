@@ -106,12 +106,12 @@
                                     </li>
 
                                     <li class="dropdown">
-                                        <a href="events.php">Services</a>
+                                        <a href="#">Services</a>
                                         <ul>
-                                            <li><a href="events.php">Education</a></li>
-                                            <li><a href="events-carousel.php">Counseling</a></li>
-                                            <li><a href="event-details.php">Training</a></li>
-                                            <li><a href="event-details.php">Support</a></li>
+                                            <li><a href="#">Education</a></li>
+                                            <li><a href="#">Counseling</a></li>
+                                            <li><a href="#">Training</a></li>
+                                            <li><a href="#">Support</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
