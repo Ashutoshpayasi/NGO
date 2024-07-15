@@ -3,7 +3,9 @@
 
 
 <!-- Mirrored from pixydrops.com/oxpinshtml/main-html/events-carousel.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jun 2024 06:58:51 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -20,12 +22,9 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 
@@ -156,8 +155,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-1.png"
-                                                                                        alt="Home Page 01">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-1.png" alt="Home Page 01">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index-one-page.php" class="thm-btn">One Page</a>
@@ -174,8 +172,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-2.png"
-                                                                                        alt="Home Page 02">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-2.png" alt="Home Page 02">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index2.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index2-one-page.php" class="thm-btn">One
@@ -193,8 +190,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-3.png"
-                                                                                        alt="Home page 03">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-3.png" alt="Home page 03">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index3.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index3-one-page.php" class="thm-btn">One
@@ -212,8 +208,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-4.png"
-                                                                                        alt="Home page 04">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-4.png" alt="Home page 04">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index4.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index4-one-page.php" class="thm-btn">One
@@ -231,8 +226,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-5.png"
-                                                                                        alt="Home page 05">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-5.png" alt="Home page 05">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index5.php" class="thm-btn">Multi Page </a>
                                                                                         <a href="index5-one-page.php" class="thm-btn">One
@@ -250,8 +244,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-6.png"
-                                                                                        alt="Home Boxed">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-6.png" alt="Home Boxed">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index-boxed.php" class="thm-btn">View
                                                                                             Page</a>
@@ -267,8 +260,7 @@
                                                                         <div class="col-md-6 col-lg-4">
                                                                             <div class="demo-one__card">
                                                                                 <div class="demo-one__image">
-                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-7.png"
-                                                                                        alt="Home RTL">
+                                                                                    <img width="370" height="431" src="assets/images/home-showcase/home-1-7.png" alt="Home RTL">
                                                                                     <div class="demo-one__btns">
                                                                                         <a href="index-rtl.php#googtrans(en%7car)" class="thm-btn">View Page</a>
                                                                                     </div><!-- /.demo-one__btns -->
@@ -346,15 +338,13 @@
                                 <div class="main-menu__main-menu-content-box">
                                     <div class="main-menu__search-cat-btn-box">
                                         <div class="main-menu__search-box">
-                                            <a href="#"
-                                                class="main-menu__search search-toggler icon-magnifying-glass"></a>
+                                            <a href="#" class="main-menu__search search-toggler icon-magnifying-glass"></a>
                                         </div>
                                         <div class="main-menu__cat-box">
                                             <a href="cart.php" class="main-menu__cart icon-shopping-cart"></a>
                                         </div>
                                         <div class="main-menu__btn-box">
-                                            <a href="donate-now.php" class="main-menu__btn"> <span
-                                                    class="fa fa-heart"></span> Donate
+                                            <a href="donate-now.php" class="main-menu__btn"> <span class="fa fa-heart"></span> Donate
                                                 now</a>
                                         </div>
                                     </div>
@@ -390,8 +380,7 @@
         <!--Events Page Start-->
         <section class="events-carousel-page">
             <div class="container">
-                <div class="events-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style"
-                    data-owl-options='{
+                <div class="events-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style" data-owl-options='{
                     "items": 3,
                     "margin": 30,
                     "smartSpeed": 700,
@@ -706,8 +695,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143"
-                        alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -792,4 +780,5 @@
 
 
 <!-- Mirrored from pixydrops.com/oxpinshtml/main-html/events-carousel.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jun 2024 06:58:51 GMT -->
+
 </html>
