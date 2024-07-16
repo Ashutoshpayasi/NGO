@@ -2822,7 +2822,7 @@ body.locked .page-wrapper {
   right: 0;
   bottom: 0;
   left: 0;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
@@ -2856,8 +2856,8 @@ body.locked .page-wrapper {
   left: 0;
   right: 0;
   height: 420px;
-  background: rgb(33, 45, 43);
-  background: linear-gradient(180deg, rgba(33, 45, 43, 0.9696253501) 7%, rgba(33, 45, 43, 0) 100%);
+  /* background: rgb(33, 45, 43); */
+  /* background: linear-gradient(180deg, rgba(33, 45, 43, 0.9696253501) 7%, rgba(33, 45, 43, 0) 100%); */
   z-index: 1;
 }
 

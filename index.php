@@ -84,61 +84,31 @@
 
                     <div class="swiper-slide">
                         <div class="image-layer-three"
-                            style="background-image: url(assets/images/backgrounds/main-slider-3-1.jpg);"></div>
+                            style="background-image: url(assets/images/soldiers/Army\ truck\ banner\ Image\ Aug\ 2023\ \ at\ 08.28.56.jpeg);"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-three-color"></div>
                         <div class="container">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="main-slider-three__content">
-                                        <h2 class="main-slider-three__title">Let’s give them a <br> helping hand</h2>
-                                        <div class="main-slider-three__btn-box">
-                                            <a href="about.php" class="thm-btn main-slider-three__btn">Discover
-                                                more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                           
                         </div>
                     </div>
 
                     <div class="swiper-slide">
                         <div class="image-layer-three"
-                            style="background-image: url(assets/images/backgrounds/main-slider-3-2.jpg);"></div>
+                            style="background-image: url(assets/images/soldiers/armypic-1611156427739.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-three-color"></div>
                         <div class="container">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="main-slider-three__content">
-                                        <h2 class="main-slider-three__title">Let’s give them a <br> helping hand</h2>
-                                        <div class="main-slider-three__btn-box">
-                                            <a href="about.php" class="thm-btn main-slider-three__btn">Discover
-                                                more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                          
                         </div>
                     </div>
 
                     <div class="swiper-slide">
                         <div class="image-layer-three"
-                            style="background-image: url(assets/images/backgrounds/main-slider-3-3.jpg);"></div>
+                            style="background-image: url(assets/images/soldiers/banner\ SO\ Col.\ Vijay\ Mishra\ Sept\ 23.jpeg);"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-three-color"></div>
                         <div class="container">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="main-slider-three__content">
-                                        <h2 class="main-slider-three__title">Let’s give them a <br> helping hand</h2>
-                                        <div class="main-slider-three__btn-box">
-                                            <a href="about.php" class="thm-btn main-slider-three__btn">Discover
-                                                more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                         
                         </div>
                     </div>
 
