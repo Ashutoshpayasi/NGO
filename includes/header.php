@@ -38,7 +38,7 @@
                                     <div class="main-menu__volunteers-text-box">
                                         <p class="main-menu__volunteers-text"><a href="become-volunteer.php">Become
                                                 a
-                                                <span>volunteers</span></a></p>
+                                                <span>Volunteer</span></a></p>
                                     </div>
                                 </div>
                             </div>
@@ -110,12 +110,15 @@
                                         <ul>
                                             <li><a href="education.php">Education</a></li>
                                             <li><a href="health.php">Health</a></li>
+                                            <li><a href="products.php">Products</a></li>
                                             <li><a href="training.php">Training</a></li>
+                                            <li><a href="miscellaneous_assistance.php">Miscellaneous Assistance</a></li>
+                                            <li><a href="livelihood.php">Sustainable Livelihood</a></li>
                                             <li><a href="support.php">Support</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Promotions</a>
+                                        <a href="promotions.php">Promotions</a>
                                         <!-- <ul>
                                             <li><a href="events.php"></a></li>
                                             <li><a href="events-carousel.php">Events carousel</a></li>
@@ -171,8 +174,8 @@
                 <div href="#" class="whatsapp">
                     <a href="https://api.whatsapp.com/send/?phone=+91 9821 022 008&text=hijijij&type=phone_number&app_absent=0"><i class="fab fa-whatsapp"></i>WhatsApp</a>
                 </div>
-                <div href="http://www.linkedin.com/in/veernari" class="linkedin">
-                    <a href="http://www.linkedin.com/in/veernari"><i class="fab fa-linkedin"></i>LinkedIn</a>
+                <div href="https://www.linkedin.com/company/veernari-shakti-resettlement-foundation/" class="linkedin">
+                    <a href="https://www.linkedin.com/company/veernari-shakti-resettlement-foundation/"><i class="fab fa-linkedin"></i>LinkedIn</a>
                 </div>
                 <div href="https://www.youtube.com/@veernari" class="youtube">
                     <a href="https://www.youtube.com/@veernari"><i class="fab fa-youtube"></i>YouTube</a>

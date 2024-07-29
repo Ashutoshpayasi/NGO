@@ -30,9 +30,9 @@
                         <ul class="footer-widget__links-list list-unstyled clearfix">
                             <li><a href="about.php">About us</a></li>
                             <li><a href="contact.php">Contact</a></li>
-                            <li><a href="#">Latest News</a></li>
-                            <li><a href="#">Recent Events</a></li>
-                            <li><a href="#">Donations</a></li>
+                            <li><a href="promotions.php">Promotions</a></li>
+                            <li><a href="#">Support</a></li>
+                            <li><a href="https://eazypay.icicibank.com/eazypayLink?P1=wvMjvn/rUQaWiz5GvbP5Jw==" target="_blank">Donations</a></li>
                         </ul>
                     </div>
                 </div>
@@ -40,11 +40,11 @@
                     <div class="footer-widget__column footer-widget__non-profit clearfix">
                         <h3 class="footer-widget__title">Non profit</h3>
                         <ul class="footer-widget__non-profit-list list-unstyled clearfix">
-                            <li><a href="#">Differently Abled Kids</a></li>
-                            <li><a href="#">Help Child Cancer </a></li>
-                            <li><a href="#">Clean Pure Water</a></li>
-                            <li><a href="#">Give them Education</a></li>
-                            <li><a href="#">Start a Fundraising</a></li>
+                            <li><a href="education.php">Education</a></li>
+                            <li><a href="products.php">Products </a></li>
+                            <li><a href="livelihood.php">Sustainable Livelihood</a></li>
+                            <li><a href="healtj.php">Health</a></li>
+                            <li><a href="miscellaneous_assistance.php">Miscellaneous Assistance</a></li>
                         </ul>
                     </div>
                 </div>

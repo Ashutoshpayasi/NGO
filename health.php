@@ -171,7 +171,7 @@
                                 <h2 class="section-title__title">Healthy bodies, empowered lives - Our commitment to
                                     healthcare support</h2>
                             </div>
-                            <p class="events-two__text">VeerNari Shakti, where we strive to promote the well-being of
+                            <p class="events-two__text"style="text-align: justify;">VeerNari Shakti, where we strive to promote the well-being of
                                 individuals and communities through our various initiatives. At our welfare trust, we
                                 are committed to providing high-quality health services to people in need, regardless of
                                 their background or socio-economic status.
@@ -188,7 +188,7 @@
                                     <div class="events-two__content">
                                         <h3 class="events-two__title"><a href="event-details.php">Access to Affordable
                                                 Healthcare with us</a></h3>
-                                        <p>At VeerNari Shakti, we believe that access to affordable healthcare is a
+                                        <p style="text-align: justify;">At VeerNari Shakti, we believe that access to affordable healthcare is a
                                             fundamental right for everyone. We strive to provide our members with access
                                             to quality healthcare at an affordable cost.</p>
                                     </div>
@@ -241,7 +241,7 @@
                                 <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
                                 <h2 class="section-title__title">Medical Camps</h2>
                             </div>
-                            <p class="about-two__text-1">We organize medical camps in various locations to provide
+                            <p class="about-two__text-1" style="text-align: justify;">We organize medical camps in various locations to provide
                                 healthcare facilities to people in need. Our camps are conducted by qualified medical
                                 professionals who offer consultations, diagnostic tests, and treatment for various
                                 medical conditions. We collaborate with local authorities and organisations to identify
@@ -279,18 +279,18 @@
                                 <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
                                 <h2 class="section-title__title">Health Awareness Programs</h2>
                             </div>
-                            <p class="about-two__text-1">Our health awareness programs are designed to educate people
+                            <p class="about-two__text-1"style="text-align: justify;">Our health awareness programs are designed to educate people
                                 about the importance of leading a healthy lifestyle. Through these programs, we aim to
                                 create awareness about common health issues and ways to prevent them. We conduct
                                 workshops, seminars, and interactive sessions with medical experts to provide
                                 information and guidance to people.
                             </p>
                             <br>
-                            <p>We believe that prevention is better than cure, and our health awareness programs are an
+                            <p style="text-align: justify;">We believe that prevention is better than cure, and our health awareness programs are an
                                 important step towards creating a healthier society. Our programs cover a wide range of
                                 topics such as nutrition, hygiene, disease prevention, mental health, and more.</p>
                             <br>
-                            <p>Our health services are an important aspect of our welfare trust's mission to improve the
+                            <p style="text-align: justify;">Our health services are an important aspect of our welfare trust's mission to improve the
                                 lives of people in need. We are committed to providing quality healthcare to those who
                                 need it the most, and we believe that our initiatives will have a positive impact on the
                                 well-being of individuals and communities.</p>
@@ -324,11 +324,12 @@
             </div>
         </section>
 
-
+      
 
         <!--Brand One Start-->
         <section class="brand-one">
             <div class="container">
+                <h1 class="section-title__tagline forces">OUR FORCES WE PROUDLY STAND BY</h1>
                 <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 1000 },"loop":"true","breakpoints": {
                     "0": {
                         "spaceBetween": 30,
@@ -401,68 +402,7 @@
             </div>
         </section>
         <!--Brand One End-->
-        <section class="donate-now">
-            <div class="container">
-                <div class="row abcd">
-                    <div class="col-xl-8 col-lg-7">
-                        <div class="donate-now__left">
-                            <div class="donate-now__personal-info-box">
-                                <h3 class="donate-now__title">Book an Appointment</h3>
-                                <form class="donate-now__personal-info-form">
-                                    <div class="row">
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="First name" name="name">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Last name" name="last-name">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="email" placeholder="Email address" name="email">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Phone" name="phone">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Address" name="Address">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <select class="selectpicker" aria-label="Default select example">
-                                                    <option selected>Location?</option>
-                                                    <option value="1">Delhi</option>
-                                                    <option value="2">Madhya Pradesh</option>
-                                                    <option value="3">Uttar Pradesh</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="donate-now__personal-info-input donate-now__personal-info-message-box">
-                                                <textarea name="message" placeholder="Write your health concern"></textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                            <div class="about-four__btn-box">
-                                <a href="#" class="thm-btn about-four__btn">Book Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+      
         <section class="faq-page" style="padding-top:0px;">
             <div class="container">
                 <div class="section-title text-center">

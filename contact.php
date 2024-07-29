@@ -74,8 +74,82 @@
     </section>
 
     <!--Page Header End-->
+    <style>
+        .message-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            padding: 20px;
+            background-color: #f9f9f9;
+            /* Light grey background */
+        }
 
-    
+        .message-section {
+            flex-basis: calc(50% - 40px);
+            /* Take half the container's width minus some margin */
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            /* White background for the messages */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            /* Soft shadow for depth */
+            border-radius: 8px;
+            /* Rounded corners */
+            text-align: justify;
+            font-family: var(--e-global-typography-text-font-family), Sans-serif;
+
+            font-weight: var(--e-global-typography-text-font-weight);
+        }
+
+        @media (max-width: 768px) {
+            .message-section {
+                flex-basis: 100%;
+                /* Stack the sections on smaller screens */
+            }
+        }
+
+        h2 {
+            color: #333;
+            /* Darker grey for headings */
+            margin-bottom: 20px;
+            /* Space below the headings */
+        }
+    </style>
+    <h2 style="text-align: center;margin:30px;" class="section-title__title">Take the Pleadge</h2>
+    <div class="message-container">
+        
+        <div class="message-section english">
+            <h2>Dear Soldier brother</h2>
+            <p>I am proud to see you brave the odds on the modern-day war frontiers and have full faith in your courage, dedication and valour to do it successfully.
+                As you stand vigilant against the enemies of our great nation, neutralize every single threat to our society, defend the dignity of our mothers, sisters
+                and rescue our vulnerable countrymen from natural calamities and disasters we watch you in awe and beam in pride.
+                Your sacrifice of the prime phase of your life, leaving behind your family just for your love and dedication to our nation is exceptional.
+                As an Indian at heart, I want you to know that I am always with you even if I haven’t seen you, we havent met but my bond with you is formidable.
+                I want to assure you that my thoughts are always with you, my words pray for your well being and success and my actions will always be for your welfare.
+                Today I pledge to stand by you and your family when you are at the frontier defending us. And while I know you are invincible, but if in the unfortunate event we lose you to veergati,
+                I want you to know that I am with you, and your family becomes my family. I will ensure I always stand by my soldier and my family.</p>
+            <!-- Continue with the rest of the English message -->
+        </div>
+        <div class="message-section hindi">
+            <h2>प्रिय सैनिक,</h2>
+            <p>मैं गर्व महसूस करता हूँ कि आप वर्तमान आधुनिक युद्ध के दौर में सीमा पर खतरों का सामना कर रहे हैं
+                और मैं आपके साहस, समर्पण और आपकी वीरता में पूरा विश्वास रखता हूँ कि आप युद्ध में सदैव सफलतापूर्वक
+                विजयी होनेगे। जिस प्रकार से आप हमारे महान राष्ट्र के दुश्मनों के खिलाफ निरंतर सतर्क रहते हैं, हमारे समाज के
+                प्रत्येक खतरे को निष्क्रिय करते हैं, हमारी माताओं, बहनों की मर्यादा की रक्षा करते हैं और प्राकृतिक आपदाओं के
+                समय में आपदा से प्रभावित देशवासियों को बचाने का करते हैं, हम आपको आदर्श में देखते हैं और गर्व में झूमते हैं।
+                आपके जीवन के प्राधिकृत दौर का बलिदान, अपने परिवार को पीछे छोड़कर, केवल अपने राष्ट्र के प्रति आपके प्रेम और समर्पण के
+                लिए इस कार्य में आपका योगदान अत्यंत अद्वितीय है। एक भारतीय होने के नाते से, मैं आपको बताना चाहता हूँ कि मैं हमेशा आपके
+                साथ हूँ, भले ही मैंने आपको नहीं देखा हो, हम नहीं मिले हो, लेकिन मेरा आपके साथ घनिष्ठता दृढ़ है। मैं आपको आश्वस्त करना चाहता हूँ कि मेरे विचार हमेशा आपके साथ हैं,
+                मेरे शब्द आपके सुख-संरक्षण और सफलता के लिए प्रार्थना करते हैं और मेरे क्रियाएँ हमेशा आपके कल्याण के लिए रहेंगी। आज मैं वादा करता हूँ कि जब आप सीमा पर हमें रक्षा करते समय,
+                मैं आपके और आपके परिवार के साथ खड़ा रहूँगा। और मैं जानता हूँ कि आप अजेय हैं, लेकिन यदि दुर्भाग्यवश हम आपको वीरगति में खो देते हैं, तो मैं आपको यह जानकर आश्वस्त करना चाहता हूँ कि मैं
+                आपके साथ हूँ, और आपका परिवार मेरा परिवार जैसा ही है। मैं सुनिश्चित करूँगा कि मैं हमेशा अपने सैनिक और उनके परिवार के साथ खड़ा रहूँ और रहूंगा।
+
+                <br><span style="color: black;">आपके साथ सदैव,</span></p>
+            <!-- Continue with the rest of the Hindi message -->
+        </div>
+    </div>
+
+
 
     <!--Contact Three Start-->
     <section class="contact-three">
@@ -105,6 +179,11 @@
                         </div>
                         <div class="col-xl-6">
                             <div class="contact-form__input-box">
+                                <input type="text" placeholder="City" name="city">
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="contact-form__input-box">
                                 <input type="text" placeholder="Subject" name="subject">
                             </div>
                         </div>
@@ -124,7 +203,7 @@
         </div>
     </section>
     <!--Contact Three End-->
-     
+
     <!-- <section class="contact-section">
         <div class="contact-details">
             <h2>Let's Talk</h2>
@@ -139,43 +218,43 @@
     </section> -->
 
     <!--Contact One Start-->
-            <section class="contact-one">
-                <div class="container">
-                    <div class="contact-one__inne">
-                        <ul class="list-unstyled contact-one__list">
-                            <li class="contact-one__single">
-                                <div class="contact-one__icon">
-                                    <span class="icon-phone-call"></span>
-                                </div>
-                                <div class="contact-one__content">
-                                    <p class="contact-one__sub-title">Helpline</p>
-                                    <h3 class="contact-one__number"><a href="tel:+91 9821 022 008"> +91 9821 022 008</a></h3>
-                                </div>
-                            </li>
-                            <li class="contact-one__single">
-                                <div class="contact-one__icon">
-                                    <span class="icon-message"></span>
-                                </div>
-                                <div class="contact-one__content">
-                                    <p class="contact-one__sub-title">Send email</p>
-                                    <h3 class="contact-one__number"><a href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a></h3>
-                                </div>
-                            </li>
-                            <li class="contact-one__single">
-                                <div class="contact-one__icon">
-                                    <span class="icon-location"></span>
-                                </div>
-                                <div class="contact-one__content">
-                                    <p class="contact-one__sub-title">11-63,CGHS Society Vikaspuri</p>
-                                    <h3 class="contact-one__number">Janakpuri,Delhi</h3>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-   
-   
+    <section class="contact-one">
+        <div class="container">
+            <div class="contact-one__inne">
+                <ul class="list-unstyled contact-one__list">
+                    <li class="contact-one__single">
+                        <div class="contact-one__icon">
+                            <span class="icon-phone-call"></span>
+                        </div>
+                        <div class="contact-one__content">
+                            <p class="contact-one__sub-title">Helpline</p>
+                            <h3 class="contact-one__number"><a href="tel:+91 9821 022 008"> +91 9821 022 008</a></h3>
+                        </div>
+                    </li>
+                    <li class="contact-one__single">
+                        <div class="contact-one__icon">
+                            <span class="icon-message"></span>
+                        </div>
+                        <div class="contact-one__content">
+                            <p class="contact-one__sub-title">Send email</p>
+                            <h3 class="contact-one__number"><a href="mailto:vnsrfoundation@gmail.com">vnsrfoundation@gmail.com</a></h3>
+                        </div>
+                    </li>
+                    <li class="contact-one__single">
+                        <div class="contact-one__icon">
+                            <span class="icon-location"></span>
+                        </div>
+                        <div class="contact-one__content">
+                            <p class="contact-one__sub-title">11-63,CGHS Society Vikaspuri</p>
+                            <h3 class="contact-one__number">Janakpuri,Delhi</h3>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
 
     <!-- <style>
         .contact-section {

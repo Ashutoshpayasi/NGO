@@ -56,7 +56,7 @@
 
 <body class="custom-cursor">
 
-    <?php include ('includes/header.php'); ?>
+    <?php include('includes/header.php'); ?>
     <!--Page Header Start-->
     <section class="page-header">
         <div class="page-header-bg" style="background-image: url()">
@@ -73,14 +73,51 @@
         </div>
     </section>
 
-    
+
 
 
     <!--Page Header End-->
 
     <!--Gallery Page Start-->
+    <style>
+        .section-title__title {
+            position: relative;
+            display: inline-block;
+        }
+
+        .section-title__title::before,
+        .section-title__title::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+
+            width: 50%;
+
+            height: 2px;
+            /* Thickness of the lines */
+            background-color: #000;
+            /* Color of the lines */
+        }
+
+        .section-title__title::before {
+            left: -50%;
+            /* Starts from the middle-left */
+        }
+
+        .section-title__title::after {
+            right: -50%;
+            /* Starts from the middle-right */
+        }
+    </style>
+
     <section class="gallery-page">
+        <div class="section-title text-center">
+            <h2 class="section-title__title">WHAT'S NEW AT VSRF</h2>
+
+        </div>
         <div class="container">
+
+
             <div class="row">
                 <!--Gallery Page Single Start-->
                 <div class="col-xl-4 col-lg-6 col-md-6">
@@ -88,8 +125,10 @@
                         <div class="gallery-page__img">
                             <img src="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" alt="">
                             <a href="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" class="img-popup"></a>
+                            <span class="zoom-icon">+</span> 
                             <!-- /.img-popup -->
                           
+
                         </div>
                     </div>
                 </div>
@@ -100,11 +139,8 @@
                         <div class="gallery-page__img">
                             <img src="assets\images\soldiers\Army truck banner 2023-01-24 at 19.41.04.jpeg" alt="">
                             <a href="assets\images\soldiers\Army truck banner 2023-01-24 at 19.41.04.jpeg" class="img-popup"></a>
-                            <!-- /.img-popup -->
-                            <!-- <div class="gallery-page__content">
-                                <p class="gallery-page__sub-title">Charity</p>
-                                <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
-                            </div> -->
+                            <span class="zoom-icon">+</span> 
+
                         </div>
                     </div>
                 </div>
@@ -116,6 +152,8 @@
                             <img src="assets\images\soldiers\banner Image 2022-07-11 at 11.42.26 AM.jpeg" alt="">
                             <a href="assets\images\soldiers\banner Image 2022-07-11 at 11.42.26 AM.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
+                            <span class="zoom-icon">+</span> 
+
                             <!-- <div class="gallery-page__content">
                                 <p class="gallery-page__sub-title">Charity</p>
                                 <h5 class="gallery-page__title"><a href="gallery.php">Education</a></h5>
@@ -131,7 +169,8 @@
                             <img src="assets\images\army logo\gallery\full-shot-soldiers-war-zone_23-2150804361.jpg" alt="">
                             <a href="assets\images\army logo\gallery\full-shot-soldiers-war-zone_23-2150804361.jpg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            
+                            <span class="zoom-icon">+</span> 
+
                         </div>
                     </div>
                 </div>
@@ -143,7 +182,9 @@
                             <img src="assets\images\soldiers\banner SO Col. Vijay Mishra Sept 23.jpeg" alt="">
                             <a href="assets\images\soldiers\banner SO Col. Vijay Mishra Sept 23.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                           
+                            <span class="zoom-icon">+</span> 
+
+
                         </div>
                     </div>
                 </div>
@@ -155,7 +196,8 @@
                             <img src="assets\images\soldiers\Banner_Major Mustafa_23 Oct_2022  (1).jpeg" alt="">
                             <a href="assets\images\soldiers\Banner_Major Mustafa_23 Oct_2022  (1).jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            
+                            <span class="zoom-icon">+</span> 
+
                         </div>
                     </div>
                 </div>
@@ -167,7 +209,9 @@
                             <img src="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" alt="">
                             <a href="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            
+                            <span class="zoom-icon">+</span> 
+
+
                         </div>
                     </div>
                 </div>
@@ -179,7 +223,9 @@
                             <img src="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" alt="">
                             <a href="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            
+                            <span class="zoom-icon">+</span> 
+
+
                         </div>
                     </div>
                 </div>
@@ -191,7 +237,9 @@
                             <img src="assets\images\soldiers\banner_Major Mustafa_23 Oct_2022  (2).jpeg" alt="">
                             <a href="assets\images\soldiers\banner_Major Mustafa_23 Oct_2022  (2).jpeg" class="img-popup"></a>
                             <!-- /.img-popup -->
-                            
+                            <span class="zoom-icon">+</span> 
+
+
                         </div>
                     </div>
                 </div>
@@ -201,7 +249,7 @@
     </section>
     <!--Gallery Page End-->
 
-    
+
 
     <!--Site Footer Start-->
     <!-- <section class="video-gallery">
@@ -281,9 +329,9 @@
         }
         
     </style> -->
- <script>
-    
- </script>
+    <script>
+
+    </script>
     <?php include 'includes/footer.php' ?>
     <!--Site Footer End-->
 

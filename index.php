@@ -66,7 +66,7 @@
         </div>
     </section> -->
     <section class="main-slider-three clearfix">
-            <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 1, "loop": true,
+        <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 1, "loop": true,
                 "effect": "fade",
                 "pagination": {
                 "el": "#main-slider-pagination",
@@ -80,45 +80,44 @@
                 "autoplay": {
                 "delay": 5000
                 }}'>
-                <div class="swiper-wrapper">
+            <div class="swiper-wrapper">
 
-                    <div class="swiper-slide">
-                        <div class="image-layer-three"
-                            style="background-image: url(assets/images/soldiers/Army\ truck\ banner\ Image\ Aug\ 2023\ \ at\ 08.28.56.jpeg);"></div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider-three-color"></div>
-                        <div class="container">
-                           
-                        </div>
+                <div class="swiper-slide">
+                    <div class="image-layer-three" style="background-image: url(assets/images//logo/Veer\ Nari\ Shakti\ Banner.jpg);"></div>
+                    <!-- /.image-layer -->
+                    <div class="main-slider-three-color"></div>
+                    <div class="container">
+
                     </div>
-
-                    <div class="swiper-slide">
-                        <div class="image-layer-three"
-                            style="background-image: url(assets/images/soldiers/armypic-1611156427739.jpg);"></div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider-three-color"></div>
-                        <div class="container">
-                          
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="image-layer-three"
-                            style="background-image: url(assets/images/soldiers/banner\ SO\ Col.\ Vijay\ Mishra\ Sept\ 23.jpeg);"></div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider-three-color"></div>
-                        <div class="container">
-                         
-                        </div>
-                    </div>
-
                 </div>
 
-                <!-- If we need navigation buttons -->
+                <div class="swiper-slide">
+                    <div class="image-layer-three" style="background-image: url(assets/images/logo/Veernari-Banner2.jpg);"></div>
+                    <!-- /.image-layer -->
+                    <div class="main-slider-three-color"></div>
+                    <div class="container">
 
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="image-layer-three" style="background-image: url(assets/images/soldiers/armypic-1611156427739.jpg);"></div>
+                    <!-- /.image-layer -->
+                    <div class="main-slider-three-color"></div>
+                    <div class="container">
+
+                    </div>
+                </div>
+
+               
 
             </div>
-        </section>
+
+            <!-- If we need navigation buttons -->
+
+
+        </div>
+    </section>
 
     <!-- <style>
         .page-header {
@@ -159,7 +158,7 @@
             /* Ensure the video doesn't interfere with user interactions */
         }
     </style> -->
-    <style>
+    <!-- <style>
         .page-header {
             position: relative;
             overflow: hidden;
@@ -197,7 +196,7 @@
             pointer-events: none;
             /* Prevents clicks on the video from triggering events on underlying elements */
         }
-    </style>
+    </style> -->
     <!--Main Slider End-->
 
 
@@ -573,6 +572,8 @@
 
     <!--Brand One Start-->
     <section class="brand-one">
+        <h1 class="section-title__tagline forces">OUR FORCES WE PROUDLY STAND BY</h1>
+
         <div class="container">
             <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 1000 },"loop":"true","breakpoints": {
                     "0": {
@@ -730,10 +731,18 @@
 
         </div>
         <style>
-            .gallery-four__carousel{
+            .gallery-four__carousel {
                 width: 90% !important;
                 left: 70px;
                 margin-bottom: 10px;
+            }
+
+            @media only screen and (max-width: 768px) {
+                .gallery-four__carousel {
+                    left: 0;
+                    width: 100% !important;
+                   
+                }
             }
         </style>
         <div class="gallery-four__carousel thm-owl__carousel owl-carousel owl-theme" data-owl-options='{
@@ -766,7 +775,7 @@
                 }'>
 
             <div class="gallery-four__ietm">
-                <img src="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" alt="oxpins"  style="height: 360px;">
+                <img src="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" alt="oxpins" style="height: 360px;">
                 <a href="assets\images\soldiers\Hindi front banner 5 x 5_sept 2023.jpeg" class="img-popup"></a>
             </div>
 
@@ -796,7 +805,7 @@
     <!--News One End-->
 
     <!--Site Footer Start-->
-    <?php include ('includes/footer.php'); ?>
+    <?php include('includes/footer.php'); ?>
     <!--Site Footer End-->
 
 

@@ -8,19 +8,19 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
-    <title> Health || VeerNari Shakti </title>
+    <title> Promotions || VeerNari Shakti </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+    <meta name="description" content="Discover our educational initiatives aimed at empowering underprivileged communities. Get involved in our programs and help make a difference in people's lives." />
     <meta name="robots" content="noindex, nofollow, all" />
     <meta name="author" content="VeerNari Shakti" />
     <meta name="copyright" content="VeerNari Shakti" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta content="VeerNari Shakti, welfare trust, charity, social work, community, volunteer, donate, support" name="keywords" />
-    <meta name="description" content="Learn about our health programs focused on improving the well-being of individuals and communities. Join us in our mission to provide access to quality healthcare." />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -63,14 +63,16 @@
 <body class="custom-cursor">
     <div class="custom-cursor__cursor"></div>
     <div class="custom-cursor__cursor-two"></div>
+
+    <?php include('includes/header.php'); ?>
+
     <!-- <div class="preloader">
         <div class="preloader__image"></div>
     </div> -->
     <div class="page-wrapper">
-        <?php include 'includes/header.php'; ?>
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/bg5.webp)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/bg9.webp)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -79,10 +81,11 @@
                         <li><span>/</span></li>
                         <li class="active">Our Programs</li>
                     </ul>
-                    <h1 style="color:white;"><strong>Health</strong></h1>
+                    <h1 style="color:white;"><strong>Promotions</strong></h1>
                 </div>
             </div>
         </section>
+        <!--Page Header End-->
         <!--Feature Two Start-->
         <section class="feature-two">
             <div class="container">
@@ -95,7 +98,151 @@
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
                                         <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href=" ">Education & <br> healthy
+                                        <p class="feature-two__title"><a href="#">Education & <br> healthy
+                                                food</a></p>
+                                    </div>
+                                    <div class="feature-two__icon">
+                                        <span class="icon-apple"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="feature-two__arrow">
+                                <a href="#"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Feature Two Single End-->
+                    <!--Feature Two Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="feature-two__single">
+                            <div class="feature-two__single-inner">
+                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
+                                <div class="feature-two__content-box">
+                                    <div class="feature-two__content-left">
+                                        <p class="feature-two__tagline">Donate to</p>
+                                        <p class="feature-two__title"><a href="#">Medical & <br>
+                                                treatment</a></p>
+                                    </div>
+                                    <div class="feature-two__icon">
+                                        <span class="icon-health-insurance"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="feature-two__arrow">
+                                <a href="#"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Feature Two Single End-->
+                    <!--Feature Two Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="feature-two__single">
+                            <div class="feature-two__single-inner">
+                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
+                                <div class="feature-two__content-box">
+                                    <div class="feature-two__content-left">
+                                        <p class="feature-two__tagline">Donate to</p>
+                                        <p class="feature-two__title"><a href="#">Bring people <br>
+                                                together</a></p>
+                                    </div>
+                                    <div class="feature-two__icon">
+                                        <span class="icon-business-partnership"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="feature-two__arrow">
+                                <a href="#"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Feature Two Single End-->
+                </div>
+            </div>
+        </section>
+        <section class="feature-two">
+            <div class="container">
+                <div class="row">
+                    <!--Feature Two Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="feature-two__single">
+                            <div class="feature-two__single-inner">
+                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
+                                <div class="feature-two__content-box">
+                                    <div class="feature-two__content-left">
+                                        <p class="feature-two__tagline">Donate to</p>
+                                        <p class="feature-two__title"><a href="#">Education & <br> healthy
+                                                food</a></p>
+                                    </div>
+                                    <div class="feature-two__icon">
+                                        <span class="icon-apple"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="feature-two__arrow">
+                                <a href="#"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Feature Two Single End-->
+                    <!--Feature Two Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="feature-two__single">
+                            <div class="feature-two__single-inner">
+                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
+                                <div class="feature-two__content-box">
+                                    <div class="feature-two__content-left">
+                                        <p class="feature-two__tagline">Donate to</p>
+                                        <p class="feature-two__title"><a href="#">Medical & <br>
+                                                treatment</a></p>
+                                    </div>
+                                    <div class="feature-two__icon">
+                                        <span class="icon-health-insurance"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="feature-two__arrow">
+                                <a href="#"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Feature Two Single End-->
+                    <!--Feature Two Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="feature-two__single">
+                            <div class="feature-two__single-inner">
+                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
+                                <div class="feature-two__content-box">
+                                    <div class="feature-two__content-left">
+                                        <p class="feature-two__tagline">Donate to</p>
+                                        <p class="feature-two__title"><a href="#">Bring people <br>
+                                                together</a></p>
+                                    </div>
+                                    <div class="feature-two__icon">
+                                        <span class="icon-business-partnership"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="feature-two__arrow">
+                                <a href="#"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Feature Two Single End-->
+                </div>
+            </div>
+        </section>
+        <section class="feature-two">
+            <div class="container">
+                <div class="row">
+                    <!--Feature Two Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="feature-two__single">
+                            <div class="feature-two__single-inner">
+                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
+                                <div class="feature-two__content-box">
+                                    <div class="feature-two__content-left">
+                                        <p class="feature-two__tagline">Donate to</p>
+                                        <p class="feature-two__title"><a href="#">Education & <br> healthy
                                                 food</a></p>
                                     </div>
                                     <div class="feature-two__icon">
@@ -157,173 +304,7 @@
             </div>
         </section>
         <!--Feature Two End-->
-        <!--Page Header End-->
-        <section class="events-two">
-            <div class="events-two-shape-1" style="background-image: url(assets/images/shapes/events-two-shape-1.png);">
-            </div>
-            <div class="events-two-bg" style="background-image: url(assets/images/backgrounds/events-two-bg.png);">
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="events-two__left">
-                            <div class="section-title text-left">
-                                <h2 class="section-title__title">Healthy bodies, empowered lives - Our commitment to
-                                    healthcare support</h2>
-                            </div>
-                            <p class="events-two__text">VeerNari Shakti, where we strive to promote the well-being of
-                                individuals and communities through our various initiatives. At our welfare trust, we
-                                are committed to providing high-quality health services to people in need, regardless of
-                                their background or socio-economic status.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="events-two__right">
-                            <div class="events-two__right-bg-box">
-                                <div class="events-two-shape-2" style="background-image: url(assets/images/shapes/events-two-shape-2.png);"></div>
-                            </div>
-                            <ul class="list-unstyled events-two__list">
-                                <li>
-                                    <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Access to Affordable
-                                                Healthcare with us</a></h3>
-                                        <p>At VeerNari Shakti, we believe that access to affordable healthcare is a
-                                            fundamental right for everyone. We strive to provide our members with access
-                                            to quality healthcare at an affordable cost.</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Wellness Programs</a>
-                                        </h3>
-                                        <p>We offer a variety of wellness programs that promote healthy lifestyle habits
-                                            and disease prevention. These programs include health education, fitness
-                                            classes, nutrition counseling, and stress management. </p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="about-two" id="about" style="padding-top:90px;">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="about-two__left">
-                            <div class="about-two__img-box  wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <div class="about-two__img">
-                                    <img src="assets/images/resources/about-two-img-1.png" alt="">
-                                </div>
-                                <div class="about-two__img-two">
-                                    <img src="assets/images/resources/about-two-img-3.png" alt="">
-                                </div>
-                                <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Help us today!</p>
-                                </div>
-                                <div class="about-two__shape-1 zoominout">
-                                    <img src="assets/images/shapes/about-two-shape-1.png" alt="">
-                                </div>
-                                <div class="about-two__shape-2 rotate-me">
-                                    <img src="assets/images/shapes/about-two-shape-2.png" alt="">
-                                </div>
-                                <div class="about-two__shape-3 float-bob-y">
-                                    <img src="assets/images/shapes/about-two-shape-3.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="about-two__right">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
-                                <h2 class="section-title__title">Medical Camps</h2>
-                            </div>
-                            <p class="about-two__text-1">We organize medical camps in various locations to provide
-                                healthcare facilities to people in need. Our camps are conducted by qualified medical
-                                professionals who offer consultations, diagnostic tests, and treatment for various
-                                medical conditions. We collaborate with local authorities and organisations to identify
-                                areas that need medical attention and plan our camps accordingly.
-                            </p>
-                            <div class="about-two__progress">
-                                <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Charity</h3>
-                                    <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="76%">
-                                            <div class="count-text">76%</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Donations</h3>
-                                    <div class="bar marb-0">
-                                        <div class="bar-inner count-bar" data-percent="86%">
-                                            <div class="count-text">86%</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="about-two" id="about" style="padding-top:90px;">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="about-two__right">
-                            <div class="section-title text-left">
-                                <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
-                                <h2 class="section-title__title">Health Awareness Programs</h2>
-                            </div>
-                            <p class="about-two__text-1">Our health awareness programs are designed to educate people
-                                about the importance of leading a healthy lifestyle. Through these programs, we aim to
-                                create awareness about common health issues and ways to prevent them. We conduct
-                                workshops, seminars, and interactive sessions with medical experts to provide
-                                information and guidance to people.
-                            </p>
-                            <br>
-                            <p>We believe that prevention is better than cure, and our health awareness programs are an
-                                important step towards creating a healthier society. Our programs cover a wide range of
-                                topics such as nutrition, hygiene, disease prevention, mental health, and more.</p>
-                            <br>
-                            <p>Our health services are an important aspect of our welfare trust's mission to improve the
-                                lives of people in need. We are committed to providing quality healthcare to those who
-                                need it the most, and we believe that our initiatives will have a positive impact on the
-                                well-being of individuals and communities.</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="about-two__left">
-                            <div class="about-two__img-box-2  wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                                <div class="about-two__img">
-                                    <img src="assets/images/resources/about-two-img-2.png" alt="">
-                                </div>
-                                <div class="about-two__img-two-2">
-                                    <img src="assets/images/resources/about-two-img-4.png" alt="">
-                                </div>
-                                <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Help us today!</p>
-                                </div>
-                                <div class="about-two__shape-1-2 zoominout">
-                                    <img src="assets/images/shapes/about-two-shape-1.png" alt="">
-                                </div>
-                                <div class="about-two__shape-2 rotate-me">
-                                    <img src="assets/images/shapes/about-two-shape-2.png" alt="">
-                                </div>
-                                <div class="about-two__shape-3 float-bob-y">
-                                    <img src="assets/images/shapes/about-two-shape-3.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+        
 
 
         <!--Brand One Start-->
@@ -401,69 +382,7 @@
             </div>
         </section>
         <!--Brand One End-->
-        <section class="donate-now">
-            <div class="container">
-                <div class="row abcd">
-                    <div class="col-xl-8 col-lg-7">
-                        <div class="donate-now__left">
-                            <div class="donate-now__personal-info-box">
-                                <h3 class="donate-now__title">Book an Appointment</h3>
-                                <form class="donate-now__personal-info-form">
-                                    <div class="row">
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="First name" name="name">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Last name" name="last-name">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="email" placeholder="Email address" name="email">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Phone" name="phone">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Address" name="Address">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <select class="selectpicker" aria-label="Default select example">
-                                                    <option selected>Location?</option>
-                                                    <option value="1">Delhi</option>
-                                                    <option value="2">Madhya Pradesh</option>
-                                                    <option value="3">Uttar Pradesh</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="donate-now__personal-info-input donate-now__personal-info-message-box">
-                                                <textarea name="message" placeholder="Write your health concern"></textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                            <div class="about-four__btn-box">
-                                <a href="#" class="thm-btn about-four__btn">Book Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="faq-page" style="padding-top:0px;">
+        <section class="faq-page">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Do you need help?</span>
@@ -475,50 +394,47 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-1" data-grp-name="faq-one-accrodion-1">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>What health services does VeerNari Shakti offer?</p>
+                                        <p>What kind of educational programs does VeerNari Shakti offer?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>VeerNari Shakti offers a wide range of health services, including medical
-                                                check-ups, consultations with doctors, basic medicines, and referrals to
-                                                hospitals and specialized clinics if necessary.</p>
+                                            <p>VeerNari Shakti offers various educational programs for children and women,
+                                                including basic literacy programs, vocational training, and career
+                                                counseling.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Can anyone avail of VeerNari Shakti's health services?</p>
+                                        <p>How can I enroll in VeerNari Shakti's educational programs?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Yes, VeerNari Shakti's health services are available to anyone in need,
-                                                regardless of their age, gender, religion, or background.</p>
+                                            <p>You can contact VeerNari Shakti through our website or visit our office to
+                                                inquire about our educational programs and the enrollment process.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
-                                        <p>How can I make an appointment for a health check-up with VeerNari Shakti?</p>
+                                        <p>Is there any fee for enrolling in VeerNari Shakti's educational programs?</p>
                                     </div>
                                     <div class="accrodion-content" style="">
                                         <div class="inner">
-                                            <p>You can make an appointment by contacting our health center directly or
-                                                by visiting our website and filling out the appointment request form.
-                                                Our team will get back to you as soon as possible to schedule your
-                                                appointment.</p>
+                                            <p>No, VeerNari Shakti does not charge any fee for our educational programs.
+                                                We are a welfare trust dedicated to providing education to
+                                                underprivileged communities.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion last-chiled">
                                     <div class="accrodion-title">
-                                        <p>Are there any fees for VeerNari Shakti's health services?</p>
+                                        <p>Does VeerNari Shakti provide scholarships or financial aid to students?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p> No, VeerNari Shakti's health services are completely free of charge. We
-                                                believe that access to basic healthcare is a fundamental human right and
-                                                should be available to everyone, regardless of their financial
-                                                situation.</p>
+                                            <p>Yes, VeerNari Shakti provides scholarships and financial aid to deserving
+                                                students who are unable to afford the cost of education.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
@@ -530,52 +446,56 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-2" data-grp-name="faq-one-accrodion-2">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Does VeerNari Shakti offer any health education programs?</p>
+                                        <p>How can I volunteer to teach or mentor students in VeerNari Shakti's educational
+                                            programs?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Yes, we organize regular health education workshops and seminars on
-                                                topics such as nutrition, hygiene, and disease prevention. These
-                                                programs are open to everyone and aim to promote healthy habits and
-                                                lifestyles in our community.</p>
+                                            <p>You can contact VeerNari Shakti to inquire about volunteer opportunities for
+                                                teaching or mentoring students in our educational programs. We
+                                                welcome volunteers who are passionate about education and willing to
+                                                make a difference in the lives of underprivileged children and women.
+                                            </p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How can I access healthcare services through VeerNari Shakti?</p>
+                                        <p>Can anyone apply for the education programs offered by VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>VeerNari Shakti provides various healthcare services like medical check-ups,
-                                                medicines, and health camps. You can contact us through our helpline
-                                                number or visit our office for more information on accessing these
-                                                services.</p>
+                                            <p>Yes, anyone who meets the eligibility criteria can apply for our
+                                                education programs. We strive to provide equal education opportunities
+                                                to all.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
-                                        <p>Can I volunteer with VeerNari Shakti to help in healthcare initiatives?</p>
+                                        <p>What subjects are covered in the education programs offered by VeerNari Shakti?
+                                        </p>
                                     </div>
                                     <div class="accrodion-content" style="">
                                         <div class="inner">
-                                            <p>Yes, we welcome volunteers who are interested in helping with our
-                                                healthcare initiatives. You can contact us through our website or visit
-                                                our office to know more about how you can volunteer.</p>
+                                            <p>Our education programs cover a wide range of subjects, including but not
+                                                limited to math, science, social studies, language, and computer
+                                                literacy.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion last-chiled">
                                     <div class="accrodion-title">
-                                        <p>Does VeerNari Shakti provide mental health support?</p>
+                                        <p>How are the education programs of VeerNari Shakti different from other
+                                            organizations?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Yes, we have a dedicated team that provides mental health support to
-                                                individuals who need it. You can contact us through our helpline number
-                                                or visit our office to know more about the mental health services we
-                                                offer.</p>
+                                            <p>At VeerNari Shakti, we believe in providing holistic education that focuses on
+                                                the overall development of an individual. Our programs not only cover
+                                                academic subjects but also include skill development, personality
+                                                development, and value-based education. We also offer personalized
+                                                attention to each student to ensure their success.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
@@ -603,12 +523,11 @@
             </div>
         </section>
         <!--Become Volunteer End-->
-        <?php include 'includes/footer.php'; ?>
 
 
 
 
-
+        <?php include('includes/footer.php'); ?>
 
 
     </div>
@@ -628,19 +547,19 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">admin@eksahyog.com</a>
+                    <a href="mailto:needhelp@packageName__.com">vnsrfoundation@gmail.com</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">+91 9909950995</a>
+                    <a href="tel:666-888-0000">+91 9821022008</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
-                    <a href="https://www.facebook.com/eksahyogtrust" class="fab fa-facebook-square"></a>
+                    <a href="https://www.facebook.com/veernari.shakti" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
-                    <a href="https://www.instagram.com/eksahyogtrust/" class="fab fa-instagram"></a>
+                    <a href="https://www.instagram.com/veernari.shakti/" class="fab fa-instagram"></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
 

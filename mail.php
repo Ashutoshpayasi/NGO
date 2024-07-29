@@ -1,5 +1,5 @@
 <?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
     
     $name = $_POST["name"];
     $email = $_POST["email"];
@@ -19,11 +19,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo json_encode(["success" => true]); 
         sleep(2);
         echo"<script>alert('Thank you for contacting us. As soon as possible we will contact you.')</script>"; 
-        header("Location: contact.php");
+        header("Location: index.php");
     } else {
         echo json_encode(["success" => false]);;
         echo"<script>alert('Something went wrong. Please try again.')</script>";
-        header("Location: contact.php");
+        header("Location: index.php");
     }
 } else {
     echo json_encode(["success" => false]);

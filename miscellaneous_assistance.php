@@ -2,25 +2,25 @@
 <html lang="en">
 
 
-<!-- Mirrored from layerdrops.com/oxpins/main-html/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Feb 2023 11:57:00 GMT -->
+<!-- Mirrored from layerdrops.com/oxpinshtml/main-html/volunteer.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Apr 2023 07:24:15 GMT -->
 
 <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
-    <title> Education || VeerNari Shakti </title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Miscellaneous Assistance || VeerNari Shakti </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Discover our educational initiatives aimed at empowering underprivileged communities. Get involved in our programs and help make a difference in people's lives." />
     <meta name="robots" content="noindex, nofollow, all" />
     <meta name="author" content="VeerNari Shakti" />
     <meta name="copyright" content="VeerNari Shakti" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta content="VeerNari Shakti, welfare trust, charity, social work, community, volunteer, donate, support" name="keywords" />
+    <meta name="description" content="Join us and become a volunteer at VeerNari Shakti - a non-profit organization dedicated to making a difference in the world. Help us make a positive impact in your community!" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -61,105 +61,39 @@
 </head>
 
 <body class="custom-cursor">
+
     <div class="custom-cursor__cursor"></div>
     <div class="custom-cursor__cursor-two"></div>
 
-    <?php include('includes/header.php'); ?>
+
+
+
 
     <!-- <div class="preloader">
         <div class="preloader__image"></div>
     </div> -->
+    <!-- /.preloader -->
+
+
     <div class="page-wrapper">
+        <?php include 'includes/header.php'; ?>
+
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/bg9.webp)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/bg1.webp)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
-                        <li class="active">Our Programs</li>
+                        <li class="active">Pages</li>
                     </ul>
-                    <h1 style="color:white;"><strong>Education</strong></h1>
+                    <h1 style="color:white;">Miscellaneous Assistance</h1>
                 </div>
             </div>
         </section>
         <!--Page Header End-->
-        <!--Feature Two Start-->
-        <section class="feature-two">
-            <div class="container">
-                <div class="row">
-                    <!--Feature Two Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="feature-two__single">
-                            <div class="feature-two__single-inner">
-                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
-                                <div class="feature-two__content-box">
-                                    <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Education & <br> healthy
-                                                food</a></p>
-                                    </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-apple"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="feature-two__arrow">
-                                <a href="#"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Feature Two Single End-->
-                    <!--Feature Two Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="feature-two__single">
-                            <div class="feature-two__single-inner">
-                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
-                                <div class="feature-two__content-box">
-                                    <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Medical & <br>
-                                                treatment</a></p>
-                                    </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-health-insurance"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="feature-two__arrow">
-                                <a href="#"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Feature Two Single End-->
-                    <!--Feature Two Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="feature-two__single">
-                            <div class="feature-two__single-inner">
-                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
-                                <div class="feature-two__content-box">
-                                    <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Bring people <br>
-                                                together</a></p>
-                                    </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-business-partnership"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="feature-two__arrow">
-                                <a href="#"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Feature Two Single End-->
-                </div>
-            </div>
-        </section>
-        <!--Feature Two End-->
         <section class="events-two">
             <div class="events-two-shape-1" style="background-image: url(assets/images/shapes/events-two-shape-1.png);">
             </div>
@@ -167,15 +101,17 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 col-lg-6" style="display: flex; align-items: center;">
+                    <div class="col-xl-6 col-lg-6">
                         <div class="events-two__left">
                             <div class="section-title text-left">
-                                <h2 class="section-title__title">Education</h2>
+                                <h2 class="section-title__title">Together, we can make a meaningful impact - Volunteer
+                                    with us
+                                </h2>
                             </div>
-                            <p class="events-two__text" style="text-align: justify;">We at VeerNari Shakti believe that education is the cornerstone of a
-                                prosperous society. To this end, we have several initiatives in place to ensure that
-                                children from underprivileged backgrounds have access to quality education. Our
-                                education programs include.
+                            <p class="events-two__text">At VeerNari Shakti, we believe that for lasting change to happen,
+                                people from our communities must be actively involved in development efforts. That's why
+                                we invite individuals to join us as volunteers and work towards our shared vision of
+                                helping children and their families.
                             </p>
                         </div>
                     </div>
@@ -187,20 +123,24 @@
                             <ul class="list-unstyled events-two__list">
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Opening doors of
-                                                primary education for underprivileged children:</a></h3>
-                                        <p>We focus on providing access to education to children from economically
-                                            weaker sections of society who would otherwise not have the opportunity to
-                                            go to school.</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Volunteer
+                                                Opportunities</a></h3>
+                                        <p>Volunteers are very important to us because they not only believe in our
+                                            mission but also help spread awareness about it to others. So if you want to
+                                            make a difference and bring happiness to others, consider volunteering with
+                                            us at VeerNari Shakti!</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Digital learning
-                                                technology:</a></h3>
-                                        <p>We leverage technology to provide innovative teaching methods and upgrade the
-                                            level of education. We equip schools with digital learning aids to enhance
-                                            the learning experience of the children.</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Volunteer Application
+                                            </a></h3>
+                                        <p>We warmly welcome individuals who are interested in volunteering with Ek
+                                            Sahyog! If you want to be a part of our efforts to improve the lives of
+                                            children and families, please consider applying for our volunteer
+                                            application. We believe that your involvement and dedication will have a
+                                            positive impact on our community. Thank you for your interest in serving
+                                            with us!</p>
                                     </div>
                                 </li>
                             </ul>
@@ -240,12 +180,13 @@
                         <div class="about-two__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
-                                <h2 class="section-title__title">Scholarship Programs</h2>
+                                <h2 class="section-title__title">Why Volunteer with Eksahyog? </h2>
                             </div>
-                            <p class="about-two__text-1" style="text-align: justify;">We believe that every child deserves a chance to succeed, and
-                                we have established scholarship programs to support bright and deserving students from
-                                underprivileged backgrounds. Our scholarship programs aim to provide financial
-                                assistance to students to help them complete their education and achieve their dreams.
+                            <p class="about-two__text-1">When you volunteer with Eksahyog, you become a part of a
+                                passionate community of like-minded individuals who are dedicated to creating positive
+                                change. You will have the opportunity to make a real difference in the lives of those
+                                who need it most, and your efforts will be recognized and valued by our organization and
+                                the communities we serve.
                             </p>
                             <div class="about-two__progress">
                                 <div class="about-two__progress-single">
@@ -277,12 +218,11 @@
                         <div class="about-two__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
-                                <h2 class="section-title__title">School Support Programs</h2>
+                                <h2 class="section-title__title">What You Can Expect as a Volunteer?</h2>
                             </div>
-                            <p class="about-two__text-1" style="text-align: justify;">We understand that education is not just about providing access
-                                to classrooms but also about creating an environment that fosters learning. To this end,
-                                we have several school support programs in place to provide a conducive learning
-                                environment. Our school support programs include:
+                            <p class="about-two__text-1">At Eksahyog, we're committed to providing our volunteers with
+                                the support and resources they need to succeed. Here's what you can expect as a
+                                volunteer:
                             </p>
                             <ul class="list-unstyled about-two__points-2">
                                 <li>
@@ -290,10 +230,12 @@
                                         <span class="icon-target"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Infrastructure support:</h3>
-                                        <p style="text-align: justify;">We provide infrastructure support to schools to ensure that they have the
-                                            necessary facilities for a comfortable and safe learning environment. This
-                                            includes providing clean drinking water, toilets, and other amenities.</p>
+                                        <h3>Training and orientation</h3>
+                                        <p>Our training and orientation program is designed to prepare volunteers for
+                                            their roles. We cover topics such as our organization's mission and values,
+                                            volunteer responsibilities, and project-specific training to ensure that our
+                                            volunteers feel confident and equipped to make a difference.
+                                        </p>
                                     </div>
                                 </li>
                                 <li>
@@ -301,16 +243,19 @@
                                         <span class="icon-solidarity-1"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Teacher training programs:</h3>
-                                        <p style="text-align: justify;">We believe that the quality of education is directly linked to the quality of
-                                            teachers. We conduct regular training programs for teachers to help them
-                                            stay updated with the latest teaching methodologies and provide the best
-                                            possible education to their students.</p>
+                                        <h3>Opportunities to connect with others</h3>
+                                        <p>We provide opportunities for our volunteers to connect with other volunteers
+                                            and members of our team. We believe that building relationships and
+                                            fostering a sense of community are essential to creating a positive and
+                                            rewarding volunteer experience.
+                                        </p>
                                     </div>
                                 </li>
                             </ul>
-                            <p class="about-two__text-1" style="text-align: justify;">Through these programs, we aim to create a brighter future for
-                                underprivileged children and give them the opportunity to achieve their full potential.
+                            <p class="about-two__text-1">At Eksahyog, we welcome volunteers from all walks of life. Our
+                                volunteer program is open to anyone who shares our values of compassion, integrity, and
+                                social justice. No matter your age, background, or experience level, we have
+                                opportunities for you to get involved and make a difference.
                             </p>
                         </div>
                     </div>
@@ -341,8 +286,67 @@
                 </div>
             </div>
         </section>
-
-
+        <section class="about-two" id="about" style="padding-top:90px;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="about-two__left">
+                            <div class="about-two__img-box  wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                                <div class="about-two__img">
+                                    <img src="assets/images/resources/about-two-img-1.png" alt="">
+                                </div>
+                                <div class="about-two__img-two">
+                                    <img src="assets/images/resources/about-two-img-3.png" alt="">
+                                </div>
+                                <div class="about-two__left-title-box">
+                                    <p class="about-two__left-title">Help us today!</p>
+                                </div>
+                                <div class="about-two__shape-1 zoominout">
+                                    <img src="assets/images/shapes/about-two-shape-1.png" alt="">
+                                </div>
+                                <div class="about-two__shape-2 rotate-me">
+                                    <img src="assets/images/shapes/about-two-shape-2.png" alt="">
+                                </div>
+                                <div class="about-two__shape-3 float-bob-y">
+                                    <img src="assets/images/shapes/about-two-shape-3.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6">
+                        <div class="about-two__right">
+                            <div class="section-title text-left">
+                                <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
+                                <h2 class="section-title__title">Be the voice of change</h2>
+                            </div>
+                            <p class="about-two__text-1">If you're passionate about making a positive impact on society
+                                and want to be the voice of change, VeerNari Shakti invites you to join our team of
+                                volunteers. Together, we can work towards building a more equitable and just society for
+                                all. Join us and become the voice of change today!
+                            </p>
+                            <div class="about-two__progress">
+                                <div class="about-two__progress-single">
+                                    <h3 class="about-two__progress-title">Charity</h3>
+                                    <div class="bar">
+                                        <div class="bar-inner count-bar" data-percent="76%">
+                                            <div class="count-text">76%</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="about-two__progress-single">
+                                    <h3 class="about-two__progress-title">Donations</h3>
+                                    <div class="bar marb-0">
+                                        <div class="bar-inner count-bar" data-percent="86%">
+                                            <div class="count-text">86%</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!--Brand One Start-->
         <section class="brand-one">
             <div class="container">
@@ -418,7 +422,83 @@
             </div>
         </section>
         <!--Brand One End-->
-        <section class="faq-page">
+
+        <!--Team One Start-->
+       
+        <section class="donate-now">
+            <div class="container">
+                <div class="row abcd">
+                    <div class="col-xl-8 col-lg-7">
+                        <div class="donate-now__left">
+                            <div class="donate-now__personal-info-box">
+                                <h3 class="donate-now__title">Become a Volunteer</h3>
+                                <form class="donate-now__personal-info-form">
+                                    <div class="row">
+                                        <div class="col-xl-6">
+                                            <div class="donate-now__personal-info-input">
+                                                <input type="text" placeholder="First name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-6">
+                                            <div class="donate-now__personal-info-input">
+                                                <input type="text" placeholder="Last name" name="last-name">
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-6">
+                                            <div class="donate-now__personal-info-input">
+                                                <input type="email" placeholder="Email address" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-6">
+                                            <div class="donate-now__personal-info-input">
+                                                <input type="text" placeholder="Occupation" name="occupation">
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-6">
+                                            <div class="donate-now__personal-info-input">
+                                                <input type="text" placeholder="Date of Birth" name="date" id="datepicker">
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-6">
+                                            <div class="donate-now__personal-info-input">
+                                                <input type="text" placeholder="Phone" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-6">
+                                            <div class="donate-now__personal-info-input">
+                                                <input type="text" placeholder="Address" name="Address">
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-6">
+                                            <div class="donate-now__personal-info-input">
+                                                <select class="selectpicker" aria-label="Default select example">
+                                                    <option selected>Location?</option>
+                                                    <option value="1">Delhi</option>
+                                                    <option value="2">Madhya Pradesh</option>
+                                                    <option value="3">Uttar Pradesh</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-xl-12">
+                                            <div class="donate-now__personal-info-input donate-now__personal-info-message-box">
+                                                <textarea name="message" placeholder="Write a message"></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="about-four__btn-box">
+                                <a href="#" class="thm-btn about-four__btn">Submit</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Team One End-->
+        <section class="faq-page" style="padding-top:50px;">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Do you need help?</span>
@@ -430,47 +510,50 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-1" data-grp-name="faq-one-accrodion-1">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>What kind of educational programs does VeerNari Shakti offer?</p>
+                                        <p>Who can become a volunteer at VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>VeerNari Shakti offers various educational programs for children and women,
-                                                including basic literacy programs, vocational training, and career
-                                                counseling.</p>
+                                            <p>Anyone who is passionate about making a positive difference in the lives
+                                                of others can become a volunteer at VeerNari Shakti. There are no age, gender,
+                                                or educational qualifications required.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How can I enroll in VeerNari Shakti's educational programs?</p>
+                                        <p>What kind of volunteer work can I do at VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>You can contact VeerNari Shakti through our website or visit our office to
-                                                inquire about our educational programs and the enrollment process.</p>
+                                            <p>VeerNari Shakti has various volunteering opportunities ranging from education,
+                                                health, women empowerment, poverty alleviation, emergency relief, and
+                                                more. You can choose to volunteer in any field that aligns with your
+                                                interests and skills.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
-                                        <p>Is there any fee for enrolling in VeerNari Shakti's educational programs?</p>
+                                        <p>How much time do I need to commit as a volunteer at VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="">
                                         <div class="inner">
-                                            <p>No, VeerNari Shakti does not charge any fee for our educational programs.
-                                                We are a welfare trust dedicated to providing education to
-                                                underprivileged communities.</p>
+                                            <p>The time commitment varies depending on the volunteering opportunity you
+                                                choose. Some volunteering positions require a few hours a week, while
+                                                others require more time. We can help you find a position that fits your
+                                                schedule.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion last-chiled">
                                     <div class="accrodion-title">
-                                        <p>Does VeerNari Shakti provide scholarships or financial aid to students?</p>
+                                        <p>Do I need any prior experience to become a volunteer at VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Yes, VeerNari Shakti provides scholarships and financial aid to deserving
-                                                students who are unable to afford the cost of education.</p>
+                                            <p>No, prior experience is not necessary. However, if you have any relevant
+                                                skills or experience, it can be an added advantage.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
@@ -482,56 +565,47 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-2" data-grp-name="faq-one-accrodion-2">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How can I volunteer to teach or mentor students in VeerNari Shakti's educational
-                                            programs?</p>
+                                        <p>How do I apply to become a volunteer at VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>You can contact VeerNari Shakti to inquire about volunteer opportunities for
-                                                teaching or mentoring students in our educational programs. We
-                                                welcome volunteers who are passionate about education and willing to
-                                                make a difference in the lives of underprivileged children and women.
-                                            </p>
+                                            <p>You can fill out the volunteer application form available on our website,
+                                                and our team will get in touch with you.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Can anyone apply for the education programs offered by VeerNari Shakti?</p>
+                                        <p>What kind of training and support do volunteers receive at VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Yes, anyone who meets the eligibility criteria can apply for our
-                                                education programs. We strive to provide equal education opportunities
-                                                to all.</p>
+                                            <p>We provide training and support to our volunteers to ensure they are
+                                                equipped with the necessary skills and knowledge to carry out their
+                                                tasks efficiently.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
-                                        <p>What subjects are covered in the education programs offered by VeerNari Shakti?
-                                        </p>
+                                        <p>Can I volunteer remotely for VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="">
                                         <div class="inner">
-                                            <p>Our education programs cover a wide range of subjects, including but not
-                                                limited to math, science, social studies, language, and computer
-                                                literacy.</p>
+                                            <p>Yes, there are remote volunteering opportunities available as well. You
+                                                can choose to volunteer from anywhere in the world.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion last-chiled">
                                     <div class="accrodion-title">
-                                        <p>How are the education programs of VeerNari Shakti different from other
-                                            organizations?</p>
+                                        <p>How can I benefit from volunteering at VeerNari Shakti?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>At VeerNari Shakti, we believe in providing holistic education that focuses on
-                                                the overall development of an individual. Our programs not only cover
-                                                academic subjects but also include skill development, personality
-                                                development, and value-based education. We also offer personalized
-                                                attention to each student to ensure their success.</p>
+                                            <p>Volunteering at VeerNari Shakti can help you develop new skills, meet new
+                                                people, gain valuable work experience, and most importantly, make a
+                                                positive impact in the lives of others.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
@@ -560,13 +634,14 @@
         </section>
         <!--Become Volunteer End-->
 
+        <!--Site Footer Start-->
+        <?php include 'includes/footer.php'; ?>
+        <!--Site Footer End-->
 
 
+    </div><!-- /.page-wrapper -->
 
-        <?php include('includes/footer.php'); ?>
 
-
-    </div>
     <div class="mobile-nav__wrapper">
         <div class="mobile-nav__overlay mobile-nav__toggler"></div>
         <!-- /.mobile-nav__overlay -->
@@ -574,7 +649,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-3-t.gif" width="143" alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-3-t.gif" width="143" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -593,9 +668,9 @@
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
-                    <a href="https://www.facebook.com/eksahyogtrust" class="fab fa-facebook-square"></a>
+                    <a href="#" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
-                    <a href="https://www.instagram.com/eksahyogtrust/" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-instagram"></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
 
@@ -605,6 +680,7 @@
         <!-- /.mobile-nav__content -->
     </div>
     <!-- /.mobile-nav__wrapper -->
+
     <div class="search-popup">
         <div class="search-popup__overlay search-toggler"></div>
         <!-- /.search-popup__overlay -->
@@ -654,9 +730,9 @@
 
     <!-- template js -->
     <script src="assets/js/oxpins.js"></script>
-
-
-
 </body>
+
+
+<!-- Mirrored from layerdrops.com/oxpinshtml/main-html/volunteer.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Apr 2023 07:24:19 GMT -->
 
 </html>

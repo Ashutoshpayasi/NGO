@@ -449,7 +449,7 @@
                 <div class="become-volunteer__inner">
                     <div class="become-volunteer__left">
                         <div class="section-title text-left">
-                            <span class="section-title__tagline">Become a volunteers</span>
+                            <span class="section-title__tagline">Become a Professtional volunteers</span>
                             <h3 class="section-title__title">Join your hand with us for a better <br> life and future
                             </h3>
                         </div>
