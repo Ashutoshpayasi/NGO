@@ -75,10 +75,10 @@
                             </li>
                         </ul>
                         <div class="site-footer__social">
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.facebook.com/veernari.shakti"><i class="fab fa-facebook"></i></a>
+                            <a href="https://twitter.com/Martyr_Widows" target="__blank"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.facebook.com/veernari.shakti" target="__blank"><i class="fab fa-facebook"></i></a>
                             <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                            <a href="https://www.instagram.com/veernari_shakti/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/veernari_shakti/" target="__blank"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>

@@ -8,7 +8,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Sustainable Livelihood || VeerNari Shakti </title>
+    <title> Clinical Psycology || VeerNari Shakti </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -92,9 +92,9 @@
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
-                        <li class="active">Sustainable Livelihood</li>
+                        <li class="active">Clinical Psychology Services</li>
                     </ul>
-                    <h1 style="color:white;">Sustainable Livelihood for Army Families</h1>
+                    <h1 style="color:white;">Clinical Psychology Services for Army Families</h1>
                 </div>
             </div>
         </section>
@@ -110,10 +110,10 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="events-two__left">
                             <div class="section-title text-left">
-                                <h2 class="section-title__title">Empowering Army Families Through Sustainable Livelihoods
+                                <h2 class="section-title__title">Empowering Army Families Through Clinical Psychology
                                 </h2>
                             </div>
-                            <p class="events-two__text">At VeerNari Shakti, we believe in providing long-term support to army families by creating sustainable livelihood opportunities. Our programs are designed to empower army spouses, veterans, and their children with skills and resources needed for financial independence and security.
+                            <p class="events-two__text">At VeerNari Shakti, we are dedicated to providing comprehensive clinical psychology services to army families. Our programs are designed to support the mental health and well-being of veterans, serving personnel, and their family members.
                             </p>
                         </div>
                     </div>
@@ -125,14 +125,14 @@
                             <ul class="list-unstyled events-two__list">
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Skill Development Programs</a></h3>
-                                        <p>We offer a wide range of skill development programs tailored to the needs of army families. These include vocational training, entrepreneurship workshops, and digital literacy courses to enhance employability and foster self-reliance.</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Specialized Psychological Support</a></h3>
+                                        <p>We offer a wide range of specialized psychological services tailored to the unique needs of army families. These include therapy for PTSD, anxiety, depression, and family counseling.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Micro-Enterprise Support</a></h3>
-                                        <p>Our micro-enterprise support initiative provides guidance, resources, and micro-loans to help army spouses and veterans start and grow their own businesses, creating sustainable income sources for their families.</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Telepsychology Services</a></h3>
+                                        <p>Our telepsychology services ensure that army families receive necessary mental health care remotely, especially for those living in remote areas or facing mobility challenges.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -149,13 +149,13 @@
                         <div class="about-two__left">
                             <div class="about-two__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-two__img">
-                                    <img src="assets/images/resources/become-volunteer-three.png" alt="Skill Training">
+                                    <img src="assets/images/resources/become-volunteer-three.png" alt="Psychological Support">
                                 </div>
                                 <div class="about-two__img-two">
-                                    <img src="assets/images/resources/about-5-feature-1.jpg" alt="Entrepreneurship Support">
+                                    <img src="assets/images/resources/about-5-feature-1.jpg" alt="Mental Health Support">
                                 </div>
                                 <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Empower Today!</p>
+                                    <p class="about-two__left-title">Heal Today!</p>
                                 </div>
                                 <div class="about-two__shape-1 zoominout">
                                     <img src="assets/images/shapes/about-two-shape-1.png" alt="">
@@ -173,24 +173,24 @@
                         <div class="about-two__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Our Impact</span>
-                                <h2 class="section-title__title">Creating Lasting Change for Army Families</h2>
+                                <h2 class="section-title__title">Transforming Lives Through Clinical Psychology</h2>
                             </div>
-                            <p class="about-two__text-1">Through our sustainable livelihood initiatives, we've empowered countless army families to achieve financial independence and build a secure future. Our programs have led to increased household incomes, improved quality of life, and enhanced resilience in army communities.
+                            <p class="about-two__text-1">Through our dedicated clinical psychology services, we've helped countless army families improve their mental health, manage stress, and enhance their overall quality of life. Our programs have led to increased resilience, better family dynamics, and improved mental well-being in army communities.
                             </p>
                             <div class="about-two__progress">
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Families Supported</h3>
+                                    <h3 class="about-two__progress-title">Individuals Supported</h3>
                                     <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="76%">
-                                            <div class="count-text">76%</div>
+                                        <div class="bar-inner count-bar" data-percent="85%">
+                                            <div class="count-text">85%</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Increase in Household Income</h3>
+                                    <h3 class="about-two__progress-title">Improvement in Mental Well-being</h3>
                                     <div class="bar marb-0">
-                                        <div class="bar-inner count-bar" data-percent="86%">
-                                            <div class="count-text">86%</div>
+                                        <div class="bar-inner count-bar" data-percent="92%">
+                                            <div class="count-text">92%</div>
                                         </div>
                                     </div>
                                 </div>
@@ -208,9 +208,9 @@
                         <div class="about-two__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Our Approach</span>
-                                <h2 class="section-title__title">Holistic Support for Sustainable Livelihoods</h2>
+                                <h2 class="section-title__title">Comprehensive Clinical Psychology Care</h2>
                             </div>
-                            <p class="about-two__text-1">Our approach to creating sustainable livelihoods for army families is comprehensive and tailored to their unique needs. We focus on:
+                            <p class="about-two__text-1">Our approach to providing clinical psychology services for army families is holistic and tailored to their unique needs. We focus on:
                             </p>
                             <ul class="list-unstyled about-two__points-2">
                                 <li>
@@ -218,8 +218,8 @@
                                         <span class="icon-target"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Skills Assessment and Training</h3>
-                                        <p>We assess individual skills and interests to provide targeted training that aligns with market demands and personal aspirations.
+                                        <h3>Personalized Treatment Plans</h3>
+                                        <p>We assess individual mental health needs and develop personalized treatment plans that address specific psychological challenges and goals.
                                         </p>
                                     </div>
                                 </li>
@@ -228,13 +228,13 @@
                                         <span class="icon-solidarity-1"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Mentorship and Networking</h3>
-                                        <p>We connect army family members with mentors and facilitate networking opportunities to support their professional growth and business ventures.
+                                        <h3>Evidence-Based Therapies</h3>
+                                        <p>We employ evidence-based psychological therapies and interventions to ensure the most effective treatment for our patients.
                                         </p>
                                     </div>
                                 </li>
                             </ul>
-                            <p class="about-two__text-1">By combining skill development, financial support, and mentorship, we ensure that army families have the tools and resources they need to build sustainable livelihoods and secure futures.
+                            <p class="about-two__text-1">By combining personalized care, evidence-based therapies, and ongoing support, we ensure that army families receive the highest quality clinical psychology services for their mental health and well-being.
                             </p>
                         </div>
                     </div>
@@ -242,9 +242,9 @@
                         <div class="about-two__left">
                             <div class="about-two__img-box-2 wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-two__img">
-                                    <img src="assets/images/resources/about-6-1.jpg" alt="Mentorship Program">
+                                    <img src="assets/images/resources/about-6-1.jpg" alt="Therapy Session">
                                 </div>
-                               
+
                                 <div class="about-two__left-title-box">
                                     <p class="about-two__left-title">Support Our Cause!</p>
                                 </div>
@@ -268,7 +268,7 @@
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Frequently Asked Questions</span>
-                    <h3 class="section-title__title">Common Questions About Our Sustainable Livelihood Programs</h3>
+                    <h3 class="section-title__title">Common Questions About Our Clinical Psychology Services</h3>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
@@ -276,31 +276,31 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-1" data-grp-name="faq-one-accrodion-1">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Who is eligible for VeerNari Shakti's sustainable livelihood programs?</p>
+                                        <p>Who is eligible for VeerNari Shakti's clinical psychology services?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Our programs are open to army spouses, veterans, and their adult children. We aim to support all members of army families in building sustainable livelihoods.</p>
+                                            <p>Our services are available to all army personnel, veterans, and their immediate family members. We aim to support the entire army community in their mental health needs.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>What types of skill development programs do you offer?</p>
+                                        <p>What types of mental health issues do you address?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>We offer a wide range of programs including vocational training, digital skills, entrepreneurship, financial literacy, and more. Our programs are regularly updated to match market demands.</p>
+                                            <p>We address a wide range of mental health issues including PTSD, anxiety, depression, stress management, relationship issues, and more. Our team is equipped to handle diverse psychological needs.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How can I apply for micro-enterprise support?</p>
+                                        <p>How can I schedule a psychology session?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>You can apply through our website or visit our local office. The application process includes a business plan submission and an interview. We provide guidance throughout the process.</p>
+                                            <p>You can schedule a session through our website, by calling our helpline, or by visiting our local centers. We also offer emergency appointments for crisis situations.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -312,31 +312,31 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-2" data-grp-name="faq-one-accrodion-2">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Are your programs free of cost?</p>
+                                        <p>Are your clinical psychology services free of cost?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Most of our skill development programs are offered free of charge. For micro-enterprise support, we provide low-interest loans and grants based on the applicant's business plan and needs.</p>
+                                            <p>Most of our services are provided free of charge to eligible army families. For specialized treatments, we offer highly subsidized rates. We also assist in processing insurance claims where applicable.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How long do your skill development programs typically last?</p>
+                                        <p>How long does a typical therapy program last?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>The duration varies depending on the program. Short courses may last a few weeks, while comprehensive programs can extend up to several months. We also offer flexible online courses.</p>
+                                            <p>The duration varies depending on the individual's needs and the nature of the issues being addressed. Some may benefit from short-term interventions, while others might require longer-term support. We regularly assess progress and adjust treatment plans accordingly.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Do you provide job placement assistance after training?</p>
+                                        <p>Do you provide telepsychology services?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Yes, we have partnerships with various employers and provide job placement assistance. We also offer career counseling and help with resume building and interview preparation.</p>
+                                            <p>Yes, we offer telepsychology services for those who prefer remote sessions or live in areas far from our physical locations. Our online platform is secure and user-friendly, ensuring confidentiality and ease of access.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -349,7 +349,7 @@
 
         <!--Become Volunteer Start-->
         <!--Become Volunteer Start-->
-        <section class=" become-volunteer">
+        <section class="become-volunteer">
             <div class="container">
                 <div class="become-volunteer__inner">
                     <div class="become-volunteer__left">
@@ -369,11 +369,7 @@
 
         <!--Site Footer Start-->
         <?php include 'includes/footer.php'; ?>
-        <!--Site Footer End-->
-
-
-    </div><!-- /.page-wrapper -->
-
+    </div>
 
     <div class="mobile-nav__wrapper">
         <div class="mobile-nav__overlay mobile-nav__toggler"></div>

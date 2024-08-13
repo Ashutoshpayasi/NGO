@@ -4,6 +4,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $name = $_POST["name"];
     $email = $_POST["email"];
     $subject = $_POST["subject"];
+    $city = $_POST["city"];
     $message = $_POST["message"];
     $phone = $_POST["phone"];
     
@@ -11,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     // Construct email message
     $to = "asutoshpayasi2001@gmail.com"; 
     $subject = "New Form Submission - " . $subject;
-    $messageBody = "Name: $name\nEmail: $email\nSubject: $subject\nContact: $phone\nMessage: $message";
+    $messageBody = "Name: $name\nEmail: $email\nSubject: $subject\n Ciy: $city\nContact: $phone\nMessage: $message";
 
     $headers = "From: $email";
 

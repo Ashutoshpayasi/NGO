@@ -8,7 +8,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Sustainable Livelihood || VeerNari Shakti </title>
+    <title> Sculpture || VeerNari Shakti </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -92,9 +92,9 @@
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
-                        <li class="active">Sustainable Livelihood</li>
+                        <li class="active">Sculpture</li>
                     </ul>
-                    <h1 style="color:white;">Sustainable Livelihood for Army Families</h1>
+                    <h1 style="color:white;">Sculpture</h1>
                 </div>
             </div>
         </section>
@@ -110,10 +110,10 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="events-two__left">
                             <div class="section-title text-left">
-                                <h2 class="section-title__title">Empowering Army Families Through Sustainable Livelihoods
+                                <h2 class="section-title__title">Transforming Lives Through Sculpture Classes
                                 </h2>
                             </div>
-                            <p class="events-two__text">At VeerNari Shakti, we believe in providing long-term support to army families by creating sustainable livelihood opportunities. Our programs are designed to empower army spouses, veterans, and their children with skills and resources needed for financial independence and security.
+                            <p class="events-two__text">At our Sculpture Academy, we believe in the transformative power of art. Our sculpture classes are designed to inspire creativity, build skills, and provide a therapeutic outlet for army families. Through hands-on learning and expert guidance, we empower individuals to express themselves and potentially develop new career paths in the world of art.
                             </p>
                         </div>
                     </div>
@@ -125,14 +125,14 @@
                             <ul class="list-unstyled events-two__list">
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Skill Development Programs</a></h3>
-                                        <p>We offer a wide range of skill development programs tailored to the needs of army families. These include vocational training, entrepreneurship workshops, and digital literacy courses to enhance employability and foster self-reliance.</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Beginner Sculpture Workshops</a></h3>
+                                        <p>Our beginner workshops introduce participants to the basics of sculpting. These hands-on sessions cover various materials and techniques, providing a solid foundation for artistic expression and skill development.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Micro-Enterprise Support</a></h3>
-                                        <p>Our micro-enterprise support initiative provides guidance, resources, and micro-loans to help army spouses and veterans start and grow their own businesses, creating sustainable income sources for their families.</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Advanced Sculpture Masterclasses</a></h3>
+                                        <p>For those looking to refine their skills, our advanced masterclasses offer in-depth exploration of complex techniques. Led by professional sculptors, these classes help participants elevate their artistry to a professional level.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -141,7 +141,6 @@
                 </div>
             </div>
         </section>
-
         <section class="about-two" id="about" style="padding-top:90px;">
             <div class="container">
                 <div class="row">
@@ -149,48 +148,39 @@
                         <div class="about-two__left">
                             <div class="about-two__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-two__img">
-                                    <img src="assets/images/resources/become-volunteer-three.png" alt="Skill Training">
+                                    <img src="assets/images/products/sculpures.jpg" style="height:500px;width:550px" alt="Sculpture Class">
                                 </div>
-                                <div class="about-two__img-two">
-                                    <img src="assets/images/resources/about-5-feature-1.jpg" alt="Entrepreneurship Support">
-                                </div>
+                                
                                 <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Empower Today!</p>
+                                    <p class="about-two__left-title">Sculpt Your Future!</p>
                                 </div>
-                                <div class="about-two__shape-1 zoominout">
-                                    <img src="assets/images/shapes/about-two-shape-1.png" alt="">
-                                </div>
-                                <div class="about-two__shape-2 rotate-me">
-                                    <img src="assets/images/shapes/about-two-shape-2.png" alt="">
-                                </div>
-                                <div class="about-two__shape-3 float-bob-y">
-                                    <img src="assets/images/shapes/about-two-shape-3.png" alt="">
-                                </div>
+                                
+                               
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-6">
                         <div class="about-two__right">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">Our Impact</span>
-                                <h2 class="section-title__title">Creating Lasting Change for Army Families</h2>
+                                <span class="section-title__tagline">Our Sculpture Program</span>
+                                <h2 class="section-title__title">Empowering Creativity through Sculpture</h2>
                             </div>
-                            <p class="about-two__text-1">Through our sustainable livelihood initiatives, we've empowered countless army families to achieve financial independence and build a secure future. Our programs have led to increased household incomes, improved quality of life, and enhanced resilience in army communities.
+                            <p class="about-two__text-1">Our sculpture classes offer a unique opportunity for army families to explore their artistic potential and develop valuable skills. Through hands-on training and expert guidance, participants learn various sculpting techniques, fostering creativity and self-expression.
                             </p>
                             <div class="about-two__progress">
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Families Supported</h3>
+                                    <h3 class="about-two__progress-title">Student Satisfaction</h3>
                                     <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="76%">
-                                            <div class="count-text">76%</div>
+                                        <div class="bar-inner count-bar" data-percent="92%">
+                                            <div class="count-text">92%</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Increase in Household Income</h3>
+                                    <h3 class="about-two__progress-title">Skills Improvement</h3>
                                     <div class="bar marb-0">
-                                        <div class="bar-inner count-bar" data-percent="86%">
-                                            <div class="count-text">86%</div>
+                                        <div class="bar-inner count-bar" data-percent="88%">
+                                            <div class="count-text">88%</div>
                                         </div>
                                     </div>
                                 </div>
@@ -208,9 +198,9 @@
                         <div class="about-two__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Our Approach</span>
-                                <h2 class="section-title__title">Holistic Support for Sustainable Livelihoods</h2>
+                                <h2 class="section-title__title">Comprehensive Sculpture Education</h2>
                             </div>
-                            <p class="about-two__text-1">Our approach to creating sustainable livelihoods for army families is comprehensive and tailored to their unique needs. We focus on:
+                            <p class="about-two__text-1">Our sculpture program is designed to cater to all skill levels, from beginners to advanced artists. We focus on:
                             </p>
                             <ul class="list-unstyled about-two__points-2">
                                 <li>
@@ -218,8 +208,8 @@
                                         <span class="icon-target"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Skills Assessment and Training</h3>
-                                        <p>We assess individual skills and interests to provide targeted training that aligns with market demands and personal aspirations.
+                                        <h3>Diverse Techniques</h3>
+                                        <p>We teach a wide range of sculpting methods, including clay modeling, stone carving, and metal work, allowing students to explore various mediums.
                                         </p>
                                     </div>
                                 </li>
@@ -228,13 +218,13 @@
                                         <span class="icon-solidarity-1"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Mentorship and Networking</h3>
-                                        <p>We connect army family members with mentors and facilitate networking opportunities to support their professional growth and business ventures.
+                                        <h3>Professional Development</h3>
+                                        <p>Beyond artistic skills, we provide guidance on building a career in sculpture, including portfolio development and marketing strategies.
                                         </p>
                                     </div>
                                 </li>
                             </ul>
-                            <p class="about-two__text-1">By combining skill development, financial support, and mentorship, we ensure that army families have the tools and resources they need to build sustainable livelihoods and secure futures.
+                            <p class="about-two__text-1">By combining artistic education with professional development, we empower army families to turn their passion for sculpture into viable career opportunities.
                             </p>
                         </div>
                     </div>
@@ -242,11 +232,11 @@
                         <div class="about-two__left">
                             <div class="about-two__img-box-2 wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-two__img">
-                                    <img src="assets/images/resources/about-6-1.jpg" alt="Mentorship Program">
+                                    <img src="assets/images/products/sculpures.jpg" style="height: 450px;" alt="Sculpture Studio">
                                 </div>
-                               
-                                <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Support Our Cause!</p>
+
+                                <!-- <div class="about-two__left-title-box">
+                                    <p class="about-two__left-title">Join Our Classes Today!</p>
                                 </div>
                                 <div class="about-two__shape-1-2 zoominout">
                                     <img src="assets/images/shapes/about-two-shape-1.png" alt="">
@@ -256,7 +246,7 @@
                                 </div>
                                 <div class="about-two__shape-3 float-bob-y">
                                     <img src="assets/images/shapes/about-two-shape-3.png" alt="">
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -268,7 +258,7 @@
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Frequently Asked Questions</span>
-                    <h3 class="section-title__title">Common Questions About Our Sustainable Livelihood Programs</h3>
+                    <h3 class="section-title__title">Common Questions About Our Sculpture Classes</h3>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
@@ -276,31 +266,31 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-1" data-grp-name="faq-one-accrodion-1">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Who is eligible for VeerNari Shakti's sustainable livelihood programs?</p>
+                                        <p>Who can attend the sculpture classes?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Our programs are open to army spouses, veterans, and their adult children. We aim to support all members of army families in building sustainable livelihoods.</p>
+                                            <p>Our sculpture classes are open to army families, including spouses, veterans, and their adult children. We welcome participants of all skill levels, from beginners to advanced artists.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>What types of skill development programs do you offer?</p>
+                                        <p>What types of sculpture techniques do you teach?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>We offer a wide range of programs including vocational training, digital skills, entrepreneurship, financial literacy, and more. Our programs are regularly updated to match market demands.</p>
+                                            <p>We offer a wide range of techniques including clay modeling, stone carving, metal work, wood sculpture, and mixed media. Our curriculum is designed to expose students to various materials and methods.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How can I apply for micro-enterprise support?</p>
+                                        <p>Do I need to bring my own materials?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>You can apply through our website or visit our local office. The application process includes a business plan submission and an interview. We provide guidance throughout the process.</p>
+                                            <p>For most classes, basic materials are provided. For specialized courses, we provide a list of required materials. We also have a store on-site where you can purchase additional supplies if needed.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -312,31 +302,31 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-2" data-grp-name="faq-one-accrodion-2">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Are your programs free of cost?</p>
+                                        <p>Are the sculpture classes free?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Most of our skill development programs are offered free of charge. For micro-enterprise support, we provide low-interest loans and grants based on the applicant's business plan and needs.</p>
+                                            <p>We offer a mix of free and paid classes. Many of our introductory workshops are free for army families. Advanced classes and specialized workshops may have a fee, but we offer scholarships and discounts for those in need.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How long do your skill development programs typically last?</p>
+                                        <p>How long do the sculpture courses typically last?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>The duration varies depending on the program. Short courses may last a few weeks, while comprehensive programs can extend up to several months. We also offer flexible online courses.</p>
+                                            <p>Course duration varies. We offer one-day workshops, weekly classes that run for 6-8 weeks, and intensive courses that can last several months. We also have open studio hours for independent work.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Do you provide job placement assistance after training?</p>
+                                        <p>Can these classes lead to professional opportunities in sculpture?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Yes, we have partnerships with various employers and provide job placement assistance. We also offer career counseling and help with resume building and interview preparation.</p>
+                                            <p>Yes, we provide career guidance for those interested in pursuing sculpture professionally. This includes portfolio development, networking opportunities with galleries, and information on art fairs and competitions.</p>
                                         </div>
                                     </div>
                                 </div>

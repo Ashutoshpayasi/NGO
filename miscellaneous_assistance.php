@@ -104,14 +104,10 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="events-two__left">
                             <div class="section-title text-left">
-                                <h2 class="section-title__title">Together, we can make a meaningful impact - Volunteer
-                                    with us
+                                <h2 class="section-title__title">Comprehensive Support for Army Families - Miscellaneous Assistance
                                 </h2>
                             </div>
-                            <p class="events-two__text">At VeerNari Shakti, we believe that for lasting change to happen,
-                                people from our communities must be actively involved in development efforts. That's why
-                                we invite individuals to join us as volunteers and work towards our shared vision of
-                                helping children and their families.
+                            <p class="events-two__text">At VeerNari Shakti, we understand that the needs of army families are diverse and often unique. Our Miscellaneous Assistance program is designed to address a wide range of challenges and provide support where it's needed most. We're committed to ensuring that no army family is left behind, regardless of their specific circumstances.
                             </p>
                         </div>
                     </div>
@@ -123,24 +119,14 @@
                             <ul class="list-unstyled events-two__list">
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Volunteer
-                                                Opportunities</a></h3>
-                                        <p>Volunteers are very important to us because they not only believe in our
-                                            mission but also help spread awareness about it to others. So if you want to
-                                            make a difference and bring happiness to others, consider volunteering with
-                                            us at VeerNari Shakti!</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Flexible Support</a></h3>
+                                        <p>Our Miscellaneous Assistance program is adaptable to meet the unique needs of each family. Whether it's emergency financial aid, legal assistance, or help with daily life challenges, we're here to provide support tailored to individual situations.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Volunteer Application
-                                            </a></h3>
-                                        <p>We warmly welcome individuals who are interested in volunteering with Ek
-                                            Sahyog! If you want to be a part of our efforts to improve the lives of
-                                            children and families, please consider applying for our volunteer
-                                            application. We believe that your involvement and dedication will have a
-                                            positive impact on our community. Thank you for your interest in serving
-                                            with us!</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Holistic Approach</a></h3>
+                                        <p>We take a comprehensive view of family well-being. Our assistance goes beyond immediate needs to address long-term stability and resilience. We work closely with families to identify and tackle underlying issues, ensuring sustainable solutions.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -162,7 +148,7 @@
                                     <img src="assets/images/resources/about-two-img-3.png" alt="">
                                 </div>
                                 <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Help us today!</p>
+                                    <p class="about-two__left-title">Support our heroes!</p>
                                 </div>
                                 <div class="about-two__shape-1 zoominout">
                                     <img src="assets/images/shapes/about-two-shape-1.png" alt="">
@@ -179,29 +165,25 @@
                     <div class="col-xl-6">
                         <div class="about-two__right">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
-                                <h2 class="section-title__title">Why Volunteer with Eksahyog? </h2>
+                                <span class="section-title__tagline">Discover VeerNari Shakti's Impact</span>
+                                <h2 class="section-title__title">Why Our Miscellaneous Assistance Matters</h2>
                             </div>
-                            <p class="about-two__text-1">When you volunteer with Eksahyog, you become a part of a
-                                passionate community of like-minded individuals who are dedicated to creating positive
-                                change. You will have the opportunity to make a real difference in the lives of those
-                                who need it most, and your efforts will be recognized and valued by our organization and
-                                the communities we serve.
+                            <p class="about-two__text-1">Our Miscellaneous Assistance program plays a crucial role in supporting army families through various challenges. By providing flexible and comprehensive support, we help ensure that the sacrifices made by our servicemen and women don't result in hardship for their families. Our assistance can be the difference between struggle and stability for many army households.
                             </p>
                             <div class="about-two__progress">
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Charity</h3>
+                                    <h3 class="about-two__progress-title">Families Assisted</h3>
                                     <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="76%">
-                                            <div class="count-text">76%</div>
+                                        <div class="bar-inner count-bar" data-percent="82%">
+                                            <div class="count-text">82%</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Donations</h3>
+                                    <h3 class="about-two__progress-title">Positive Outcomes</h3>
                                     <div class="bar marb-0">
-                                        <div class="bar-inner count-bar" data-percent="86%">
-                                            <div class="count-text">86%</div>
+                                        <div class="bar-inner count-bar" data-percent="90%">
+                                            <div class="count-text">90%</div>
                                         </div>
                                     </div>
                                 </div>
@@ -217,12 +199,10 @@
                     <div class="col-xl-6">
                         <div class="about-two__right">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
-                                <h2 class="section-title__title">What You Can Expect as a Volunteer?</h2>
+                                <span class="section-title__tagline">Our Comprehensive Approach</span>
+                                <h2 class="section-title__title">How We Provide Miscellaneous Assistance</h2>
                             </div>
-                            <p class="about-two__text-1">At Eksahyog, we're committed to providing our volunteers with
-                                the support and resources they need to succeed. Here's what you can expect as a
-                                volunteer:
+                            <p class="about-two__text-1">Our Miscellaneous Assistance program is designed to be flexible and responsive to the diverse needs of army families. Here's how we approach providing support:
                             </p>
                             <ul class="list-unstyled about-two__points-2">
                                 <li>
@@ -230,11 +210,8 @@
                                         <span class="icon-target"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Training and orientation</h3>
-                                        <p>Our training and orientation program is designed to prepare volunteers for
-                                            their roles. We cover topics such as our organization's mission and values,
-                                            volunteer responsibilities, and project-specific training to ensure that our
-                                            volunteers feel confident and equipped to make a difference.
+                                        <h3>Needs Assessment</h3>
+                                        <p>We begin with a thorough assessment of each family's situation, identifying immediate needs and potential long-term challenges. This allows us to tailor our assistance effectively.
                                         </p>
                                     </div>
                                 </li>
@@ -243,19 +220,13 @@
                                         <span class="icon-solidarity-1"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Opportunities to connect with others</h3>
-                                        <p>We provide opportunities for our volunteers to connect with other volunteers
-                                            and members of our team. We believe that building relationships and
-                                            fostering a sense of community are essential to creating a positive and
-                                            rewarding volunteer experience.
+                                        <h3>Coordinated Support</h3>
+                                        <p>We coordinate with various service providers and resources to ensure comprehensive support. This may include financial advisors, legal experts, mental health professionals, and other specialists as needed.
                                         </p>
                                     </div>
                                 </li>
                             </ul>
-                            <p class="about-two__text-1">At Eksahyog, we welcome volunteers from all walks of life. Our
-                                volunteer program is open to anyone who shares our values of compassion, integrity, and
-                                social justice. No matter your age, background, or experience level, we have
-                                opportunities for you to get involved and make a difference.
+                            <p class="about-two__text-1">By taking a holistic approach to family well-being, we strive to create lasting positive change in the lives of army families. Our goal is not just to address immediate needs, but to foster long-term resilience and stability.
                             </p>
                         </div>
                     </div>
@@ -269,7 +240,7 @@
                                     <img src="assets/images/resources/about-two-img-4.png" alt="">
                                 </div>
                                 <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Help us today!</p>
+                                    <p class="about-two__left-title">We're here to help!</p>
                                 </div>
                                 <div class="about-two__shape-1-2 zoominout">
                                     <img src="assets/images/shapes/about-two-shape-1.png" alt="">
@@ -299,7 +270,7 @@
                                     <img src="assets/images/resources/about-two-img-3.png" alt="">
                                 </div>
                                 <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Help us today!</p>
+                                    <p class="about-two__left-title">Make a difference today!</p>
                                 </div>
                                 <div class="about-two__shape-1 zoominout">
                                     <img src="assets/images/shapes/about-two-shape-1.png" alt="">
@@ -316,28 +287,25 @@
                     <div class="col-xl-6">
                         <div class="about-two__right">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">Get to know about VeerNari Shakti</span>
-                                <h2 class="section-title__title">Be the voice of change</h2>
+                                <span class="section-title__tagline">Join VeerNari Shakti's Mission</span>
+                                <h2 class="section-title__title">Be Part of Our Support Network</h2>
                             </div>
-                            <p class="about-two__text-1">If you're passionate about making a positive impact on society
-                                and want to be the voice of change, VeerNari Shakti invites you to join our team of
-                                volunteers. Together, we can work towards building a more equitable and just society for
-                                all. Join us and become the voice of change today!
+                            <p class="about-two__text-1">Your support can make a significant difference in the lives of army families facing diverse challenges. By contributing to VeerNari Shakti's Miscellaneous Assistance program, you're helping to provide crucial support where it's needed most. Join us in honoring the service and sacrifice of our armed forces by ensuring their families have the support they need to thrive.
                             </p>
                             <div class="about-two__progress">
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Charity</h3>
+                                    <h3 class="about-two__progress-title">Community Impact</h3>
                                     <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="76%">
-                                            <div class="count-text">76%</div>
+                                        <div class="bar-inner count-bar" data-percent="88%">
+                                            <div class="count-text">88%</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Donations</h3>
+                                    <h3 class="about-two__progress-title">Supporter Satisfaction</h3>
                                     <div class="bar marb-0">
-                                        <div class="bar-inner count-bar" data-percent="86%">
-                                            <div class="count-text">86%</div>
+                                        <div class="bar-inner count-bar" data-percent="95%">
+                                            <div class="count-text">95%</div>
                                         </div>
                                     </div>
                                 </div>
@@ -424,79 +392,8 @@
         <!--Brand One End-->
 
         <!--Team One Start-->
-       
-        <section class="donate-now">
-            <div class="container">
-                <div class="row abcd">
-                    <div class="col-xl-8 col-lg-7">
-                        <div class="donate-now__left">
-                            <div class="donate-now__personal-info-box">
-                                <h3 class="donate-now__title">Become a Volunteer</h3>
-                                <form class="donate-now__personal-info-form">
-                                    <div class="row">
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="First name" name="name">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Last name" name="last-name">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="email" placeholder="Email address" name="email">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Occupation" name="occupation">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Date of Birth" name="date" id="datepicker">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Phone" name="phone">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <input type="text" placeholder="Address" name="Address">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6">
-                                            <div class="donate-now__personal-info-input">
-                                                <select class="selectpicker" aria-label="Default select example">
-                                                    <option selected>Location?</option>
-                                                    <option value="1">Delhi</option>
-                                                    <option value="2">Madhya Pradesh</option>
-                                                    <option value="3">Uttar Pradesh</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="donate-now__personal-info-input donate-now__personal-info-message-box">
-                                                <textarea name="message" placeholder="Write a message"></textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                            <div class="about-four__btn-box">
-                                <a href="#" class="thm-btn about-four__btn">Submit</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
+
         <!--Team One End-->
         <section class="faq-page" style="padding-top:50px;">
             <div class="container">
@@ -510,53 +407,25 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-1" data-grp-name="faq-one-accrodion-1">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Who can become a volunteer at VeerNari Shakti?</p>
+                                        <p>Who is eligible for miscellaneous assistance?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Anyone who is passionate about making a positive difference in the lives
-                                                of others can become a volunteer at VeerNari Shakti. There are no age, gender,
-                                                or educational qualifications required.</p>
+                                            <p>Miscellaneous assistance is available to current and former members of the armed forces, as well as their immediate family members.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>What kind of volunteer work can I do at VeerNari Shakti?</p>
+                                        <p>What types of assistance are available?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>VeerNari Shakti has various volunteering opportunities ranging from education,
-                                                health, women empowerment, poverty alleviation, emergency relief, and
-                                                more. You can choose to volunteer in any field that aligns with your
-                                                interests and skills.</p>
+                                            <p>We offer a variety of assistance including financial aid, legal support, educational scholarships, and mental health services.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
-                                <div class="accrodion active">
-                                    <div class="accrodion-title">
-                                        <p>How much time do I need to commit as a volunteer at VeerNari Shakti?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="">
-                                        <div class="inner">
-                                            <p>The time commitment varies depending on the volunteering opportunity you
-                                                choose. Some volunteering positions require a few hours a week, while
-                                                others require more time. We can help you find a position that fits your
-                                                schedule.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion last-chiled">
-                                    <div class="accrodion-title">
-                                        <p>Do I need any prior experience to become a volunteer at VeerNari Shakti?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="display: none;">
-                                        <div class="inner">
-                                            <p>No, prior experience is not necessary. However, if you have any relevant
-                                                skills or experience, it can be an added advantage.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
+                                <!-- Additional FAQs Here -->
                             </div>
                         </div>
                     </div>
@@ -565,54 +434,30 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-2" data-grp-name="faq-one-accrodion-2">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How do I apply to become a volunteer at VeerNari Shakti?</p>
+                                        <p>How do I apply for miscellaneous assistance?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>You can fill out the volunteer application form available on our website,
-                                                and our team will get in touch with you.</p>
+                                            <p>To apply, complete the online application form on our website. You will need to provide personal information, details about your service, and documentation supporting your request.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>What kind of training and support do volunteers receive at VeerNari Shakti?</p>
+                                        <p>What documents do I need to apply?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>We provide training and support to our volunteers to ensure they are
-                                                equipped with the necessary skills and knowledge to carry out their
-                                                tasks efficiently.</p>
+                                            <p>You will need to submit proof of service, identification documents, and any additional paperwork relevant to the type of assistance you are applying for.</p>
                                         </div><!-- /.inner -->
                                     </div>
                                 </div>
-                                <div class="accrodion active">
-                                    <div class="accrodion-title">
-                                        <p>Can I volunteer remotely for VeerNari Shakti?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="">
-                                        <div class="inner">
-                                            <p>Yes, there are remote volunteering opportunities available as well. You
-                                                can choose to volunteer from anywhere in the world.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion last-chiled">
-                                    <div class="accrodion-title">
-                                        <p>How can I benefit from volunteering at VeerNari Shakti?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="display: none;">
-                                        <div class="inner">
-                                            <p>Volunteering at VeerNari Shakti can help you develop new skills, meet new
-                                                people, gain valuable work experience, and most importantly, make a
-                                                positive impact in the lives of others.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
+                                <!-- Additional FAQs Here -->
                             </div>
                         </div>
                     </div>
                 </div>
+
             </div>
         </section>
         <!--Become Volunteer Start-->

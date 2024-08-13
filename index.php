@@ -92,7 +92,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                    <div class="image-layer-three" style="background-image: url(assets/images/logo/Veernari-Banner2.jpg);"></div>
+                    <div class="image-layer-three" style="background-image: url(assets/images/logo/Veernari-Banner.jpg);"></div>
                     <!-- /.image-layer -->
                     <div class="main-slider-three-color"></div>
                     <div class="container">
@@ -781,8 +781,8 @@
 
 
             <div class="gallery-four__item">
-                <img src="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" alt="oxpins" style="height: 360px;">
-                <a href="assets\images\soldiers\Lesson front banner_designer mistakes.jpeg" class="img-popup"></a>
+                <img src="assets\images\soldiers\banner Image 2022-07-11 at 11.42.26 AM.jpeg" alt="oxpins" style="height: 360px;">
+                <a href="assets\images\soldiers\banner Image 2022-07-11 at 11.42.26 AM.jpeg " class="img-popup"></a>
             </div>
             <div class="gallery-four__item">
                 <img src="assets\images\soldiers\1_ Ghat Banner Maj Vishnoi.jpeg" alt="oxpins" style="height: 360px;">

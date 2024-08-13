@@ -117,7 +117,7 @@
     </style>
     <h2 style="text-align: center;margin:30px;" class="section-title__title">Take the Pleadge</h2>
     <div class="message-container">
-        
+
         <div class="message-section english">
             <h2>Dear Soldier brother</h2>
             <p>I am proud to see you brave the odds on the modern-day war frontiers and have full faith in your courage, dedication and valour to do it successfully.
@@ -144,11 +144,15 @@
                 मैं आपके और आपके परिवार के साथ खड़ा रहूँगा। और मैं जानता हूँ कि आप अजेय हैं, लेकिन यदि दुर्भाग्यवश हम आपको वीरगति में खो देते हैं, तो मैं आपको यह जानकर आश्वस्त करना चाहता हूँ कि मैं
                 आपके साथ हूँ, और आपका परिवार मेरा परिवार जैसा ही है। मैं सुनिश्चित करूँगा कि मैं हमेशा अपने सैनिक और उनके परिवार के साथ खड़ा रहूँ और रहूंगा।
 
-                <br><span style="color: black;">आपके साथ सदैव,</span></p>
+                <br><span style="color: black;">आपके साथ सदैव,</span>
+            </p>
             <!-- Continue with the rest of the Hindi message -->
         </div>
     </div>
 
+
+
+    
 
 
     <!--Contact Three Start-->

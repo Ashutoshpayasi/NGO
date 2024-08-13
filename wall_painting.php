@@ -8,7 +8,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Sustainable Livelihood || VeerNari Shakti </title>
+    <title> Wall Painting || VeerNari Shakti </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -92,9 +92,9 @@
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
-                        <li class="active">Sustainable Livelihood</li>
+                        <li class="active">Wall Painting </li>
                     </ul>
-                    <h1 style="color:white;">Sustainable Livelihood for Army Families</h1>
+                    <h1 style="color:white;">Wall Painting Arts for Army Families</h1>
                 </div>
             </div>
         </section>
@@ -110,11 +110,9 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="events-two__left">
                             <div class="section-title text-left">
-                                <h2 class="section-title__title">Empowering Army Families Through Sustainable Livelihoods
-                                </h2>
+                                <h2 class="section-title__title">Transform Your Space with Wall Painting Services</h2>
                             </div>
-                            <p class="events-two__text">At VeerNari Shakti, we believe in providing long-term support to army families by creating sustainable livelihood opportunities. Our programs are designed to empower army spouses, veterans, and their children with skills and resources needed for financial independence and security.
-                            </p>
+                            <p class="events-two__text">At VeerNari Shakti, we offer professional wall painting services aimed at beautifying homes and community spaces. Whether you're looking to refresh your interior or add artistic murals, our team is dedicated to creating vibrant, meaningful designs.</p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6">
@@ -125,14 +123,14 @@
                             <ul class="list-unstyled events-two__list">
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Skill Development Programs</a></h3>
-                                        <p>We offer a wide range of skill development programs tailored to the needs of army families. These include vocational training, entrepreneurship workshops, and digital literacy courses to enhance employability and foster self-reliance.</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Custom Wall Murals</a></h3>
+                                        <p>Create personalized murals that tell stories and inspire communities. Our artists collaborate closely with clients to bring visions to life.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="events-two__content">
-                                        <h3 class="events-two__title"><a href="event-details.php">Micro-Enterprise Support</a></h3>
-                                        <p>Our micro-enterprise support initiative provides guidance, resources, and micro-loans to help army spouses and veterans start and grow their own businesses, creating sustainable income sources for their families.</p>
+                                        <h3 class="events-two__title"><a href="event-details.php">Interior Painting</a></h3>
+                                        <p>Transform interiors with professional painting services. From color consultations to flawless execution, we enhance spaces with quality craftsmanship.</p>
                                     </div>
                                 </li>
                             </ul>
@@ -149,13 +147,10 @@
                         <div class="about-two__left">
                             <div class="about-two__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-two__img">
-                                    <img src="assets/images/resources/become-volunteer-three.png" alt="Skill Training">
-                                </div>
-                                <div class="about-two__img-two">
-                                    <img src="assets/images/resources/about-5-feature-1.jpg" alt="Entrepreneurship Support">
+                                    <img src="assets/images/resources/become-volunteer-three.png" alt="Wall Painting Services">
                                 </div>
                                 <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Empower Today!</p>
+                                    <p class="about-two__left-title">Artistry at Your Doorstep!</p>
                                 </div>
                                 <div class="about-two__shape-1 zoominout">
                                     <img src="assets/images/shapes/about-two-shape-1.png" alt="">
@@ -172,25 +167,24 @@
                     <div class="col-xl-6">
                         <div class="about-two__right">
                             <div class="section-title text-left">
-                                <span class="section-title__tagline">Our Impact</span>
-                                <h2 class="section-title__title">Creating Lasting Change for Army Families</h2>
+                                <span class="section-title__tagline">Our Commitment</span>
+                                <h2 class="section-title__title">Enhancing Spaces Through Art</h2>
                             </div>
-                            <p class="about-two__text-1">Through our sustainable livelihood initiatives, we've empowered countless army families to achieve financial independence and build a secure future. Our programs have led to increased household incomes, improved quality of life, and enhanced resilience in army communities.
-                            </p>
+                            <p class="about-two__text-1">With our wall painting services, we aim to bring creativity and color to every corner. From community projects to individual homes, we strive to uplift environments and foster a sense of pride and belonging.</p>
                             <div class="about-two__progress">
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Families Supported</h3>
+                                    <h3 class="about-two__progress-title">Projects Completed</h3>
                                     <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="76%">
-                                            <div class="count-text">76%</div>
+                                        <div class="bar-inner count-bar" data-percent="75%">
+                                            <div class="count-text">75%</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="about-two__progress-single">
-                                    <h3 class="about-two__progress-title">Increase in Household Income</h3>
+                                    <h3 class="about-two__progress-title">Customer Satisfaction</h3>
                                     <div class="bar marb-0">
-                                        <div class="bar-inner count-bar" data-percent="86%">
-                                            <div class="count-text">86%</div>
+                                        <div class="bar-inner count-bar" data-percent="88%">
+                                            <div class="count-text">88%</div>
                                         </div>
                                     </div>
                                 </div>
@@ -201,6 +195,7 @@
             </div>
         </section>
 
+
         <section class="about-two" id="about" style="padding-top:90px;">
             <div class="container">
                 <div class="row">
@@ -208,45 +203,40 @@
                         <div class="about-two__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Our Approach</span>
-                                <h2 class="section-title__title">Holistic Support for Sustainable Livelihoods</h2>
+                                <h2 class="section-title__title">Artistic Empowerment through Wall Painting</h2>
                             </div>
-                            <p class="about-two__text-1">Our approach to creating sustainable livelihoods for army families is comprehensive and tailored to their unique needs. We focus on:
-                            </p>
+                            <p class="about-two__text-1">Our wall painting initiative is designed to empower army families by harnessing their artistic talents. Our approach includes:</p>
                             <ul class="list-unstyled about-two__points-2">
                                 <li>
                                     <div class="icon">
-                                        <span class="icon-target"></span>
+                                        <span class="icon-brush"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Skills Assessment and Training</h3>
-                                        <p>We assess individual skills and interests to provide targeted training that aligns with market demands and personal aspirations.
-                                        </p>
+                                        <h3>Artistic Skills Training</h3>
+                                        <p>We provide training in various wall painting techniques, helping participants develop their artistic skills and express their creativity.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon" style="margin-left: 0px;">
-                                        <span class="icon-solidarity-1"></span>
+                                        <span class="icon-canvas"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Mentorship and Networking</h3>
-                                        <p>We connect army family members with mentors and facilitate networking opportunities to support their professional growth and business ventures.
-                                        </p>
+                                        <h3>Community Projects</h3>
+                                        <p>Participants engage in community wall painting projects, beautifying public spaces and creating a sense of pride and ownership.</p>
                                     </div>
                                 </li>
                             </ul>
-                            <p class="about-two__text-1">By combining skill development, financial support, and mentorship, we ensure that army families have the tools and resources they need to build sustainable livelihoods and secure futures.
-                            </p>
+                            <p class="about-two__text-1">By offering artistic training and opportunities for community engagement, we aim to foster creativity and improve the quality of life for army families.</p>
                         </div>
                     </div>
                     <div class="col-xl-6">
                         <div class="about-two__left">
                             <div class="about-two__img-box-2 wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-two__img">
-                                    <img src="assets/images/resources/about-6-1.jpg" alt="Mentorship Program">
+                                    <img src="assets/images/resources/about-6-1.jpg" alt="Wall Painting Program">
                                 </div>
-                               
                                 <div class="about-two__left-title-box">
-                                    <p class="about-two__left-title">Support Our Cause!</p>
+                                    <p class="about-two__left-title">Support Our Artistic Initiatives!</p>
                                 </div>
                                 <div class="about-two__shape-1-2 zoominout">
                                     <img src="assets/images/shapes/about-two-shape-1.png" alt="">
@@ -268,7 +258,7 @@
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Frequently Asked Questions</span>
-                    <h3 class="section-title__title">Common Questions About Our Sustainable Livelihood Programs</h3>
+                    <h3 class="section-title__title">Common Questions About Our Wall Painting Program</h3>
                 </div>
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
@@ -276,31 +266,31 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-1" data-grp-name="faq-one-accrodion-1">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Who is eligible for VeerNari Shakti's sustainable livelihood programs?</p>
+                                        <p>Who can participate in the wall painting program?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Our programs are open to army spouses, veterans, and their adult children. We aim to support all members of army families in building sustainable livelihoods.</p>
+                                            <p>Our wall painting program is open to army spouses, veterans, and their adult children. We welcome anyone with a passion for art and community service.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>What types of skill development programs do you offer?</p>
+                                        <p>What kind of training do you provide?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>We offer a wide range of programs including vocational training, digital skills, entrepreneurship, financial literacy, and more. Our programs are regularly updated to match market demands.</p>
+                                            <p>We offer training in various painting techniques, color theory, and mural design. Our experienced instructors guide participants through every step of the process.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How can I apply for micro-enterprise support?</p>
+                                        <p>How can I get involved in community projects?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>You can apply through our website or visit our local office. The application process includes a business plan submission and an interview. We provide guidance throughout the process.</p>
+                                            <p>You can join our community painting projects by signing up on our website or visiting our local office. We regularly update our project schedule and welcome volunteers.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -312,31 +302,31 @@
                             <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-2" data-grp-name="faq-one-accrodion-2">
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Are your programs free of cost?</p>
+                                        <p>Do I need any prior experience to join?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Most of our skill development programs are offered free of charge. For micro-enterprise support, we provide low-interest loans and grants based on the applicant's business plan and needs.</p>
+                                            <p>No prior experience is necessary. Our program is designed to cater to all skill levels, from beginners to advanced artists.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>How long do your skill development programs typically last?</p>
+                                        <p>Are there any costs involved?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>The duration varies depending on the program. Short courses may last a few weeks, while comprehensive programs can extend up to several months. We also offer flexible online courses.</p>
+                                            <p>Our training programs and community projects are free of charge. We provide all necessary materials and supplies for participants.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <p>Do you provide job placement assistance after training?</p>
+                                        <p>How can I support the wall painting program?</p>
                                     </div>
                                     <div class="accrodion-content" style="display: none;">
                                         <div class="inner">
-                                            <p>Yes, we have partnerships with various employers and provide job placement assistance. We also offer career counseling and help with resume building and interview preparation.</p>
+                                            <p>You can support our program by donating, volunteering, or spreading the word. Visit our website for more information on how to get involved.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -346,6 +336,7 @@
                 </div>
             </div>
         </section>
+
 
         <!--Become Volunteer Start-->
         <!--Become Volunteer Start-->

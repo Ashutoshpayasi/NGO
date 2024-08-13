@@ -97,13 +97,13 @@
                                 <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Education & <br> healthy
-                                                food</a></p>
+                                        <h1 style="color:#FFA800;">Sputnik Specials</h1>
+                                        <p class="feature-two__title"><a href="https://sputniknews.in/sputnik-specials/" target="__blank">
+                                                Ordinary people from India & abroad share their feelings & aspirations with Sputnik.
+
+                                            </a></p>
                                     </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-apple"></span>
-                                    </div>
+
                                 </div>
                             </div>
                             <div class="feature-two__arrow">
@@ -119,12 +119,10 @@
                                 <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Medical & <br>
-                                                treatment</a></p>
-                                    </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-health-insurance"></span>
+                                        <p class="feature-two__tagline">Veer Nari Shakti</p>
+                                        <p class="feature-two__title"><a href="https://veernari.org/">VSRF is an NGO that has been working solely for the welfare of the
+                                                veer naris of our martyred soldiers.
+                                            </a></p>
                                     </div>
                                 </div>
                             </div>
@@ -141,13 +139,10 @@
                                 <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Bring people <br>
-                                                together</a></p>
+                                        <p class="feature-two__tagline">English Speaking</p>
+                                        <p class="feature-two__title"><a href="http://veernarishakti.in/Default.aspx?cl=85&center=179">Educational institutions can lean on us to implement customized, white-labeled educational ecosystem to deliver learning.</a></p>
                                     </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-business-partnership"></span>
-                                    </div>
+
                                 </div>
                             </div>
                             <div class="feature-two__arrow">
@@ -169,13 +164,10 @@
                                 <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Education & <br> healthy
-                                                food</a></p>
+                                        <p class="feature-two__tagline">Martyr Widows of Soldiers</p>
+                                        <p class="feature-two__title"><a href="https://www.youtube.com/watch?v=5txakPs0sTg&feature=youtu.be">I am honored to present a stirring video crafted by the courageous Veernaris from our Indian Armed Forces.</a></p>
                                     </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-apple"></span>
-                                    </div>
+                                   
                                 </div>
                             </div>
                             <div class="feature-two__arrow">
@@ -192,8 +184,7 @@
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
                                         <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Medical & <br>
-                                                treatment</a></p>
+                                        <p class="feature-two__title"><a href="https://www.youtube.com/watch?v=cmBWdwqKqYs">Martyr Widows and their expectations from each fellow citizens</a></p>
                                     </div>
                                     <div class="feature-two__icon">
                                         <span class="icon-health-insurance"></span>
@@ -213,13 +204,10 @@
                                 <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Bring people <br>
-                                                together</a></p>
+                                        <p class="feature-two__tagline">Rajya Sainik Board</p>
+                                        <p class="feature-two__title"><a href="https://rsb.delhi.gov.in/rsb/veer-nari-shakti-resettlement-foundation-welfare-scheme">The Rajya Sainik Board, Delhi has been established to promote welfare and  resettlement of ex-servicemen, war widows disabled ex-servicemen.</a></p>
                                     </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-business-partnership"></span>
-                                    </div>
+                                   
                                 </div>
                             </div>
                             <div class="feature-two__arrow">
@@ -241,13 +229,10 @@
                                 <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
                                 <div class="feature-two__content-box">
                                     <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Education & <br> healthy
-                                                food</a></p>
+                                        <p class="feature-two__tagline">District Rudraprayag</p>
+                                        <p class="feature-two__title"><a href="https://rudraprayag.gov.in/notice/lakshya-defense-training-camp-2/">“LAKSHYA” VEERNARI SHAKTI DEFENCE RECRUITMENT TRAINING AWARENESS CAMPS</a></p>
                                     </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-apple"></span>
-                                    </div>
+                                   
                                 </div>
                             </div>
                             <div class="feature-two__arrow">
@@ -257,54 +242,13 @@
                     </div>
                     <!--Feature Two Single End-->
                     <!--Feature Two Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="feature-two__single">
-                            <div class="feature-two__single-inner">
-                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
-                                <div class="feature-two__content-box">
-                                    <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Medical & <br>
-                                                treatment</a></p>
-                                    </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-health-insurance"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="feature-two__arrow">
-                                <a href="#"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Feature Two Single End-->
-                    <!--Feature Two Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="feature-two__single">
-                            <div class="feature-two__single-inner">
-                                <div class="feature-two-shape-1" style="background-image: url(assets/images/shapes/feature-two-shape-1.png);"></div>
-                                <div class="feature-two__content-box">
-                                    <div class="feature-two__content-left">
-                                        <p class="feature-two__tagline">Donate to</p>
-                                        <p class="feature-two__title"><a href="#">Bring people <br>
-                                                together</a></p>
-                                    </div>
-                                    <div class="feature-two__icon">
-                                        <span class="icon-business-partnership"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="feature-two__arrow">
-                                <a href="#"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
+                   
                     <!--Feature Two Single End-->
                 </div>
             </div>
         </section>
         <!--Feature Two End-->
-        
+
 
 
         <!--Brand One Start-->
@@ -382,129 +326,7 @@
             </div>
         </section>
         <!--Brand One End-->
-        <section class="faq-page">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">Do you need help?</span>
-                    <h3 class="section-title__title">We answers to all your <br> daily questions</h3>
-                </div>
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="faq-page__single">
-                            <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-1" data-grp-name="faq-one-accrodion-1">
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <p>What kind of educational programs does VeerNari Shakti offer?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="display: none;">
-                                        <div class="inner">
-                                            <p>VeerNari Shakti offers various educational programs for children and women,
-                                                including basic literacy programs, vocational training, and career
-                                                counseling.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <p>How can I enroll in VeerNari Shakti's educational programs?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="display: none;">
-                                        <div class="inner">
-                                            <p>You can contact VeerNari Shakti through our website or visit our office to
-                                                inquire about our educational programs and the enrollment process.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion active">
-                                    <div class="accrodion-title">
-                                        <p>Is there any fee for enrolling in VeerNari Shakti's educational programs?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="">
-                                        <div class="inner">
-                                            <p>No, VeerNari Shakti does not charge any fee for our educational programs.
-                                                We are a welfare trust dedicated to providing education to
-                                                underprivileged communities.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion last-chiled">
-                                    <div class="accrodion-title">
-                                        <p>Does VeerNari Shakti provide scholarships or financial aid to students?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="display: none;">
-                                        <div class="inner">
-                                            <p>Yes, VeerNari Shakti provides scholarships and financial aid to deserving
-                                                students who are unable to afford the cost of education.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="faq-page__single">
-                            <div class="accrodion-grp faq-one-accrodion faq-one-accrodion-2" data-grp-name="faq-one-accrodion-2">
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <p>How can I volunteer to teach or mentor students in VeerNari Shakti's educational
-                                            programs?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="display: none;">
-                                        <div class="inner">
-                                            <p>You can contact VeerNari Shakti to inquire about volunteer opportunities for
-                                                teaching or mentoring students in our educational programs. We
-                                                welcome volunteers who are passionate about education and willing to
-                                                make a difference in the lives of underprivileged children and women.
-                                            </p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion">
-                                    <div class="accrodion-title">
-                                        <p>Can anyone apply for the education programs offered by VeerNari Shakti?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="display: none;">
-                                        <div class="inner">
-                                            <p>Yes, anyone who meets the eligibility criteria can apply for our
-                                                education programs. We strive to provide equal education opportunities
-                                                to all.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion active">
-                                    <div class="accrodion-title">
-                                        <p>What subjects are covered in the education programs offered by VeerNari Shakti?
-                                        </p>
-                                    </div>
-                                    <div class="accrodion-content" style="">
-                                        <div class="inner">
-                                            <p>Our education programs cover a wide range of subjects, including but not
-                                                limited to math, science, social studies, language, and computer
-                                                literacy.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                                <div class="accrodion last-chiled">
-                                    <div class="accrodion-title">
-                                        <p>How are the education programs of VeerNari Shakti different from other
-                                            organizations?</p>
-                                    </div>
-                                    <div class="accrodion-content" style="display: none;">
-                                        <div class="inner">
-                                            <p>At VeerNari Shakti, we believe in providing holistic education that focuses on
-                                                the overall development of an individual. Our programs not only cover
-                                                academic subjects but also include skill development, personality
-                                                development, and value-based education. We also offer personalized
-                                                attention to each student to ensure their success.</p>
-                                        </div><!-- /.inner -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+       
         <!--Become Volunteer Start-->
         <section class="become-volunteer">
             <div class="container">

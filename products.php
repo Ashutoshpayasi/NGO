@@ -3,7 +3,9 @@
 
 
 <!-- Mirrored from pixydrops.com/oxpinshtml/main-html/products.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jun 2024 06:59:08 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -20,12 +22,9 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 
@@ -72,12 +71,12 @@
 
 
     <div class="page-wrapper">
-        
-      <?php include 'includes/header.php'?>
+
+        <?php include 'includes/header.php' ?>
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="page-header-bg" style="background-image: url()">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -96,297 +95,184 @@
         <section class="product">
             <div class="container">
                 <div class="row">
-                    
+
                     <div class="col-xl-12 col-lg-12">
                         <div class="product__items">
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="product__showing-result">
-                                        
-                                      
+
+
                                     </div>
                                 </div>
                             </div>
                             <div class="product__all">
                                 <div class="row">
                                     <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-1.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
+                                    <div class="row">
+                                        <div class="col-xl-4 col-lg-4 col-md-6">
+                                            <div class="product__all-single">
+                                                <div class="product__all-single-inner">
+                                                    <div class="product__all-img" style="height: 350px; overflow: hidden;">
+                                                        <a href="assets/images/products/shoes.jpg" class="img-popup">
+                                                            <img src="assets/images/products/shoes.jpg" alt="Shoes" style="width: 100%; height: 100%; object-fit: cover;">
+                                                        </a>
                                                     </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Boss
-                                                            chair</a></h4>
-                                                    <p class="product__all-price">Rs33.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
+                                                    <div class="product__all-content">
+                                                        <div class="product__all-review">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                        </div>
+                                                        <h4 class="product__all-title"><a href="#">Shoes</a></h4>
+                                                        <p class="product__all-price">Rs33.00</p>
+                                                    </div>
+                                                    <div class="products__all-icon-boxes">
+                                                        <a href="#"><i class="far fa-heart"></i></a>
+                                                        <a href="#"><i class="fas fa-eye"></i></a>
                                                     </div>
                                                 </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6">
+                                            <div class="product__all-single">
+                                                <div class="product__all-single-inner">
+                                                    <div class="product__all-img" style="height: 350px; overflow: hidden;">
+                                                        <a href="assets/images/products/jackpack.jpeg" class="img-popup">
+                                                            <img src="assets/images/products/jackpack.jpeg" alt="Jackpack" style="width: 100%; height: 100%; object-fit: cover;">
+                                                        </a>
+                                                    </div>
+                                                    <div class="product__all-content">
+                                                        <div class="product__all-review">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                        </div>
+                                                        <h4 class="product__all-title"><a href="#">Jackpack</a></h4>
+                                                        <p class="product__all-price">Rs220.00</p>
+                                                    </div>
+                                                    <div class="products__all-icon-boxes">
+                                                        <a href="#"><i class="far fa-heart"></i></a>
+                                                        <a href="#"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6">
+                                            <div class="product__all-single">
+                                                <div class="product__all-single-inner">
+                                                    <div class="product__all-img" style="height: 350px; overflow: hidden;">
+                                                        <a href="assets/images/products/Khakhra 1.png" class="img-popup">
+                                                            <img src="assets/images/products/Khakhra 1.png" alt="Khakhra 1" style="width: 100%; height: 100%; object-fit: cover;">
+                                                        </a>
+                                                    </div>
+                                                    <div class="product__all-content">
+                                                        <div class="product__all-review">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                        </div>
+                                                        <h4 class="product__all-title"><a href="#">Wheat Khakhra </a></h4>
+                                                        <p class="product__all-price">Rs80.00</p>
+                                                    </div>
+                                                    <div class="products__all-icon-boxes">
+                                                        <a href="#"><i class="far fa-heart"></i></a>
+                                                        <a href="#"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6">
+                                            <div class="product__all-single">
+                                                <div class="product__all-single-inner">
+                                                    <div class="product__all-img" style="height: 350px; overflow: hidden;">
+                                                        <a href="assets/images/products/Khakhra 2.png" class="img-popup">
+                                                            <img src="assets/images/products/Khakhra 2.png" alt="Khakhra 2" style="width: 100%; height: 100%; object-fit: cover;">
+                                                        </a>
+                                                    </div>
+                                                    <div class="product__all-content">
+                                                        <div class="product__all-review">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                        </div>
+                                                        <h4 class="product__all-title"><a href="#">Cheese Khakhra </a></h4>
+                                                        <p class="product__all-price">Rs80.00</p>
+                                                    </div>
+                                                    <div class="products__all-icon-boxes">
+                                                        <a href="#"><i class="far fa-heart"></i></a>
+                                                        <a href="#"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6">
+                                            <div class="product__all-single">
+                                                <div class="product__all-single-inner">
+                                                    <div class="product__all-img" style="height: 350px; overflow: hidden;">
+                                                        <a href="assets/images/products/raagi Laddo.jpeg" class="img-popup">
+                                                            <img src="assets/images/products/raagi Laddo.jpeg" alt="Raagi Laddo" style="width: 100%; height: 100%; object-fit: cover;">
+                                                        </a>
+                                                    </div>
+                                                    <div class="product__all-content">
+                                                        <div class="product__all-review">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                        </div>
+                                                        <h4 class="product__all-title"><a href="#">Raagi Laddo</a></h4>
+                                                        <p class="product__all-price">Rs20.00</p>
+                                                    </div>
+                                                    <div class="products__all-icon-boxes">
+                                                        <a href="#"><i class="far fa-heart"></i></a>
+                                                        <a href="#"><i class="fas fa-eye"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-4 col-lg-4 col-md-6">
+                                            <div class="product__all-single">
+                                                <div class="product__all-single-inner">
+                                                    <div class="product__all-img" style="height: 350px; overflow: hidden;">
+                                                        <a href="assets/images/products/shakti masala.jpeg" class="img-popup">
+                                                            <img src="assets/images/products/shakti masala.jpeg" alt="Shakti Masala" style="width: 100%; height: 100%; object-fit: cover;">
+
+                                                        </a>
+
+                                                    </div>
+
+                                                    <div class="product__all-content">
+                                                        <div class="product__all-review">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                        </div>
+                                                        <h4 class="product__all-title"><a href="#">Shakti Masala</a></h4>
+                                                        <p class="product__all-price">Rs100.00</p>
+                                                    </div>
+                                                    <div class="products__all-icon-boxes">
+                                                        <a href="#"><i class="far fa-heart"></i></a>
+                                                        <a href="#"><i class="fas fa-eye"></i></a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <!--Product All Single End-->
                                     <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-2.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Sofa
-                                                            chair</a></h4>
-                                                    <p class="product__all-price">Rs22.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
-                                                    </div>
-                                                </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Product All Single End-->
-                                    <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-3.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Comfy
-                                                            chair</a></h4>
-                                                    <p class="product__all-price">Rs16.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
-                                                    </div>
-                                                </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Product All Single End-->
-                                    <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-4.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Classy
-                                                            chair</a></h4>
-                                                    <p class="product__all-price">Rs9.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
-                                                    </div>
-                                                </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Product All Single End-->
-                                    <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-5.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Round
-                                                            chair</a></h4>
-                                                    <p class="product__all-price">Rs23.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
-                                                    </div>
-                                                </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Product All Single End-->
-                                    <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-6.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Wooden
-                                                            stool</a></h4>
-                                                    <p class="product__all-price">Rs10.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
-                                                    </div>
-                                                </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Product All Single End-->
-                                    <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-7.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Big
-                                                            stool</a></h4>
-                                                    <p class="product__all-price">Rs17.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
-                                                    </div>
-                                                </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Product All Single End-->
-                                    <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-8.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Big
-                                                            sofa</a></h4>
-                                                    <p class="product__all-price">Rs23.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
-                                                    </div>
-                                                </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Product All Single End-->
-                                    <!--Product All Single Start-->
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="product__all-single">
-                                            <div class="product__all-single-inner">
-                                                <div class="product__all-img">
-                                                    <img src="assets/images/shop/shop-product-1-9.jpg" alt="">
-                                                </div>
-                                                <div class="product__all-content">
-                                                    <div class="product__all-review">
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                        <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <h4 class="product__all-title"><a href="product-details.php">Round
-                                                            chair</a></h4>
-                                                    <p class="product__all-price">Rs8.00</p>
-                                                    <div class="product__all-btn-box">
-                                                        <a href="#" class="thm-btn product__all-btn">Add to
-                                                            cart</a>
-                                                    </div>
-                                                </div>
-                                                <div class="products__all-icon-boxes">
-                                                    <a href="#"><i class="far fa-heart"></i></a>
-                                                    <a href="#"><i class="fas fa-eye"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+
                                     <!--Product All Single End-->
                                 </div>
                             </div>
@@ -399,13 +285,13 @@
 
 
         <!--Site Footer Start-->
-      <?php include 'includes/footer.php'?>
+        <?php include 'includes/footer.php' ?>
         <!--Site Footer End-->
 
 
     </div><!-- /.page-wrapper -->
 
-    
+
     <div class="mobile-nav__wrapper">
         <div class="mobile-nav__overlay mobile-nav__toggler"></div>
         <!-- /.mobile-nav__overlay -->
@@ -501,4 +387,5 @@
 
 
 <!-- Mirrored from pixydrops.com/oxpinshtml/main-html/products.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jun 2024 06:59:19 GMT -->
+
 </html>

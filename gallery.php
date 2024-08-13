@@ -235,7 +235,7 @@
                     <div class="gallery-page__single">
                         <div class="gallery-page__img">
                             <img src="assets\images\soldiers\banner_Major Mustafa_23 Oct_2022  (2).jpeg" alt="">
-                            <a href="assets\images\soldiers\banner_Major Mustafa_23 Oct_2022  (2).jpeg" class="img-popup"></a>
+                            <a href="assets\images\soldiers\banner_Major Mustafa_23 Oct_2022  (2).jpeg" ></a>
                             <!-- /.img-popup -->
                             <span class="zoom-icon">+</span> 
 
